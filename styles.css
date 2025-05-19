@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    font-family: 'Audiowide', 'Segoe UI', Arial, sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    text-align: center;
+}
+
+.hero {
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #111;
+    overflow: hidden;
+}
+
+.hero-image {
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.hero-title, .hero-subtitle {
+    position: relative;
+    z-index: 2;
+    font-family: 'Orbitron', 'Audiowide', 'Segoe UI', Arial, sans-serif;
+}
+
+.hero-title {
+    font-size: 3rem;
+    margin: 0.5em 0 0.2em 0;
+    letter-spacing: 2px;
+    font-family: 'Orbitron', 'Segoe UI', Arial, sans-serif;
+    text-shadow:
+        -2px -2px 0 #000,
+         2px -2px 0 #000,
+        -2px  2px 0 #000,
+         2px  2px 0 #000,
+         0px  2px 0 #000,
+         2px  0px 0 #000,
+         0px -2px 0 #000,
+        -2px  0px 0 #000;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 1em;
+    margin-top: 10em;
+}
+
+.main-content {
+    margin-top: 2em;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+
+.btn {
+    background: #1976d2;
+    color: #fff;
+    padding: 1em 2em;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: background 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.btn:hover {
+    background: #1565c0;
+}
+
+.hero {
+    position: relative;
+    overflow: hidden;
+    height: 60vh;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #111;
+}
+.hero-bg-video {
+    position: absolute;
+    top: -20%; 
+    left: 0;
+    width: 100%; 
+    height: 140%;
+    pointer-events: none;
+    z-index: 1;
+}
+.hero-content {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+}
