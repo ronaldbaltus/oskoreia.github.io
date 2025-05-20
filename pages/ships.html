@@ -1,0 +1,96 @@
+---
+layout: default
+title: Oskoreia - All ships
+permalink: /ships/
+---
+<link rel="stylesheet" href="/assets/styles/ships.css" />
+{% include link-bar.html %}
+
+<h2 class="ships-title">All Ships</h2>
+
+<div style="text-align:center; margin-bottom:1.5em;">
+  <input id="ship-search" type="text" placeholder="Search ships..." style="padding:0.5em; width:250px; border-radius:6px; border:1px solid #888;">
+</div>
+
+<div class="ship-grid-container">
+  <div class="ship-grid-header">
+    <div>Avatar</div>
+    <div>Manufacturer</div>
+    <div>Name</div>
+    <div>Link</div>
+  </div>
+  <div class="ship-grid-body" id="ship-grid-body">
+    <!-- JS will render rows here -->
+  </div>
+</div>
+
+<script>
+  const ships = [
+    {% for ship in site.data.ships.data %}
+      {% if ship.name != null %}
+      {
+        name: {{ ship.name | jsonify }},
+        url: {{ ship.url | jsonify }},
+        avatar: {% if ship.media and ship.media[0].images.avatar %}{{ ship.media[0].images.avatar | jsonify }}{% else %}null{% endif %},
+        manufacturer: {% if ship.manufacturer and ship.manufacturer.name %}{{ ship.manufacturer.name | jsonify }}{% else %}null{% endif %}
+      }{% unless forloop.last %},{% endunless %}
+
+      {% endif %}
+    {% endfor %}
+  ];
+
+  // Sort ships by manufacturer, then by name
+  ships.sort((a, b) => {
+    const manA = (a.manufacturer || '').toLowerCase();
+    const manB = (b.manufacturer || '').toLowerCase();
+    if (manA < manB) return -1;
+    if (manA > manB) return 1;
+    // If manufacturers are equal, sort by name
+    const nameA = (a.name || '').toLowerCase();
+    const nameB = (b.name || '').toLowerCase();
+    if (nameA < nameB) return -1;
+    if (nameA > nameB) return 1;
+    return 0;
+  });
+
+  function renderShips(shipList) {
+    const grid = document.getElementById('ship-grid-body');
+    grid.innerHTML = '';
+    if (shipList.length === 0) {
+      grid.innerHTML = '<div style="grid-column: 1 / -1; text-align:center; color:#888; padding:2em;">No ships found.</div>';
+      return;
+    }
+    shipList.forEach(ship => {
+      const row = document.createElement('div');
+      row.className = 'ship-grid-row';
+      row.innerHTML = `
+        <div>
+          ${ship.avatar ? `<img src="${ship.avatar}" alt="${ship.name} avatar" class="ship-avatar">` : `<div class="ship-avatar ship-avatar-placeholder"></div>`}
+        </div>
+        <div>
+          ${ship.manufacturer ? ship.manufacturer : `<span class="ship-manufacturer-unknown">Unknown</span>`}
+        </div>
+        <div>
+          ${ship.name}
+        </div>
+        <div>
+          ${ship.url ? `<a href="https://www.robertsspaceindustries.com${ship.url}" target="_blank" class="ship-link-btn">View</a>` : `<span class="ship-link-na">N/A</span>`}
+        </div>
+      `;
+      grid.appendChild(row);
+    });
+  }
+
+  // Initial render
+  renderShips(ships);
+
+  // Filter on input
+  document.getElementById('ship-search').addEventListener('input', function() {
+    const query = this.value.trim().toLowerCase();
+    const filtered = ships.filter(ship =>
+      (ship.name && ship.name.toLowerCase().includes(query)) ||
+      (ship.manufacturer && ship.manufacturer.toLowerCase().includes(query))
+    );
+    renderShips(filtered);
+  });
+</script>

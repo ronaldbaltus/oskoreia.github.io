@@ -1,0 +1,35 @@
+---
+layout: default
+title: Oskoreia Members
+permalink: /members/
+rankOrder: 
+  - High Admiral
+  - Admiral
+  - Commander
+  - Corporal
+  - Lieutenant
+  - Ensign
+---
+<link rel="stylesheet" href="/assets/styles/members.css" />
+
+<!-- For some reason the high admial is missing -->
+{% assign members = site.data.organization_members.data | concat: site.data.organization_founder  %}
+
+{% include link-bar.html %}
+
+<div class="org-members">
+  <h2>Oskoreia members</h2>
+  {% for rank in page.rankOrder %}
+    <h3>{{ rank }}</h3>
+    {% assign group = members | where: "rank", rank %}
+    <div class="org-grid">
+      {% for member in group %}
+        <a class="org-member-card" href="https://robertsspaceindustries.com/en/citizens/{{ member.handle }}" target="_blank">
+          <img class="org-member-image" alt="{{ member.handle }} avatar" src="{{ member.image }}" />
+          <div class="org-member-name">{{ member.handle }}</div>
+          <!-- Add more member info here if needed -->
+        </a>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,20 @@
+title: Oskoreia
+description: Star Citizen Organisation
+baseurl: ""
+url: "https://oskoreia.org"
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+plugins:
+  - jekyll-datapage_gen
+
+datapagegen:
+  datafiles:
+    ships:
+      name: data
+      template: ship
+      dir: ships
+      extension: html
+      index_files: false
+      title: name
