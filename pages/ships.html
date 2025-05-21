@@ -24,26 +24,13 @@ permalink: /ships/
     <!-- JS will render rows here -->
   </div>
 </div>
-
 <script>
-  const ships = [
-    {% for ship in site.data.ships.data %}
-      {% if ship.name != null %}
-      {
-        name: {{ ship.name | jsonify }},
-        url: {{ ship.url | jsonify }},
-        avatar: {% if ship.media and ship.media[0].images.avatar %}{{ ship.media[0].images.avatar | jsonify }}{% else %}null{% endif %},
-        manufacturer: {% if ship.manufacturer and ship.manufacturer.name %}{{ ship.manufacturer.name | jsonify }}{% else %}null{% endif %}
-      }{% unless forloop.last %},{% endunless %}
-
-      {% endif %}
-    {% endfor %}
-  ];
+  const ships = {{ site.data.ships | jsonify }};
 
   // Sort ships by manufacturer, then by name
   ships.sort((a, b) => {
-    const manA = (a.manufacturer || '').toLowerCase();
-    const manB = (b.manufacturer || '').toLowerCase();
+    const manA = (a.manufacturer.name || '').toLowerCase();
+    const manB = (b.manufacturer.name || '').toLowerCase();
     if (manA < manB) return -1;
     if (manA > manB) return 1;
     // If manufacturers are equal, sort by name
@@ -66,16 +53,17 @@ permalink: /ships/
       row.className = 'ship-grid-row';
       row.innerHTML = `
         <div>
-          ${ship.avatar ? `<img src="${ship.avatar}" alt="${ship.name} avatar" class="ship-avatar">` : `<div class="ship-avatar ship-avatar-placeholder"></div>`}
+          ${ship.media && ship.media.avatar ? `<img src="${ship.media.avatar}" alt="${ship.name} avatar" class="ship-avatar">` : `<div class="ship-avatar ship-avatar-placeholder"></div>`}
         </div>
         <div>
-          ${ship.manufacturer ? ship.manufacturer : `<span class="ship-manufacturer-unknown">Unknown</span>`}
+          ${ship.manufacturer ? ship.manufacturer.name : `<span class="ship-manufacturer-unknown">Unknown</span>`}
         </div>
         <div>
           ${ship.name}
         </div>
         <div>
-          ${ship.url ? `<a href="https://www.robertsspaceindustries.com${ship.url}" target="_blank" class="ship-link-btn">View</a>` : `<span class="ship-link-na">N/A</span>`}
+          <!-- ${ship.url ? `<a href="https://www.robertsspaceindustries.com${ship.url}" target="_blank" class="ship-link-btn">View</a>` : `<span class="ship-link-na">N/A</span>`} -->
+          <a href="/ships/${ship.manufacturer.code.toLowerCase()}-${ship.code.toLowerCase()}" target="_blank" class="ship-link-btn">View</a>
         </div>
       `;
       grid.appendChild(row);
@@ -90,7 +78,8 @@ permalink: /ships/
     const query = this.value.trim().toLowerCase();
     const filtered = ships.filter(ship =>
       (ship.name && ship.name.toLowerCase().includes(query)) ||
-      (ship.manufacturer && ship.manufacturer.toLowerCase().includes(query))
+      (ship.manufacturer && ship.manufacturer.name.toLowerCase().includes(query)) ||
+      (ship.manufacturer && ship.manufacturer.code.toLowerCase().includes(query))
     );
     renderShips(filtered);
   });

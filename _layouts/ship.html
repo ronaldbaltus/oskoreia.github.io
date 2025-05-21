@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<h1>{{ page.name }}</h1>
-{% if page.avatar %}
-  <img src="{{ page.avatar }}" alt="{{ page.name }} avatar" style="max-width:200px;">
-{% endif %}
-<p><strong>Manufacturer:</strong> {{ page.manufacturer }}</p>
-<p><strong>Link:</strong> <a href="https://www.robertsspaceindustries.com{{ page.url }}" target="_blank">RSI Page</a></p>
+<link rel="stylesheet" href="/assets/styles/ship.css" />
+
+{% include hero.html header=4 %}
+{% include link-bar.html %}
+{{content}}

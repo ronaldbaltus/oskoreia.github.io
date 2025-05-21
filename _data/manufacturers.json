@@ -1,0 +1,199 @@
+{
+  "RSI": {
+    "code": "RSI",
+    "description": "The original creators of the engine that kickstarted humanity’s expansion into space, Roberts Space Industries build a wide range of spaceships that serve all needs starting at basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is “Roberts Space Industries: Delivering the Stars since 2075”",
+    "id": 1,
+    "known_for": "the Aurora and the Constellation",
+    "name": "Roberts Space Industries",
+    "media": {
+      "avatar": "/media/tb6ui8j38wwscr/avatar/RSI.png",
+      "logo": "/media/tb6ui8j38wwscr/logo/RSI.png",
+      "cover": "/media/tb6ui8j38wwscr/cover/RSI.png"
+    }
+  },
+  "ORIG": {
+    "code": "ORIG",
+    "description": "The BMW of the Star Citizen universe.  Their craft are more expensive, sleeker looking status symbols, maybe more so than they’re worth?  They get numbers instead of names: “Origin 300i,”\"Origin 890 Jump,” “Origin M50 Turbo,” etc.",
+    "id": 6,
+    "known_for": "the 300i series",
+    "name": "Origin Jumpworks",
+    "media": {
+      "avatar": "/media/0ffygmebwd3t1r/avatar/Origin.png",
+      "logo": "/media/0ffygmebwd3t1r/logo/Origin.png",
+      "cover": "/media/0ffygmebwd3t1r/cover/Origin.png"
+    }
+  },
+  "ANVL": {
+    "code": "ANVL",
+    "description": "Produces dogfighters, but with less of the pirate stigma. These ships are more expensive, less spit-and-glue",
+    "id": 3,
+    "known_for": "the Hornet Fighters",
+    "name": "Anvil Aerospace",
+    "media": {
+      "avatar": "/media/w0o33qmdai9wpr/avatar/Anvil.png",
+      "logo": "/media/w0o33qmdai9wpr/logo/Anvil.png",
+      "cover": "/media/w0o33qmdai9wpr/cover/Anvil.png"
+    }
+  },
+  "MISC": {
+    "code": "MISC",
+    "description": "MISC mass produces very efficient, modular ships, mostly armored freighters of different sizes that make them the preferred brand for traders and larger corporations.",
+    "id": 4,
+    "known_for": "the Freelancer series",
+    "name": "MISC",
+    "media": {
+      "avatar": "/media/6irnix69d4a8rr/avatar/MISC.png",
+      "logo": "/media/6irnix69d4a8rr/logo/MISC.png",
+      "cover": "/media/6irnix69d4a8rr/cover/MISC.png"
+    }
+  },
+  "DRAK": {
+    "code": "DRAK",
+    "description": "Ostensibly a legitimate company, it’s an open secret that they manufacture cheap, well-armed craft favored by pirates, to the point that they’re named in that vein: “Cutlass,” “Buccaneer,” “Privateer,” and “Marauder,” etc.",
+    "id": 5,
+    "known_for": "the Cutlass and the Caterpillar",
+    "name": "Drake Interplanetary",
+    "media": {
+      "avatar": "/media/bdkpvl2bpxaqar/avatar/Drake.png",
+      "logo": "/media/bdkpvl2bpxaqar/logo/Drake.png",
+      "cover": "/media/bdkpvl2bpxaqar/cover/Drake.png"
+    }
+  },
+  "AEGS": {
+    "code": "AEGS",
+    "id": 12,
+    "known_for": "the Avenger and Idris Frigate",
+    "name": "Aegis Dynamics",
+    "media": {
+      "avatar": "/media/1apfbr0v0vbnur/avatar/Aegis.png",
+      "logo": "/media/1apfbr0v0vbnur/logo/Aegis.png",
+      "cover": "/media/1apfbr0v0vbnur/cover/Aegis.png"
+    }
+  },
+  "VNCL": {
+    "code": "VNCL",
+    "id": 13,
+    "name": "Vanduul",
+    "media": {
+      "avatar": "/media/ofli1kgpqq5y6r/avatar/Vanduul.png",
+      "logo": "/media/ofli1kgpqq5y6r/logo/Vanduul.png",
+      "cover": "/media/ofli1kgpqq5y6r/cover/Vanduul.png"
+    }
+  },
+  "KRIG": {
+    "code": "KRIG",
+    "id": 19,
+    "known_for": "the P-52 Merlin",
+    "name": "Kruger Intergalactic",
+    "media": {
+      "avatar": "/media/4u3vwg26y1wm3r/avatar/Kruger.png",
+      "logo": "/media/4u3vwg26y1wm3r/logo/Kruger.png",
+      "cover": "/media/4u3vwg26y1wm3r/cover/Kruger.png"
+    }
+  },
+  "CNOU": {
+    "code": "CNOU",
+    "id": 22,
+    "known_for": "the Mustang starter ship",
+    "name": "Consolidated Outland",
+    "media": {
+      "avatar": "/media/khu6mwy8zo5sar/avatar/Consolidated_outland.png",
+      "logo": "/media/khu6mwy8zo5sar/logo/Consolidated_outland.png",
+      "cover": "/media/khu6mwy8zo5sar/cover/Consolidated_outland.png"
+    }
+  },
+  "XNAA": {
+    "code": "XNAA",
+    "id": 81,
+    "name": "Aopoa",
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/9ajc9rgy2y6ij/avatar.png",
+      "logo": "https://media.robertsspaceindustries.com/9ajc9rgy2y6ij/logo.png",
+      "cover": "https://media.robertsspaceindustries.com/9ajc9rgy2y6ij/cover.png"
+    }
+  },
+  "BANU": {
+    "code": "BANU",
+    "id": 21,
+    "name": "Banu",
+    "media": {
+      "avatar": "/media/3ktltnm6ph4cfr/avatar/Skin-Banu-Color-Theme-Default-Type-Symbol-Only.png",
+      "logo": "/media/3ktltnm6ph4cfr/logo/Skin-Banu-Color-Theme-Default-Type-Symbol-Only.png",
+      "cover": "/media/3ktltnm6ph4cfr/cover/Skin-Banu-Color-Theme-Default-Type-Symbol-Only.png"
+    }
+  },
+  "CRUS": {
+    "code": "CRUS",
+    "id": 68,
+    "known_for": "Genesis Starliner",
+    "name": "Crusader Industries",
+    "media": {
+      "avatar": "/media/pdlrf7zh54uy0r/avatar/Starlifter-1.png",
+      "logo": "/media/pdlrf7zh54uy0r/logo/Starlifter-1.png",
+      "cover": "/media/pdlrf7zh54uy0r/cover/Starlifter-1.png"
+    }
+  },
+  "ESPR": {
+    "code": "ESPR",
+    "description": "Esperia is a human company specialized in creating Vanduul ship reproductions for war-time simulations. ",
+    "id": 69,
+    "name": "Esperia",
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/s5p49a11la7y6/avatar.png",
+      "logo": "https://media.robertsspaceindustries.com/s5p49a11la7y6/logo.png",
+      "cover": "https://media.robertsspaceindustries.com/s5p49a11la7y6/cover.png"
+    }
+  },
+  "ARGO": {
+    "code": "ARGO",
+    "id": 73,
+    "name": "Argo Astronautics",
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/dq4f0gy40dkwk/avatar.png",
+      "logo": "https://media.robertsspaceindustries.com/dq4f0gy40dkwk/logo.png",
+      "cover": "https://media.robertsspaceindustries.com/dq4f0gy40dkwk/cover.png"
+    }
+  },
+  "MRAI": {
+    "code": "MRAI",
+    "id": 96,
+    "name": "Mirai",
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/k7bcq6d004brd/avatar.png",
+      "logo": "https://media.robertsspaceindustries.com/k7bcq6d004brd/logo.png",
+      "cover": "https://media.robertsspaceindustries.com/k7bcq6d004brd/cover.png"
+    }
+  },
+  "TMBL": {
+    "code": "TMBL",
+    "id": 83,
+    "known_for": "The Cyclone",
+    "name": "Tumbril",
+    "media": {
+      "avatar": "/media/7fo9fxemlc9k7r/avatar/Tumbril_logo.png",
+      "logo": "/media/7fo9fxemlc9k7r/logo/Tumbril_logo.png",
+      "cover": "/media/7fo9fxemlc9k7r/cover/Tumbril_logo.png"
+    }
+  },
+  "GRIN": {
+    "code": "GRIN",
+    "id": 17,
+    "known_for": "ROC and ROC-DS",
+    "name": "Greycat Industrial",
+    "media": {
+      "avatar": "/media/5jf6y40pc7ngxr/avatar/GreyCat-Icon.png",
+      "logo": "/media/5jf6y40pc7ngxr/logo/GreyCat-Icon.png",
+      "cover": "/media/5jf6y40pc7ngxr/cover/GreyCat-Icon.png"
+    }
+  },
+  "GAMA": {
+    "code": "GAMA",
+    "id": 93,
+    "name": "Gatac Manufacture",
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/0rqv6j8xkrozg/avatar.png",
+      "logo": "https://media.robertsspaceindustries.com/0rqv6j8xkrozg/logo.png",
+      "cover": "https://media.robertsspaceindustries.com/0rqv6j8xkrozg/cover.png"
+    }
+  }
+}

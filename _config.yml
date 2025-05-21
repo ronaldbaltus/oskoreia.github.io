@@ -6,15 +6,7 @@ collections:
   pages:
     output: true
     permalink: /:name/
-plugins:
-  - jekyll-datapage_gen
+  ships:
+    output: true
+    permalink: /ships/:name.html
 
-datapagegen:
-  datafiles:
-    ships:
-      name: data
-      template: ship
-      dir: ships
-      extension: html
-      index_files: false
-      title: name

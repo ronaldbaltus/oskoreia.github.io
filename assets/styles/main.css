@@ -90,6 +90,7 @@ body {
 
 .link-bar {
     display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to next line */
     justify-content: center;
     gap: 2em;
     background: var(--dark);
@@ -98,7 +99,8 @@ body {
     margin: 1.5em auto 2em auto;
     max-width: 900px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    border: 2px solid var(--accent); /* Darker gold */
+    border: 2px solid var(--accent);
+    text-align: center;
 }
 
 .link-bar-item {
@@ -110,9 +112,20 @@ body {
     padding: 0.3em 1em;
     border-radius: 4px;
     transition: background 0.2s, color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.link-bar-item:hover {
-    margin: 0px;
-    border: 2px solid var(--light); /* Darker gold */
+/* Responsive: stack items vertically on small screens */
+@media (max-width: 600px) {
+    .link-bar {
+        flex-direction: column;
+        gap: 0.7em;
+        align-items: center;
+    }
+    .link-bar-item {
+        width: 90%;
+        justify-content: center;
+    }
 }

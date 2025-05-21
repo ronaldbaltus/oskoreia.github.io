@@ -6,6 +6,7 @@
   "workspaceFolder": "/workspace",
   "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
   "forwardPorts": [4000, 35729],
+  "runArgs": ["--env-file", ".env"],
   "customizations": {
     "vscode": {
       "settings": {

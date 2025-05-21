@@ -1,0 +1,852 @@
+    {
+      "afterburner_speed": 1200,
+      "beam": 8.7,
+      "cargocapacity": 3,
+      "chassis_id": 1,
+      "compiled": {
+        "RSIAvionic": {
+          "computers": [
+            {
+              "component_class": "RSIAvionic",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "1",
+              "name": "Computer",
+              "quantity": "1",
+              "size": "S",
+              "type": "computers"
+            }
+          ],
+          "radar": [
+            {
+              "component_class": "RSIAvionic",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "1",
+              "name": "Radar",
+              "quantity": "1",
+              "size": "S",
+              "type": "radar"
+            }
+          ]
+        },
+        "RSIModular": {
+          "coolers": [
+            {
+              "component_class": "RSIModular",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "2",
+              "name": "Cooler",
+              "quantity": "1",
+              "size": "S",
+              "type": "coolers"
+            }
+          ],
+          "power_plants": [
+            {
+              "component_class": "RSIModular",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "1",
+              "name": "Power Plant",
+              "quantity": "1",
+              "size": "S",
+              "type": "power_plants"
+            }
+          ],
+          "shield_generators": [
+            {
+              "component_class": "RSIModular",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "2",
+              "name": "Shield Generator",
+              "quantity": "1",
+              "size": "S",
+              "type": "shield_generators"
+            }
+          ]
+        },
+        "RSIPropulsion": {
+          "fuel_intakes": [
+            {
+              "component_class": "RSIPropulsion",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "2",
+              "name": "Fuel Intake",
+              "quantity": "1",
+              "size": "S",
+              "type": "fuel_intakes"
+            }
+          ],
+          "fuel_tanks": [
+            {
+              "component_class": "RSIPropulsion",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "2",
+              "name": "Fuel Tank",
+              "quantity": "1",
+              "size": "S",
+              "type": "fuel_tanks"
+            }
+          ],
+          "jump_modules": [
+            {
+              "component_class": "RSIPropulsion",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "1",
+              "name": "Jump Module",
+              "quantity": "1",
+              "size": "S",
+              "type": "jump_modules"
+            }
+          ],
+          "quantum_drives": [
+            {
+              "component_class": "RSIPropulsion",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": "TBD",
+              "mounts": "1",
+              "name": "Quantum Drive",
+              "quantity": "1",
+              "size": "S",
+              "type": "quantum_drives"
+            }
+          ],
+          "quantum_fuel_tanks": [
+            {
+              "component_class": "RSIPropulsion",
+              "component_size": "S",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "1",
+              "name": "Quantum Fuel Tank",
+              "quantity": "1",
+              "size": "S",
+              "type": "quantum_fuel_tanks"
+            }
+          ]
+        },
+        "RSIThruster": {
+          "main_thrusters": [
+            {
+              "category": "M",
+              "component_class": "RSIThruster",
+              "component_size": "-",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "1",
+              "name": "Main Thruster",
+              "quantity": "1",
+              "size": "-",
+              "type": "main_thrusters"
+            }
+          ],
+          "maneuvering_thrusters": [
+            {
+              "category": "R",
+              "component_class": "RSIThruster",
+              "component_size": "-",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "2",
+              "name": "Retro Thruster",
+              "quantity": "1",
+              "size": "-",
+              "type": "maneuvering_thrusters"
+            },
+            {
+              "category": "",
+              "component_class": "RSIThruster",
+              "component_size": "-",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "8",
+              "name": "Joint Maneuvering Thrusters",
+              "quantity": "1",
+              "size": "-",
+              "type": "maneuvering_thrusters"
+            }
+          ]
+        },
+        "RSIWeapon": {
+          "missiles": [
+            {
+              "component_class": "RSIWeapon",
+              "component_size": "2",
+              "details": "Behring MSD-221 Marsden",
+              "manufacturer": null,
+              "mounts": "1",
+              "name": "S2 Missiles",
+              "quantity": "2",
+              "size": "2",
+              "type": "missiles"
+            }
+          ],
+          "turrets": [],
+          "utility_items": [],
+          "weapons": [
+            {
+              "component_class": "RSIWeapon",
+              "component_size": "1",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "2",
+              "name": "S1 Weapon",
+              "quantity": "1",
+              "size": "1",
+              "type": "weapons"
+            },
+            {
+              "component_class": "RSIWeapon",
+              "component_size": "-",
+              "details": "",
+              "manufacturer": null,
+              "mounts": "2",
+              "name": "S1 (Empty)",
+              "quantity": "1",
+              "size": "1",
+              "type": "weapons"
+            }
+          ]
+        }
+      },
+      "description": "The Aurora is the modern-day descendant of the Roberts Space Industries X-7 spacecraft which tested the very first jump engines. Utilitarian to a T, the Aurora Essential is the perfect choice for new ship owners: versatile enough to tackle a myriad of challenges, yet with a straightforward and intuitive design.",
+      "focus": "Starter / Pathfinder",
+      "height": 4.5,
+      "id": 1,
+      "length": 19,
+      "manufacturer": {
+        "code": "RSI",
+        "description": "The original creators of the engine that kickstarted humanity\u2019s expansion into space, Roberts Space Industries build a wide range of spaceships that serve all needs starting at basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is \u201cRoberts Space Industries: Delivering the Stars since 2075\u201d",
+        "id": 1,
+        "known_for": "the Aurora and the Constellation",
+        "media": [
+          {
+            "cover_data": null,
+            "depot": "LOCAL_MEDIA",
+            "depot_status": "R",
+            "derived_data": {
+              "sizes": {
+                "avatar": {
+                  "delete": "1--1",
+                  "height": 76,
+                  "mode": "resize-crop",
+                  "width": 76
+                },
+                "background_blur": {
+                  "delete": "1--1",
+                  "height": 768,
+                  "mode": "resize-crop",
+                  "width": 1366
+                },
+                "banner": {
+                  "delete": "1--1",
+                  "height": 380,
+                  "mode": "resize-crop",
+                  "width": 1140
+                },
+                "channel_item_full": {
+                  "height": 600,
+                  "mode": "resize-crop",
+                  "width": 1119
+                },
+                "component_description": {
+                  "height": null,
+                  "mode": "resize",
+                  "width": 415
+                },
+                "cover": {
+                  "delete": "1--1",
+                  "height": "",
+                  "mode": "resize",
+                  "width": 1140
+                },
+                "heap_infobox": {
+                  "delete": "1--1",
+                  "height": 165,
+                  "mode": "resize-crop",
+                  "width": 165
+                },
+                "heap_note": {
+                  "delete": "1--1",
+                  "height": 24,
+                  "mode": "resize-crop",
+                  "width": 24
+                },
+                "heap_thumb": {
+                  "delete": "1--1",
+                  "height": 61,
+                  "mode": "resize-crop",
+                  "width": 61
+                },
+                "home_transmissions_item_expanded": {
+                  "height": 280,
+                  "mode": "resize-crop",
+                  "width": 530
+                },
+                "icon": {
+                  "delete": "1--1",
+                  "height": 45,
+                  "mode": "resize-crop",
+                  "width": 45
+                },
+                "logo": {
+                  "delete": "1--1",
+                  "height": 175,
+                  "mode": "resize-crop",
+                  "width": 175
+                },
+                "post": {
+                  "height": null,
+                  "mode": "resize",
+                  "width": 500
+                },
+                "post_section_header": {
+                  "height": 351,
+                  "mode": "resize-crop",
+                  "width": 1118
+                },
+                "press_latest_post": {
+                  "height": 211,
+                  "mode": "resize-crop",
+                  "width": 509
+                },
+                "product_thumb_in_description": {
+                  "height": 350,
+                  "mode": "resize-crop",
+                  "width": 350
+                },
+                "product_thumb_large": {
+                  "height": 204,
+                  "mode": "resize-crop",
+                  "width": 341
+                },
+                "product_thumb_medium_and_small": {
+                  "height": 150,
+                  "mode": "resize-crop",
+                  "width": 180
+                },
+                "product_thumb_shipmod": {
+                  "height": 188,
+                  "mode": "resize-crop",
+                  "width": 248
+                },
+                "slideshow": {
+                  "height": 366,
+                  "mode": "resize-crop",
+                  "width": 648
+                },
+                "slideshow_pager": {
+                  "height": 50,
+                  "mode": "resize-crop",
+                  "width": 88
+                },
+                "store_hub_large": {
+                  "height": 420,
+                  "mode": "resize-crop",
+                  "width": 1200
+                },
+                "store_hub_small": {
+                  "height": 210,
+                  "mode": "resize-crop",
+                  "width": 600
+                },
+                "store_large": {
+                  "height": 288,
+                  "mode": "resize-crop",
+                  "width": 818
+                },
+                "store_slideshow_large": {
+                  "height": 390,
+                  "mode": "resize-crop",
+                  "width": 1140
+                },
+                "store_slideshow_large_zoom": {
+                  "height": 1032,
+                  "mode": "resize-crop",
+                  "width": 1420
+                },
+                "store_slideshow_small": {
+                  "height": 300,
+                  "mode": "resize-crop",
+                  "width": 800
+                },
+                "store_slideshow_small_zoom": {
+                  "height": 516,
+                  "mode": "resize-crop",
+                  "width": 710
+                },
+                "store_small": {
+                  "height": 210,
+                  "mode": "resize-crop",
+                  "width": 351
+                },
+                "store_thumb_listing_small": {
+                  "height": 63,
+                  "mode": "resize-crop",
+                  "width": 186
+                },
+                "store_thumb_sku_detail": {
+                  "height": 248,
+                  "mode": "resize-crop",
+                  "width": 318
+                },
+                "subscribers_vault_thumbnail": {
+                  "height": 133,
+                  "mode": "resize-crop",
+                  "width": 216
+                },
+                "vault_thumb": {
+                  "height": null,
+                  "mode": "resize",
+                  "width": 335
+                },
+                "wallpaper_thumb": {
+                  "height": 400,
+                  "mode": "resize-crop",
+                  "width": 620
+                }
+              }
+            },
+            "distant_id": null,
+            "distant_source": null,
+            "id": 312954,
+            "images": {
+              "avatar": "/media/tb6ui8j38wwscr/avatar/RSI.png",
+              "background_blur": "/media/tb6ui8j38wwscr/background_blur/RSI.png",
+              "banner": "/media/tb6ui8j38wwscr/banner/RSI.png",
+              "channel_item_full": "/media/tb6ui8j38wwscr/channel_item_full/RSI.png",
+              "component_description": "/media/tb6ui8j38wwscr/component_description/RSI.png",
+              "cover": "/media/tb6ui8j38wwscr/cover/RSI.png",
+              "heap_infobox": "/media/tb6ui8j38wwscr/heap_infobox/RSI.png",
+              "heap_note": "/media/tb6ui8j38wwscr/heap_note/RSI.png",
+              "heap_thumb": "/media/tb6ui8j38wwscr/heap_thumb/RSI.png",
+              "home_transmissions_item_expanded": "/media/tb6ui8j38wwscr/home_transmissions_item_expanded/RSI.png",
+              "hub_large": "/media/tb6ui8j38wwscr/hub_large/RSI.png",
+              "hub_medium": "/media/tb6ui8j38wwscr/hub_medium/RSI.png",
+              "hub_small": "/media/tb6ui8j38wwscr/hub_small/RSI.png",
+              "hub_tile": "/media/tb6ui8j38wwscr/hub_tile/RSI.png",
+              "icon": "/media/tb6ui8j38wwscr/icon/RSI.png",
+              "logo": "/media/tb6ui8j38wwscr/logo/RSI.png",
+              "manufacturer_logo_xs": "/media/tb6ui8j38wwscr/manufacturer_logo_xs/RSI.png",
+              "post": "/media/tb6ui8j38wwscr/post/RSI.png",
+              "post_section_header": "/media/tb6ui8j38wwscr/post_section_header/RSI.png",
+              "press_latest_post": "/media/tb6ui8j38wwscr/press_latest_post/RSI.png",
+              "product_thumb_in_description": "/media/tb6ui8j38wwscr/product_thumb_in_description/RSI.png",
+              "product_thumb_large": "/media/tb6ui8j38wwscr/product_thumb_large/RSI.png",
+              "product_thumb_medium_and_small": "/media/tb6ui8j38wwscr/product_thumb_medium_and_small/RSI.png",
+              "product_thumb_shipmod": "/media/tb6ui8j38wwscr/product_thumb_shipmod/RSI.png",
+              "sku_widget_modal": "/media/tb6ui8j38wwscr/sku_widget_modal/RSI.png",
+              "sku_widget_thumbnail": "/media/tb6ui8j38wwscr/sku_widget_thumbnail/RSI.png",
+              "slideshow": "/media/tb6ui8j38wwscr/slideshow/RSI.png",
+              "slideshow_pager": "/media/tb6ui8j38wwscr/slideshow_pager/RSI.png",
+              "slideshow_wide": "/media/tb6ui8j38wwscr/slideshow_wide/RSI.png",
+              "store_hub_large": "/media/tb6ui8j38wwscr/store_hub_large/RSI.png",
+              "store_hub_small": "/media/tb6ui8j38wwscr/store_hub_small/RSI.png",
+              "store_large": "/media/tb6ui8j38wwscr/store_large/RSI.png",
+              "store_slideshow_large": "/media/tb6ui8j38wwscr/store_slideshow_large/RSI.png",
+              "store_slideshow_large_zoom": "/media/tb6ui8j38wwscr/store_slideshow_large_zoom/RSI.png",
+              "store_slideshow_small": "/media/tb6ui8j38wwscr/store_slideshow_small/RSI.png",
+              "store_slideshow_small_zoom": "/media/tb6ui8j38wwscr/store_slideshow_small_zoom/RSI.png",
+              "store_small": "/media/tb6ui8j38wwscr/store_small/RSI.png",
+              "store_thumb_listing_small": "/media/tb6ui8j38wwscr/store_thumb_listing_small/RSI.png",
+              "store_thumb_sku_detail": "/media/tb6ui8j38wwscr/store_thumb_sku_detail/RSI.png",
+              "store_upgrade_half": "/media/tb6ui8j38wwscr/store_upgrade_half/RSI.png",
+              "subscribers_vault_thumbnail": "/media/tb6ui8j38wwscr/subscribers_vault_thumbnail/RSI.png",
+              "texture": "/media/tb6ui8j38wwscr/texture/RSI.png",
+              "vault_thumb": "/media/tb6ui8j38wwscr/vault_thumb/RSI.png",
+              "wallpaper_1920x1080": "/media/tb6ui8j38wwscr/wallpaper_1920x1080/RSI.png",
+              "wallpaper_3840x2160": "/media/tb6ui8j38wwscr/wallpaper_3840x2160/RSI.png",
+              "wallpaper_512x384": "/media/tb6ui8j38wwscr/wallpaper_512x384/RSI.png",
+              "wallpaper_thumb": "/media/tb6ui8j38wwscr/wallpaper_thumb/RSI.png",
+              "wsc_event_thumb": "/media/tb6ui8j38wwscr/wsc_event_thumb/RSI.png"
+            },
+            "membership_id": 448156,
+            "membership_slot": "icon",
+            "publish_end": null,
+            "publish_start": null,
+            "purpose": "full",
+            "slug": "tb6ui8j38wwsc",
+            "source_duration": null,
+            "source_extension": "png",
+            "source_name": "RSI",
+            "source_stream": {
+              "progressive": "/media/tb6ui8j38wwscr/source/RSI.png"
+            },
+            "source_url": "/media/tb6ui8j38wwscr/source/RSI.png",
+            "status": "P",
+            "tag_string": "",
+            "time_modified": "2014-08-04 13:09:26",
+            "type": "I"
+          }
+        ],
+        "name": "Roberts Space Industries"
+      },
+      "manufacturer_id": 1,
+      "mass": 26486,
+      "max_crew": 1,
+      "media": [
+        {
+          "cover_data": null,
+          "depot": "S3MediaProd",
+          "depot_status": "R",
+          "derived_data": {
+            "sizes": {
+              "avatar": {
+                "delete": "1--1",
+                "height": 76,
+                "mode": "resize-crop",
+                "width": 76
+              },
+              "background_blur": {
+                "delete": "1--1",
+                "height": 768,
+                "mode": "resize-crop",
+                "width": 1366
+              },
+              "banner": {
+                "delete": "1--1",
+                "height": 380,
+                "mode": "resize-crop",
+                "width": 1140
+              },
+              "channel_item_full": {
+                "height": 600,
+                "mode": "resize-crop",
+                "width": 1119
+              },
+              "component_description": {
+                "height": null,
+                "mode": "resize",
+                "width": 415
+              },
+              "cover": {
+                "delete": "1--1",
+                "height": "",
+                "mode": "resize",
+                "width": 1140
+              },
+              "heap_infobox": {
+                "delete": "1--1",
+                "height": 165,
+                "mode": "resize-crop",
+                "width": 165
+              },
+              "heap_note": {
+                "delete": "1--1",
+                "height": 24,
+                "mode": "resize-crop",
+                "width": 24
+              },
+              "heap_thumb": {
+                "delete": "1--1",
+                "height": 61,
+                "mode": "resize-crop",
+                "width": 61
+              },
+              "home_transmissions_item_expanded": {
+                "height": 280,
+                "mode": "resize-crop",
+                "width": 530
+              },
+              "hub_large": {
+                "height": "\\>",
+                "mode": "resize",
+                "width": 1020
+              },
+              "hub_medium": {
+                "delete": "1--1",
+                "height": 210,
+                "mode": "resize-crop",
+                "width": 360
+              },
+              "hub_small": {
+                "delete": "1--1",
+                "height": 90,
+                "mode": "resize-crop",
+                "width": 150
+              },
+              "hub_tile": {
+                "delete": "1--1",
+                "height": 355,
+                "mode": "resize-crop",
+                "width": 360
+              },
+              "icon": {
+                "delete": "1--1",
+                "height": 45,
+                "mode": "resize-crop",
+                "width": 45
+              },
+              "logo": {
+                "delete": "1--1",
+                "height": 175,
+                "mode": "resize-crop",
+                "width": 175
+              },
+              "manufacturer_logo_xs": {
+                "height": 64,
+                "mode": "resize-crop",
+                "width": 64
+              },
+              "post": {
+                "height": null,
+                "mode": "resize",
+                "width": 500
+              },
+              "post_section_header": {
+                "height": 351,
+                "mode": "resize-crop",
+                "width": 1118
+              },
+              "press_latest_post": {
+                "height": 211,
+                "mode": "resize-crop",
+                "width": 509
+              },
+              "product_thumb_in_description": {
+                "height": 350,
+                "mode": "resize-crop",
+                "width": 350
+              },
+              "product_thumb_large": {
+                "height": 204,
+                "mode": "resize-crop",
+                "width": 341
+              },
+              "product_thumb_medium_and_small": {
+                "height": 150,
+                "mode": "resize-crop",
+                "width": 180
+              },
+              "product_thumb_shipmod": {
+                "height": 188,
+                "mode": "resize-crop",
+                "width": 248
+              },
+              "sku_widget_modal": {
+                "height": 300,
+                "mode": "resize-crop",
+                "width": 650
+              },
+              "sku_widget_thumbnail": {
+                "height": 250,
+                "mode": "resize-crop",
+                "width": 370
+              },
+              "slideshow": {
+                "height": 366,
+                "mode": "resize-crop",
+                "width": 648
+              },
+              "slideshow_pager": {
+                "height": 50,
+                "mode": "resize-crop",
+                "width": 88
+              },
+              "slideshow_wide": {
+                "height": 800,
+                "mode": "resize",
+                "width": 1200
+              },
+              "store_hub_large": {
+                "height": 420,
+                "mode": "resize-crop",
+                "width": 1200
+              },
+              "store_hub_small": {
+                "height": 210,
+                "mode": "resize-crop",
+                "width": 600
+              },
+              "store_large": {
+                "height": 288,
+                "mode": "resize-crop",
+                "width": 818
+              },
+              "store_slideshow_large": {
+                "height": 390,
+                "mode": "resize-crop",
+                "width": 1140
+              },
+              "store_slideshow_large_zoom": {
+                "height": 1032,
+                "mode": "resize-crop",
+                "width": 1420
+              },
+              "store_slideshow_small": {
+                "height": 300,
+                "mode": "resize-crop",
+                "width": 800
+              },
+              "store_slideshow_small_zoom": {
+                "height": 516,
+                "mode": "resize-crop",
+                "width": 710
+              },
+              "store_small": {
+                "height": 210,
+                "mode": "resize-crop",
+                "width": 351
+              },
+              "store_thumb_listing_small": {
+                "height": 63,
+                "mode": "resize-crop",
+                "width": 186
+              },
+              "store_thumb_sku_detail": {
+                "height": 248,
+                "mode": "resize-crop",
+                "width": 318
+              },
+              "store_upgrade_half": {
+                "height": 300,
+                "mode": "resize-crop",
+                "width": 400
+              },
+              "subscribers_vault_thumbnail": {
+                "height": 133,
+                "mode": "resize-crop",
+                "width": 216
+              },
+              "texture": {
+                "height": 512,
+                "mode": "resize-crop",
+                "width": 512
+              },
+              "vault_thumb": {
+                "height": null,
+                "mode": "resize",
+                "width": 335
+              },
+              "wallpaper_1920x1080": {
+                "height": 1080,
+                "mode": "resize-crop",
+                "width": 1920
+              },
+              "wallpaper_3840x2160": {
+                "height": 2160,
+                "mode": "resize-crop",
+                "width": 3840
+              },
+              "wallpaper_512x384": {
+                "height": 384,
+                "mode": "resize-crop",
+                "width": 512
+              },
+              "wallpaper_thumb": {
+                "height": 400,
+                "mode": "resize-crop",
+                "width": 620
+              },
+              "wsc_event_thumb": {
+                "height": 557,
+                "mode": "resize-crop",
+                "width": 440
+              }
+            }
+          },
+          "distant_id": null,
+          "distant_source": null,
+          "id": 3516308,
+          "images": {
+            "avatar": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/avatar.jpg",
+            "background_blur": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/background_blur.jpg",
+            "banner": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/banner.jpg",
+            "channel_item_full": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/channel_item_full.jpg",
+            "component_description": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/component_description.jpg",
+            "cover": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/cover.jpg",
+            "heap_infobox": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/heap_infobox.jpg",
+            "heap_note": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/heap_note.jpg",
+            "heap_thumb": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/heap_thumb.jpg",
+            "home_transmissions_item_expanded": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/home_transmissions_item_expanded.jpg",
+            "hub_large": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/hub_large.jpg",
+            "hub_medium": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/hub_medium.jpg",
+            "hub_small": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/hub_small.jpg",
+            "hub_tile": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/hub_tile.jpg",
+            "icon": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/icon.jpg",
+            "logo": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/logo.jpg",
+            "manufacturer_logo_xs": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/manufacturer_logo_xs.jpg",
+            "post": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/post.jpg",
+            "post_section_header": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/post_section_header.jpg",
+            "press_latest_post": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/press_latest_post.jpg",
+            "product_thumb_in_description": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/product_thumb_in_description.jpg",
+            "product_thumb_large": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/product_thumb_large.jpg",
+            "product_thumb_medium_and_small": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/product_thumb_medium_and_small.jpg",
+            "product_thumb_shipmod": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/product_thumb_shipmod.jpg",
+            "sku_widget_modal": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/sku_widget_modal.jpg",
+            "sku_widget_thumbnail": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/sku_widget_thumbnail.jpg",
+            "slideshow": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/slideshow.jpg",
+            "slideshow_pager": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/slideshow_pager.jpg",
+            "slideshow_wide": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/slideshow_wide.jpg",
+            "store_hub_large": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_hub_large.jpg",
+            "store_hub_small": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_hub_small.jpg",
+            "store_large": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_large.jpg",
+            "store_slideshow_large": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_slideshow_large.jpg",
+            "store_slideshow_large_zoom": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_slideshow_large_zoom.jpg",
+            "store_slideshow_small": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_slideshow_small.jpg",
+            "store_slideshow_small_zoom": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_slideshow_small_zoom.jpg",
+            "store_small": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_small.jpg",
+            "store_thumb_listing_small": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_thumb_listing_small.jpg",
+            "store_thumb_sku_detail": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_thumb_sku_detail.jpg",
+            "store_upgrade_half": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/store_upgrade_half.jpg",
+            "subscribers_vault_thumbnail": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/subscribers_vault_thumbnail.jpg",
+            "texture": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/texture.jpg",
+            "vault_thumb": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/vault_thumb.jpg",
+            "wallpaper_1920x1080": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/wallpaper_1920x1080.jpg",
+            "wallpaper_3840x2160": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/wallpaper_3840x2160.jpg",
+            "wallpaper_512x384": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/wallpaper_512x384.jpg",
+            "wallpaper_thumb": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/wallpaper_thumb.jpg",
+            "wsc_event_thumb": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/wsc_event_thumb.jpg"
+          },
+          "membership_id": 601373,
+          "membership_slot": "thumbnail",
+          "publish_end": null,
+          "publish_start": null,
+          "purpose": "full",
+          "slug": "e1i4i2ixe6ouo",
+          "source_duration": null,
+          "source_extension": "jpg",
+          "source_name": "StarCitizen_RSI_Aurora_ES_01",
+          "source_stream": {
+            "progressive": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/source.jpg"
+          },
+          "source_url": "https://media.robertsspaceindustries.com/e1i4i2ixe6ouo/source.jpg",
+          "status": "P",
+          "tag_string": "",
+          "time_modified": "2025-05-07 13:50:27",
+          "type": "I"
+        }
+      ],
+      "min_crew": 1,
+      "name": "Aurora ES",
+      "pitch_max": null,
+      "price": 0,
+      "production_note": null,
+      "production_status": "flight-ready",
+      "roll_max": null,
+      "scm_speed": 225,
+      "size": "small",
+      "time_modified": "2 weeks ago",
+      "time_modified_unfiltered": "2025-05-07 14:23:21",
+      "type": "multi",
+      "url": "/pledge/ships/rsi-aurora/Aurora-ES",
+      "xaxis_acceleration": null,
+      "yaw_max": null,
+      "yaxis_acceleration": null,
+      "zaxis_acceleration": null
+    },

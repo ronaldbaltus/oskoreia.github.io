@@ -1,0 +1,107 @@
+.ship-details {
+    max-width: 700px;
+    margin: 2em auto;
+    padding: 2em;
+    background: #181a1b;
+    color: #eee;
+    border-radius: 8px;
+}
+
+.ship-details h2 {
+    margin-bottom: 0.2em;
+}
+
+.ship-details .manufacturer {
+    font-size: 1rem;
+    color: #aaa;
+}
+
+.ship-description {
+    margin-bottom: 1em;
+    text-align: left;;
+}
+
+.ship-specs ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ship-specs li {
+    margin-bottom: 0.3em;
+}
+
+.ship-specs .spec-grid {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.5em 1.5em;
+    align-items: center;
+}
+
+.ship-specs .spec-grid > div:nth-child(2n-1) {
+    text-align: right;
+    font-weight: bold;
+}
+
+.ship-specs .spec-grid > div:nth-child(2n) {
+    text-align: left;
+}
+
+.ship-details .ship-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+}
+
+.ship-details .ship-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    /* Optional: smooths the image edges */
+}
+
+.ship-details .ship-image::before,
+.ship-details .ship-image::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0;
+    height: 20%;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.ship-details .ship-image::before {
+    top: 0;
+    border-radius: 8px 8px 0 0;
+    background: linear-gradient(to top, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+}
+
+.ship-details .ship-image::after {
+    bottom: 0;
+    border-radius: 0 0 8px 8px;
+    background: linear-gradient(to bottom, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+}
+
+.ship-details .ship-image .fade-left,
+.ship-details .ship-image .fade-right {
+    content: "";
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 20%;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.ship-details .ship-image .fade-left {
+    left: 0;
+    border-radius: 8px 0 0 8px;
+    background: linear-gradient(to left, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+}
+
+.ship-details .ship-image .fade-right {
+    right: 0;
+    border-radius: 0 8px 8px 0;
+    background: linear-gradient(to right, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+}

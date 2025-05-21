@@ -1,0 +1,76 @@
+<div class="ship-details">
+  <h2>
+    {{ ship.name }}
+    <span class="manufacturer">
+      {% if ship.manufacturer and ship.manufacturer.name %}
+        by {{ ship.manufacturer.name }}
+      {% endif %}
+    </span>
+  </h2>
+  <div class="ship-image">
+    <img src="{{ ship.media.cover }}" alt="{{ ship.name }} cover" class="ship-cover">
+    <span class="fade-left"></span>
+    <span class="fade-right"></span>
+  </div>
+  <div class="ship-description">
+    <p>{{ ship.description }}</p>
+  </div>
+  <div class="ship-specs">
+    <div class="spec-grid">
+      <div><strong>Name:</strong></div>
+      <div>{{ ship.name }}</div>
+      <div><strong>Code:</strong></div>
+      <div>{{ ship.code }}</div>
+      <div><strong>Type:</strong></div>
+      <div>{{ ship.type }}</div>
+      <div><strong>Focus:</strong></div>
+      <div>{{ ship.focus }}</div>
+      <div><strong>Size:</strong></div>
+      <div>{{ ship.size }}</div>
+      <div><strong>Production Status:</strong></div>
+      <div>{{ ship.production_status }}</div>
+      <div><strong>Production Note:</strong></div>
+      <div>{{ ship.production_note }}</div>
+      <div><strong>SCM Speed:</strong></div>
+      <div>{{ ship.scm_speed }}</div>
+      <div><strong>Afterburner Speed:</strong></div>
+      <div>{{ ship.afterburner_speed }}</div>
+      <div><strong>Cargo Capacity:</strong></div>
+      <div>{{ ship.cargocapacity }}</div>
+      <div><strong>Beam:</strong></div>
+      <div>{{ ship.beam }}</div>
+      <div><strong>Height:</strong></div>
+      <div>{{ ship.height }}</div>
+      <div><strong>Length:</strong></div>
+      <div>{{ ship.length }}</div>
+      <div><strong>Mass:</strong></div>
+      <div>{{ ship.mass }}</div>
+      <div><strong>Min Crew:</strong></div>
+      <div>{{ ship.min_crew }}</div>
+      <div><strong>Max Crew:</strong></div>
+      <div>{{ ship.max_crew }}</div>
+      <div><strong>Chassis ID:</strong></div>
+      <div>{{ ship.chassis_id }}</div>
+      <div><strong>Manufacturer:</strong></div>
+      <div>
+        {% if ship.manufacturer and ship.manufacturer.name %}
+          {{ ship.manufacturer.name }} ({{ ship.manufacturer.code }})
+        {% endif %}
+      </div>
+      <div><strong>Manufacturer ID:</strong></div>
+      <div>{{ ship.manufacturer_id }}</div>
+      <div><strong>Price:</strong></div>
+      <div>{{ ship.price }}</div>
+      <div><strong>Time Modified:</strong></div>
+      <div>{{ ship.time_modified }}</div>
+      <div><strong>Time Modified (Raw):</strong></div>
+      <div>{{ ship.time_modified_unfiltered }}</div>
+      <div><strong>URL:</strong></div>
+      <div><a href="https://www.robertsspaceindustries.com{{ ship.url }}">RSI Page</a></div>
+    </div>
+  </div>
+</div>
+
+<pre>
+{{ ship | jsonify | newline_to_br }}
+</pre>
