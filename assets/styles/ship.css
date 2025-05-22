@@ -21,13 +21,8 @@
     text-align: left;;
 }
 
-.ship-specs ul {
-    list-style: none;
-    padding: 0;
-}
-
-.ship-specs li {
-    margin-bottom: 0.3em;
+.ship-details a {
+    color: var(--accent);
 }
 
 .ship-specs .spec-grid {

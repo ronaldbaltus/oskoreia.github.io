@@ -1,0 +1,70 @@
+<!-- Add this just before </body> or at the end of your file -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="modal-close" id="modal-close">&times;</span>
+    <h2 id="modal-title">
+
+    </h2>
+    <div id="modal-body">
+
+    </div>
+  </div>
+</div>
+<style>
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0; top: 0; width: 100vw; height: 100vh;
+  background: rgba(0,0,0,0.7);
+  justify-content: center;
+  align-items: center;
+}
+.modal-content {
+  background: #181a1b;
+  color: #eee;
+  border-radius: 10px;
+  max-width: 700px;
+  width: 95vw;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: 2em 1.5em 1.5em 1.5em;
+  position: relative;
+  box-shadow: 0 8px 32px #000a;
+}
+.modal-close {
+  position: absolute;
+  top: 0.7em;
+  right: 1.2em;
+  font-size: 2em;
+  color: #aaa;
+  cursor: pointer;
+  z-index: 10;
+}
+.modal-close:hover { color: #fff; }
+</style>
+<script>
+  // Modal logic
+  const modal = document.getElementById('modal');
+  const modalBody = document.getElementById('modal-body');
+  const modalClose = document.getElementById('modal-close');
+
+  modalClose.onclick = function() {
+    window.closeModal();
+  };
+  window.onclick = function(event) {
+    if (event.target === modal) {
+      modal.style.display = 'none';
+      modalBody.innerHTML = '';
+    }
+  };
+  window.showModal = function(title, body) {
+    modal.style.display = 'flex';
+    document.getElementById('modal-title').innerText = title;
+    modalBody.innerHTML = body;
+  }
+  window.closeModal = function() {
+    modal.style.display = 'none';
+    modalBody.innerHTML = '';
+  }
+</script>

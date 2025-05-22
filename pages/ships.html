@@ -4,6 +4,7 @@ title: Oskoreia - All ships
 permalink: /ships/
 ---
 <link rel="stylesheet" href="/assets/styles/ships.css" />
+<link rel="stylesheet" href="/assets/styles/ship.css" />
 {% include hero.html header=1 %}
 {% include link-bar.html %}
 
@@ -63,9 +64,10 @@ permalink: /ships/
         </div>
         <div>
           <!-- ${ship.url ? `<a href="https://www.robertsspaceindustries.com${ship.url}" target="_blank" class="ship-link-btn">View</a>` : `<span class="ship-link-na">N/A</span>`} -->
-          <a href="/ships/${ship.manufacturer.code.toLowerCase()}-${ship.code.toLowerCase()}" target="_blank" class="ship-link-btn">View</a>
+          <a href="#${ship.code}" class="ship-link-btn">View</a>
         </div>
       `;
+
       grid.appendChild(row);
     });
   }
@@ -83,4 +85,25 @@ permalink: /ships/
     );
     renderShips(filtered);
   });
+
+  function renderShip(ship) {
+    return `{% include ship-template.html %}`;
+  }
+
+  function showShip(ship) {
+    window.location.hash = ship.code;
+    showModal(ship.name, renderShip(ship));
+  }
+
+  function openShipFromHash() {
+    const hash = window.location.hash.substring(1);
+    const ship = ships.find(s => s.code.toLowerCase() === hash.toLowerCase());
+    if (ship) {
+      showShip(ship);
+    }
+  }
+
+  window.addEventListener('hashchange', openShipFromHash);
+  window.addEventListener('DOMContentLoaded', openShipFromHash);
 </script>
+{% include modal.html %}

@@ -163,12 +163,12 @@ var map = {
 if (process.env.DOWNLOAD_DATA == 1) {
     data.download().then(() => {
         data.mapDataFiles('ships_raw.json');
-        data.generateShipPages();
+        //data.generateShipPages();
     }).catch((err) => {
         console.error('Error downloading data', err);
         process.exit(1);
     });
 } else {
     data.mapDataFiles('ships_raw.json');
-    data.generateShipPages();
+    //data.generateShipPages();
 }
