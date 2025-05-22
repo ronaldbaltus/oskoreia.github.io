@@ -1,0 +1,71 @@
+---
+layout: default
+title: Oskoreia - Fleet
+permalink: /fleet
+fleet:
+    El_Quedro:
+    - aurora-mr
+    - constellation-taurus
+    X87:
+    - pioneer
+    - paladin
+    - orion
+    - endeavor
+    HolyPenguins:
+    - polaris
+    Sarlos:
+    - mpuv-tractor
+    - idris-m
+    st3vie:
+    - cutlass-black
+---
+
+<link rel="stylesheet" href="/assets/styles/fleet.css" />
+{% include hero.html header=1 %}
+{% include link-bar.html %}
+
+<div class="fleet-grid-container">
+  {% assign fleet = page.fleet %}
+  {% assign ships = site.data.ships %}
+  {% for member in fleet %}
+    <div class="fleet-member">
+      <div class="fleet-member-name">{{ member[0] }}</div>
+      <div class="fleet-member-ships">
+        {% for code in member[1] %}
+          {% assign ship = ships | where: "code", code | first %}
+          {% if ship %}
+            <a href="#{{ ship.code | downcase }}" class="fleet-ship-link" title="{{ ship.name }}">
+              <div class="fleet-ship-card">
+                {% if ship.media and ship.media.avatar %}
+                  <img src="{{ ship.media.avatar }}" alt="{{ ship.name }}" class="fleet-ship-avatar" />
+                {% endif %}
+                <div class="fleet-ship-name">{{ ship.name }}</div>
+              </div>
+            </a>
+          {% else %}
+            <div class="fleet-ship-card fleet-ship-missing" title="Unknown ship code: {{ code }}">
+              <div class="fleet-ship-name">{{ code }}</div>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  const ships = {{ site.data.ships | jsonify }};
+
+  function openShipFromHash() {
+    const hash = window.location.hash.substring(1);
+    const ship = ships.find(s => s.code.toLowerCase() === hash.toLowerCase());
+    if (ship) {
+      showShipModal(ship);
+    }
+  }
+
+  window.addEventListener('hashchange', openShipFromHash);
+  window.addEventListener('DOMContentLoaded', openShipFromHash);
+</script>
+
+{% include ship-modal.html %}

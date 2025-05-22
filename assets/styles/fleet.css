@@ -1,0 +1,81 @@
+.fleet-grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: flex-start;
+  margin: 2em 0;
+}
+
+.fleet-member {
+  background: #181a1b;
+  border-radius: 10px;
+  padding: 1.5em 1em 1em 1em;
+  min-width: 220px;
+  max-width: 260px;
+  flex: 1 1 220px;
+  box-shadow: 0 2px 12px #0003;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fleet-member-name {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  color: var(--accent, #6cf);
+  letter-spacing: 1px;
+}
+
+.fleet-member-ships {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+}
+
+.fleet-ship-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.fleet-ship-card {
+  background: #232527;
+  border-radius: 8px;
+  padding: 0.7em 0.5em 0.5em 0.5em;
+  min-width: 90px;
+  max-width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 1px 6px #0002;
+}
+
+.fleet-ship-card:hover {
+  background: #2a2d31;
+  box-shadow: 0 2px 12px #0005;
+}
+
+.fleet-ship-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 6px;
+  object-fit: cover;
+  margin-bottom: 0.5em;
+  background: #111;
+}
+
+.fleet-ship-name {
+  font-size: 0.98em;
+  text-align: center;
+  color: #eee;
+  margin-top: 0.2em;
+  word-break: break-word;
+}
+
+.fleet-ship-missing {
+  background: #442;
+  color: #ffb;
+  font-style: italic;
+}

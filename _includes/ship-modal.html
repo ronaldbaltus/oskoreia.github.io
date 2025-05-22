@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="/assets/styles/ship.css" />
+<script>
+  window.showShipModal = function (ship) {
+    window.location.hash = ship.code;
+    showModal(ship.name, `{% include ship-template.html %}`);
+  }
+</script>
+{% include modal.html %}

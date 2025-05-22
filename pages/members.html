@@ -26,11 +26,7 @@ rankOrder:
     {% assign group = members | where: "rank", rank %}
     <div class="org-grid">
       {% for member in group %}
-        <a class="org-member-card" href="https://robertsspaceindustries.com/en/citizens/{{ member.handle }}" target="_blank">
-          <img class="org-member-image" alt="{{ member.handle }} avatar" src="{{ member.image }}" />
-          <div class="org-member-name">{{ member.handle }}</div>
-          <!-- Add more member info here if needed -->
-        </a>
+        {% include member-card.html member=member %}
       {% endfor %}
     </div>
   {% endfor %}

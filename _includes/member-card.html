@@ -1,0 +1,6 @@
+{% assign member = include.member %}
+<a class="org-member-card" href="https://robertsspaceindustries.com/en/citizens/{{ member.handle }}" target="_blank">
+    <img class="org-member-image" alt="{{ member.handle }} avatar" src="{{ member.image }}" />
+    <div class="org-member-name">{{ member.handle }}</div>
+    <!-- Add more member info here if needed -->
+</a>
