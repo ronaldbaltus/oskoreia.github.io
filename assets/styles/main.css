@@ -47,6 +47,14 @@ body {
     background-image: url('/assets/images/oskoreia_header_4.png');
 }
 
+.hero.hero-5 {
+    background-image: url('/assets/images/oskoreia_header_5.png');
+}
+
+.hero.hero-6 {
+    background-image: url('/assets/images/oskoreia_header_6.png');
+}
+
 
 .hero-image {
     position: absolute;
