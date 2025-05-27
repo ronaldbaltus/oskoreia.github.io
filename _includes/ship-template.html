@@ -11,6 +11,9 @@
   <div class="ship-description">
     <p>${ ship.description }</p>
   </div>
+
+
+
   <div class="ship-specs">
     <div class="spec-grid">
       <div><strong>Name:</strong></div>
@@ -25,41 +28,73 @@
       <div>${ ship.size }</div>
       <div><strong>Production Status:</strong></div>
       <div>${ ship.production_status }</div>
-      <div><strong>Production Note:</strong></div>
-      <div>${ ship.production_note }</div>
+    </div>
+  </div> 
+
+  <!-- Ship size schematic as an isometric rectangle (cuboid) -->
+  <div class="ship-schematic-container">
+    <svg class="ship-schematic" viewBox="0 0 400 220" width="400" height="220">
+      <!-- Isometric cuboid: length = 2 * width, height = 0.75 * width -->
+      <!-- width = 80, length = 160, height = 60 -->
+      
+      <!-- Front face -->
+      <polygon points="80,100 80,160 160,190 160,130" fill="#222" stroke="#6cf" stroke-width="2"/>
+      <!-- Top face -->
+      <polygon points="80,100 160,130 320,70 240,40" fill="#333" stroke="#6cf" stroke-width="2"/>
+      <!-- Side face -->
+      <polygon points="160,130 160,190 320,130 320,70" fill="#282c34" stroke="#6cf" stroke-width="2"/>
+
+      <!-- Height arrow -->
+      <line x1="70" y1="110" x2="70" y2="150" stroke="#fff" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow2)"/>
+      <text x="30" y="130" fill="#fff" font-size="13" transform="rotate(-90 50,135)">Height</text>
+      <text x="45" y="135" fill="#6cf" font-size="13" transform="rotate(-90 60,135)">${ ship.height }m</text>
+
+      <!-- Length arrow -->
+      <line x1="170" y1="200" x2="320" y2="140" stroke="#fff" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow2)"/>
+      <text x="240" y="190" fill="#fff" font-size="13" transform="rotate(-18 240,180)">Length</text>
+      <text x="240" y="210" fill="#6cf" font-size="13" transform="rotate(-18 240,180)">${ ship.length }m</text>
+      
+      <!-- Beam arrow (width) -->
+      <line x1="320" y1="60" x2="250" y2="35" stroke="#fff" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow2)"/>
+      <text x="275" y="20" fill="#fff" font-size="13" transform="rotate(18 275,30)">Beam</text>
+      <text x="275" y="40" fill="#6cf" font-size="13" transform="rotate(18 275,50)">${ ship.beam }m</text>
+
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto" markerUnits="strokeWidth">
+          <path d="M0,0 L8,4 L0,8 L3,4 z" fill="#fff" transform="scale(-1,1) translate(-8,0)"/>
+        </marker>
+        <marker id="arrow2" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto" markerUnits="strokeWidth">
+          <path d="M0,0 L8,4 L0,8 L3,4 z" fill="#fff"/>
+        </marker>
+      </defs>
+    </svg>
+    <div class="ship-schematic-labels">
+      <span><strong>Length:</strong> ${ ship.length }m</span>
+      <span><strong>Beam:</strong> ${ ship.beam }m</span>
+      <span><strong>Height:</strong> ${ ship.height }m</span>
+    </div>
+  </div>
+
+  <div class="ship-specs">
+    <div class="spec-grid">
       <div><strong>SCM Speed:</strong></div>
       <div>${ ship.scm_speed }</div>
       <div><strong>Afterburner Speed:</strong></div>
       <div>${ ship.afterburner_speed }</div>
       <div><strong>Cargo Capacity:</strong></div>
       <div>${ ship.cargocapacity }</div>
-      <div><strong>Beam:</strong></div>
-      <div>${ ship.beam }</div>
-      <div><strong>Height:</strong></div>
-      <div>${ ship.height }</div>
-      <div><strong>Length:</strong></div>
-      <div>${ ship.length }</div>
       <div><strong>Mass:</strong></div>
       <div>${ ship.mass }</div>
       <div><strong>Min Crew:</strong></div>
       <div>${ ship.min_crew }</div>
       <div><strong>Max Crew:</strong></div>
       <div>${ ship.max_crew }</div>
-      <div><strong>Chassis ID:</strong></div>
-      <div>${ ship.chassis_id }</div>
       <div><strong>Manufacturer:</strong></div>
-      <div>${ ship.manufacturer.name } (${ ship.manufacturer.code })</div>
-      <div><strong>Manufacturer ID:</strong></div>
-      <div>${ ship.manufacturer_id }</div>
-      <div><strong>Price:</strong></div>
-      <div>${ ship.price }</div>
+      <div>${ ship.manufacturer.name }</div>
       <div><strong>Time Modified:</strong></div>
-      <div>${ ship.time_modified }</div>
-      <div><strong>Time Modified (Raw):</strong></div>
-      <div>${ ship.time_modified_unfiltered }</div>
+      <div>${ (new Date(ship.time_modified_unfiltered)).toLocaleString() } (${timeElapsedString(ship.time_modified_unfiltered)})</div>
       <div><strong>URL:</strong></div>
       <div><a href="https://www.robertsspaceindustries.com${ ship.url }"><img src="/assets/images/STARCITIZEN_WHITE.png" alt="Star Citizen Logo" style="height:4em;"></a></div>
     </div>
   </div>
 </div>
-

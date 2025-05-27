@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 2em;
-  justify-content: flex-start;
+  justify-content: center; /* Center the grid horizontally */
   margin: 2em 0;
 }
 

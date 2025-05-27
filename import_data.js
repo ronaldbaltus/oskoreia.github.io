@@ -68,8 +68,6 @@ var data = {
         for (let i=0; i < ships.length; i++) {
             var ship = ships[i];
             fs.writeFileSync(targetDir + ship.manufacturer.code + '_' + ship.code + '.md', data.generateShipPage(i, ship));
-
-            //if (i >= 10) break;
         }
     },
 
@@ -100,6 +98,8 @@ var map = {
                 retval[x] = ship[x];
             }
         }
+
+        delete retval.time_modified;
 
         retval.code = data.slugify(ship.name);
         retval.manufacturer = {
