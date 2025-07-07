@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="icon" viewBox="0 0 24 24">
 	<defs>
 		<style>
-			.cls-1{fill:#000;stroke-width:0}
+			.cls-1{fill:#fff
 		</style>
 	</defs>
 	<path d="M6.92 15.84c-.17 0-.3-.07-.43-.17a4.798 4.798 0 0 1 0-6.78c.23-.23.6-.23.87 0 .23.23.23.6 0 .87-1.4 1.4-1.4 3.68 0 5.08.23.23.23.6 0 .87-.13.07-.3.13-.43.13Z" class="cls-1"/>

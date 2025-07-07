@@ -1,25 +1,27 @@
 <div class="ship-details">
   <h2>
     ${ ship.name }
-    <span class="manufacturer">by ${ ship.manufacturer.name }</span>
+    <span class="manufacturer">by</span>
+    ${ ship.manufacturer.name }
+    <span class="icon icon-brand-${ ship.manufacturer.code.toLowerCase() }"></span>
   </h2>
   <div class="ship-image">
-    <img src="${ ship.media.cover }" alt="${ ship.name } cover" class="ship-cover">
+    <img src="${ ship.media.cover }" alt="${ ship.name } cover" class="ship-cover" />
     <span class="fade-left"></span>
     <span class="fade-right"></span>
+    
   </div>
+
   <div class="ship-description">
     <p>${ ship.description }</p>
   </div>
 
-
-
   <div class="ship-specs">
     <div class="spec-grid">
-      <div><strong>Name:</strong></div>
-      <div>${ ship.name }</div>
-      <div><strong>Code:</strong></div>
-      <div>${ ship.code }</div>
+      <!-- <div><strong>Name:</strong></div>
+      <div>${ ship.name }</div> -->
+      <!-- <div><strong>Code:</strong></div>
+      <div>${ ship.code }</div> -->
       <div><strong>Type:</strong></div>
       <div>${ ship.type }</div>
       <div><strong>Focus:</strong></div>
@@ -97,4 +99,7 @@
       <div><a href="https://www.robertsspaceindustries.com${ ship.url }"><img src="/assets/images/STARCITIZEN_WHITE.png" alt="Star Citizen Logo" style="height:4em;"></a></div>
     </div>
   </div>
+
+  
+  ${ `{% include ship-component-list.html %}` }
 </div>

@@ -2,18 +2,18 @@
   display: flex;
   flex-wrap: wrap;
   gap: 2em;
-  justify-content: center; /* Center the grid horizontally */
+  justify-content: center;
   margin: 2em 0;
 }
 
 .fleet-member {
-  background: #181a1b;
+  background: var(--dark);
   border-radius: 10px;
   padding: 1.5em 1em 1em 1em;
   min-width: 220px;
   max-width: 260px;
   flex: 1 1 220px;
-  box-shadow: 0 2px 12px #0003;
+  box-shadow: 0 2px 12px var(--shadow);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,7 +23,7 @@
   font-size: 1.3em;
   font-weight: bold;
   margin-bottom: 1em;
-  color: var(--accent, #6cf);
+  color: var(--accent);
   letter-spacing: 1px;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .fleet-ship-card {
-  background: #232527;
+  background: var(--dark);
   border-radius: 8px;
   padding: 0.7em 0.5em 0.5em 0.5em;
   min-width: 90px;
@@ -49,12 +49,12 @@
   flex-direction: column;
   align-items: center;
   transition: background 0.2s, box-shadow 0.2s;
-  box-shadow: 0 1px 6px #0002;
+  box-shadow: 0 1px 6px var(--shadow);
 }
 
 .fleet-ship-card:hover {
-  background: #2a2d31;
-  box-shadow: 0 2px 12px #0005;
+  background: var(--background);
+  box-shadow: 0 2px 12px var(--shadow);
 }
 
 .fleet-ship-avatar {
@@ -63,7 +63,7 @@
   border-radius: 6px;
   object-fit: cover;
   margin-bottom: 0.5em;
-  background: #111;
+  background: var(--background);
 }
 
 .fleet-ship-name {
@@ -75,7 +75,7 @@
 }
 
 .fleet-ship-missing {
-  background: #442;
-  color: #ffb;
+  background: var(--accent);
+  color: var(--light);
   font-style: italic;
 }

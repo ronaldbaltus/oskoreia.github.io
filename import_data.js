@@ -117,6 +117,22 @@ var map = {
             }
         }
 
+        retval.components = {
+            weapons: {},
+            modular: {}
+        };
+        if (ship.compiled) {
+            if (ship.compiled.RSIWeapon)
+            {
+                retval.components.weapons = ship.compiled.RSIWeapon;
+            }
+
+            if (ship.compiled.RSIModular)
+            {
+                retval.components.modular = ship.compiled.RSIModular;
+            }
+        }
+
         return retval;
     },
 

@@ -296,6 +296,16 @@
         "Recruiter"
       ],
       "stars": 3
+    },
+    {
+      "display": "rrRadioman",
+      "handle": "rrRadioMan",
+      "image": "https://robertsspaceindustries.com/media/olx947hr7zts8r/avatar/Caveman.jpg",
+      "rank": "Commander",
+      "roles": [
+        "Officer"
+      ],
+      "stars": 3
     }
   ],
   "message": "ok",

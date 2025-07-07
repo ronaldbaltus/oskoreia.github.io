@@ -1,104 +1,128 @@
 .ship-details {
-    max-width: 700px;
-    margin: 2em auto;
-    padding: 2em;
-    background: #181a1b;
-    color: #eee;
-    border-radius: 8px;
+  max-width: 700px;
+  margin: 0em auto;
+  padding: 2em;
+  background: var(--dark);
+  color: #eee;
+  border-radius: 8px;
+  text-align: center; /* Center all contents */
 }
 
 .ship-details h2 {
-    margin-bottom: 0.2em;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center horizontally */
+  gap: 0.5em;
+  margin-bottom: 0.2em;
+  text-align: center;
+}
+
+.ship-details h2 .manufacturer,
+.ship-details h2 .icon {
+  margin-bottom: 0;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.ship-details h2 .icon {
+  width: 96px;
+  height: 96px;
+  background-color: var(--text);
 }
 
 .ship-details .manufacturer {
-    font-size: 1rem;
-    color: #aaa;
+  font-size: 1rem;
+  color: var(--text-muted);
 }
 
 .ship-description {
-    margin-bottom: 1em;
-    text-align: left;;
+  margin-bottom: 1em;
+  text-align: left;
 }
 
 .ship-details a {
-    color: var(--accent);
+  color: var(--accent);
 }
 
 .ship-specs .spec-grid {
-    display: grid;
-    grid-template-columns: max-content 1fr;
-    gap: 0.5em 1.5em;
-    align-items: center;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.5em 1.5em;
+  align-items: center;
 }
 
 .ship-specs .spec-grid > div:nth-child(2n-1) {
-    text-align: right;
-    font-weight: bold;
+  text-align: right;
+  font-weight: bold;
 }
 
 .ship-specs .spec-grid > div:nth-child(2n) {
-    text-align: left;
+  text-align: left;
 }
 
 .ship-details .ship-image {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    overflow: hidden;
-    position: relative;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
 }
 
 .ship-details .ship-image img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 8px;
-    /* Optional: smooths the image edges */
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
 }
 
 .ship-details .ship-image::before,
 .ship-details .ship-image::after {
-    content: "";
-    position: absolute;
-    left: 0; right: 0;
-    height: 20%;
-    pointer-events: none;
-    z-index: 2;
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  height: 20%;
+  pointer-events: none;
+  z-index: 2;
 }
 
 .ship-details .ship-image::before {
-    top: 0;
-    border-radius: 8px 8px 0 0;
-    background: linear-gradient(to top, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+  top: 0;
+  border-radius: 8px 8px 0 0;
+  background: linear-gradient(to top, rgba(24,26,27,0) 0%, var(--dark) 100%);
 }
 
 .ship-details .ship-image::after {
-    bottom: 0;
-    border-radius: 0 0 8px 8px;
-    background: linear-gradient(to bottom, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+  bottom: 0;
+  border-radius: 0 0 8px 8px;
+  background: linear-gradient(to bottom, rgba(24,26,27,0) 0%, var(--dark) 100%);
 }
 
 .ship-details .ship-image .fade-left,
 .ship-details .ship-image .fade-right {
-    content: "";
-    position: absolute;
-    top: 0; bottom: 0;
-    width: 20%;
-    pointer-events: none;
-    z-index: 2;
+  content: "";
+  position: absolute;
+  top: 0; bottom: 0;
+  width: 20%;
+  pointer-events: none;
+  z-index: 2;
 }
 
 .ship-details .ship-image .fade-left {
-    left: 0;
-    border-radius: 8px 0 0 8px;
-    background: linear-gradient(to left, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+  left: 0;
+  border-radius: 8px 0 0 8px;
+  background: linear-gradient(to left, rgba(24,26,27,0) 0%, var(--dark) 100%);
 }
 
 .ship-details .ship-image .fade-right {
-    right: 0;
-    border-radius: 0 8px 8px 0;
-    background: linear-gradient(to right, rgba(24,26,27,0) 0%, rgba(24,26,27,1) 100%);
+  right: 0;
+  border-radius: 0 8px 8px 0;
+  background: linear-gradient(to right, rgba(24,26,27,0) 0%, var(--dark) 100%);
+}
+
+.ship-details .ship-icons .icon {
+  width: 32px;
+  height: 32px;
+  background-color: var(--light);
 }
 
 .ship-schematic-container {
@@ -108,10 +132,10 @@
   margin: 2em 0 2em 0;
 }
 .ship-schematic {
-  background: #181a1b;
+  background: var(--dark);
   border-radius: 10px;
   margin-bottom: 0.5em;
-  box-shadow: 0 2px 12px #0003;
+  box-shadow: 0 2px 12px var(--shadow);
   max-width: 100%;
   height: auto;
 }
@@ -123,7 +147,104 @@
   font-size: 1.1em;
 }
 .ship-schematic-labels span {
-  background: #232527;
+  background: var(--dark);
   border-radius: 6px;
   padding: 0.2em 0.8em;
 }
+
+.ship-components {
+  margin: 2em 0;
+}
+
+.ship-component-category {
+  margin-bottom: 1em;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--dark);
+  overflow: hidden;
+}
+
+.ship-component-category-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  padding: 1em;
+  background: var(--background);
+  cursor: pointer;
+  transition: background 0.2s;
+  user-select: none;
+}
+
+.ship-component-category-header:hover {
+  background: var(--accent);
+  color: var(--dark);
+}
+
+.ship-component-category-header .icon {
+  width: 32px;
+  height: 32px;
+  background-color: var(--light);
+  flex-shrink: 0;
+}
+
+.ship-component-category-title {
+  margin: 0;
+  font-size: 1.2em;
+  flex-grow: 1;
+}
+
+.ship-component-category-toggle {
+  width: 24px;
+  height: 24px;
+  background-color: var(--text);
+  mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>');
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  transition: transform 0.3s;
+  flex-shrink: 0;
+}
+
+.ship-component-category.collapsed .ship-component-category-toggle {
+  transform: rotate(-90deg);
+}
+
+.ship-component-list {
+  padding: 0 1em 1em 1em;
+  max-height: 1000px;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+}
+
+.ship-component-category.collapsed .ship-component-list {
+  max-height: 0;
+  padding: 0 1em;
+}
+
+.ship-component {
+  padding: 0.8em;
+  margin: 0.5em 0;
+  background: var(--background);
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.ship-component .spec-grid {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.3em 1em;
+  align-items: center;
+  font-size: 0.9em;
+  flex-grow: 1;
+  text-align: left;
+}
+
+.ship-component .icon {
+  flex-shrink: 0;
+}
+
+
+

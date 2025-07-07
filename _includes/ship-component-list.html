@@ -1,0 +1,36 @@
+<div class="ship-components">
+    ${ Object.keys(ship.components).map(category => `
+        ${ Object.keys(ship.components[category]).map(subcategory => {
+            if (ship.components[category][subcategory].length === 0) return '';
+            return `
+            <div class="ship-component-category collapsed" onclick="toggleComponentCategory(this)">
+                <div class="ship-component-category-header">
+                    <div class="icon icon-32 ${getShipComponentCategoryIcon(subcategory)}"></div>
+                    <h3 class="ship-component-category-title">
+                        ${formatCategoryName(subcategory)} 
+                        (${ship.components[category][subcategory].length})
+                    </h3>
+                    <div class="ship-component-category-toggle"></div>
+                </div>
+                
+                <div class="ship-component-list">
+                    ${ ship.components[category][subcategory].map(component => `
+                        <div class="ship-component">
+                            <div class="spec-grid">
+                                <div><strong>Name:</strong></div>
+                                <div>${component.details || component.name}</div>
+                                <div><strong>Size:</strong></div>
+                                <div>${component.size}</div>
+                                <div><strong>Manufacturer:</strong></div>
+                                <div>${component.manufacturer}</div>
+                                <div><strong>Quantity:</strong></div>
+                                <div>${component.quantity}</div>
+                            </div>
+                            <div class="icon icon-32 ${getShipComponentNameIcon(component.name)}"></div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        ` }).join('')}
+    `).join('') }
+</div>

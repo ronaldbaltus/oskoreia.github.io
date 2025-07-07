@@ -1,82 +1,5 @@
-/* .fleet-table {
-    max-width: 700px;
-    margin: 3em auto;
-    background: rgba(20,20,20,0.85);
-    border-radius: 12px;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.2);
-    color: #eee;
-    padding: 2em;
-    font-family: 'Audiowide', 'Segoe UI', Arial, sans-serif;
-}
-.fleet-table h2 {
-    font-family: 'Orbitron', 'Audiowide', 'Segoe UI', Arial, sans-serif;
-    margin-top: 0;
-    margin-bottom: 1.5em;
-    text-align: center;
-}
-.fleet-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    border-bottom: 1px solid #222;
-    padding: 1em 0;
-}
-.fleet-row:last-child {
-    border-bottom: none;
-}
-.fleet-member {
-    font-weight: bold;
-    font-size: 1.2em;
-    flex: 1 1 30%;
-    text-align: left;
-}
-.fleet-ships {
-    flex: 2 1 70%;
-    text-align: left;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.2em 2em;
-}
-.ship-entry {
-    display: flex;
-    align-items: center;
-    margin-bottom: 0.5em;
-}
-.ship-entry img {
-    width: 48px;
-    height: 32px;
-    object-fit: cover;
-    border-radius: 6px;
-    margin-right: 0.6em;
-    background: #222;
-    border: 1px solid #333;
-}
-.fleet-ships a {
-    color: #7abaff;
-    text-decoration: none;
-    transition: color 0.2s;
-    font-size: 1em;
-}
-.fleet-ships a:hover {
-    color: #fff;
-    text-decoration: underline;
-}
-@media (max-width: 600px) {
-    .fleet-row {
-        flex-direction: column;
-        gap: 0.5em;
-    }
-    .fleet-member, .fleet-ships {
-        text-align: left;
-    }
-    .fleet-ships {
-        flex-direction: column;
-        gap: 0.7em;
-    }
-} */
-
 .org-members {
-    padding: 2em;
+  padding: 2em;
 }
 
 .org-grid {
@@ -92,21 +15,22 @@
   border-radius: 10px;
   padding: 1em;
   text-align: left;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  box-shadow: 0 2px 8px var(--shadow);
   font-size: 1em;
   display: flex;
-  align-items: center; /* Vertically center content */
-  gap: 0.7em;          /* Space between image and name */
+  align-items: center;
+  gap: 0.7em;
   text-decoration: none;
 }
 .org-member-name {
-  display: inline-block;
-  margin-bottom: 0;
-  vertical-align: middle;
+  font-weight: bold;
+  font-size: 1.1em;
 }
 .org-member-image {
   width: 32px;
   height: 32px;
   display: inline-block;
-  margin-bottom: 0;    /* Remove bottom margin for alignment */
+  margin-bottom: 0;
+  border-radius: 6px;
+  object-fit: cover;
 }

@@ -1,0 +1,88 @@
+.icon {
+  background-color: var(--accent);
+  background-position: no-repeat center center;
+  aspect-ratio: 1 / 1;
+  height: 100%;
+  width: 100%;
+}
+
+.icon-32 {
+  width: 32px !important;
+  height: 32px !important;
+}
+
+.icon-64 {
+  width: 64px !important;
+  height: 64px !important;
+}
+
+.icon-96 {
+  width: 96px !important;
+  height: 96px !important;
+}
+
+.icon-128 {
+  width: 128px !important;
+  height: 128px !important;
+}
+
+
+/* Use mask-image instead of src for all icon classes */
+.icon-battery { mask-image: url("/assets/images/icons/battery.svg"); }
+.icon-brand-acom { mask-image: url("/assets/images/icons/brand-acom.svg"); }
+.icon-brand-aegs { mask-image: url("/assets/images/icons/brand-aegs.svg"); }
+.icon-brand-anvl { mask-image: url("/assets/images/icons/brand-anvl.svg"); }
+.icon-brand-argo { mask-image: url("/assets/images/icons/brand-argo.svg"); }
+.icon-brand-asas { mask-image: url("/assets/images/icons/brand-asas.svg"); }
+.icon-brand-banu { mask-image: url("/assets/images/icons/brand-banu.svg"); }
+.icon-brand-cnou { mask-image: url("/assets/images/icons/brand-cnou.svg"); }
+.icon-brand-crus { mask-image: url("/assets/images/icons/brand-crus.svg"); }
+.icon-brand-drak { mask-image: url("/assets/images/icons/brand-drak.svg"); }
+.icon-brand-espr { mask-image: url("/assets/images/icons/brand-espr.svg"); }
+.icon-brand-gama { mask-image: url("/assets/images/icons/brand-gama.svg"); }
+.icon-brand-grin { mask-image: url("/assets/images/icons/brand-grin.svg"); }
+.icon-brand-krig { mask-image: url("/assets/images/icons/brand-krig.svg"); }
+.icon-brand-misc { mask-image: url("/assets/images/icons/brand-misc.svg"); }
+.icon-brand-mrai { mask-image: url("/assets/images/icons/brand-mrai.svg"); }
+.icon-brand-nvy { mask-image: url("/assets/images/icons/brand-nvy.svg"); }
+.icon-brand-orig { mask-image: url("/assets/images/icons/brand-orig.svg"); }
+.icon-brand-rsi { mask-image: url("/assets/images/icons/brand-rsi.svg"); }
+.icon-brand-tmbl { mask-image: url("/assets/images/icons/brand-tmbl.svg"); }
+.icon-brand-vncl { mask-image: url("/assets/images/icons/brand-vncl.svg"); }
+.icon-brand-xnaa { mask-image: url("/assets/images/icons/brand-xnaa.svg"); }
+.icon-cargogrid { mask-image: url("/assets/images/icons/cargogrid.svg"); }
+.icon-computer { mask-image: url("/assets/images/icons/computer.svg"); }
+.icon-container { mask-image: url("/assets/images/icons/container.svg"); }
+.icon-cooler { mask-image: url("/assets/images/icons/cooler.svg"); }
+.icon-crosssection { mask-image: url("/assets/images/icons/crosssection.svg"); }
+.icon-door { mask-image: url("/assets/images/icons/door.svg"); }
+.icon-electromagnetic { mask-image: url("/assets/images/icons/electromagnetic.svg"); }
+.icon-emp { mask-image: url("/assets/images/icons/emp.svg"); }
+.icon-fireextinguisher { mask-image: url("/assets/images/icons/fireextinguisher.svg"); }
+.icon-fuelintake { mask-image: url("/assets/images/icons/fuelintake.svg"); }
+.icon-fuelnozzle { mask-image: url("/assets/images/icons/fuelnozzle.svg"); }
+.icon-fueltank { mask-image: url("/assets/images/icons/fueltank.svg"); }
+.icon-gravitygenerator { mask-image: url("/assets/images/icons/gravitygenerator.svg"); }
+.icon-infrared { mask-image: url("/assets/images/icons/infrared.svg"); }
+.icon-jumpdrive { mask-image: url("/assets/images/icons/jumpdrive.svg"); }
+.icon-lifesupport { mask-image: url("/assets/images/icons/lifesupport.svg"); }
+.icon-mainthruster { mask-image: url("/assets/images/icons/mainthruster.svg"); }
+.icon-maneuveringthruster { mask-image: url("/assets/images/icons/maneuveringthruster.svg"); }
+.icon-mininglaser { mask-image: url("/assets/images/icons/mininglaser.svg"); }
+.icon-missile { mask-image: url("/assets/images/icons/missile.svg"); }
+.icon-missilerack { mask-image: url("/assets/images/icons/missilerack.svg"); }
+.icon-pistol-s38 { mask-image: url("/assets/images/icons/pistol-s38.svg"); }
+.icon-powerplant { mask-image: url("/assets/images/icons/powerplant.svg"); }
+.icon-qed { mask-image: url("/assets/images/icons/qed.svg"); }
+.icon-quantumdrive { mask-image: url("/assets/images/icons/quantumdrive.svg"); }
+.icon-quantumfueltank { mask-image: url("/assets/images/icons/quantumfueltank.svg"); }
+.icon-radar { mask-image: url("/assets/images/icons/radar.svg"); }
+.icon-scanner { mask-image: url("/assets/images/icons/scanner.svg"); }
+.icon-selfdestruct { mask-image: url("/assets/images/icons/selfdestruct.svg"); }
+.icon-shieldgenerator { mask-image: url("/assets/images/icons/shieldgenerator.svg"); }
+.icon-tractorbeam { mask-image: url("/assets/images/icons/tractorbeam.svg"); }
+.icon-turret { mask-image: url("/assets/images/icons/turret.svg"); }
+.icon-uec { mask-image: url("/assets/images/icons/uec.svg"); }
+.icon-utility { mask-image: url("/assets/images/icons/utility.svg"); }
+.icon-weapon { mask-image: url("/assets/images/icons/weapon.svg"); }
+.icon-xurls { mask-image: url("/assets/images/icons/xurls.txt"); }
