@@ -51,8 +51,7 @@
   };
   window.onclick = function(event) {
     if (event.target === modal) {
-      modal.style.display = 'none';
-      modalBody.innerHTML = '';
+      closeModal();
     }
   };
   window.showModal = function(title, body) {
@@ -61,7 +60,17 @@
     modalBody.innerHTML = body;
   }
   window.closeModal = function() {
+    // Store current scroll position
+    const scrollY = window.scrollY;
+    
     modal.style.display = 'none';
     modalBody.innerHTML = '';
+    document.body.style.overflow = 'auto'; // Restore scrolling
+    
+    // Clear hash without triggering scroll
+    history.replaceState(null, null, window.location.pathname + window.location.search);
+    
+    // Restore scroll position
+    window.scrollTo(0, scrollY);
   }
 </script>
