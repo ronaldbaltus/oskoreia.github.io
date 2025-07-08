@@ -3,7 +3,7 @@
         ${ Object.keys(ship.components[category]).map(subcategory => {
             if (ship.components[category][subcategory].length === 0) return '';
             return `
-            <div class="ship-component-category collapsed" onclick="toggleComponentCategory(this)">
+            <div class="ship-component-category" onclick="toggleComponentCategory(this)">
                 <div class="ship-component-category-header">
                     <div class="icon icon-32 ${getShipComponentCategoryIcon(subcategory)}"></div>
                     <h3 class="ship-component-category-title">
