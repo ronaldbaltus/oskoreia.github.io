@@ -1,6 +1,5 @@
 [
   {
-    "afterburner_speed": 1200,
     "beam": 8.7,
     "cargocapacity": 3,
     "chassis_id": 1,
@@ -18,7 +17,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-07 14:23:21",
+    "time_modified_unfiltered": "2025-07-18 15:21:21",
     "type": "multi",
     "url": "/pledge/ships/rsi-aurora/Aurora-ES",
     "code": "aurora-es",
@@ -117,7 +116,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 8.7,
     "cargocapacity": 3,
     "chassis_id": 1,
@@ -135,7 +133,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 18:58:20",
+    "time_modified_unfiltered": "2025-07-18 15:21:22",
     "type": "exploration",
     "url": "/pledge/ships/rsi-aurora/Aurora-LX",
     "code": "aurora-lx",
@@ -245,7 +243,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 8.7,
     "cargocapacity": 2,
     "chassis_id": 1,
@@ -263,7 +260,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-07 14:29:54",
+    "time_modified_unfiltered": "2025-07-18 15:21:20",
     "type": "transport",
     "url": "/pledge/ships/rsi-aurora/Aurora-MR",
     "code": "aurora-mr",
@@ -362,7 +359,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 8,
     "cargocapacity": 6,
     "chassis_id": 1,
@@ -380,7 +376,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-07 14:22:51",
+    "time_modified_unfiltered": "2025-07-18 15:21:19",
     "type": "transport",
     "url": "/pledge/ships/rsi-aurora/Aurora-CL",
     "code": "aurora-cl",
@@ -491,7 +487,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 8.7,
     "cargocapacity": 3,
     "chassis_id": 1,
@@ -509,7 +504,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:20",
+    "time_modified_unfiltered": "2025-07-18 15:21:19",
     "type": "transport",
     "url": "/pledge/ships/rsi-aurora/Aurora-LN",
     "code": "aurora-ln",
@@ -597,7 +592,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 17,
     "cargocapacity": 8,
     "chassis_id": 2,
@@ -616,7 +610,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 18:37:18",
+    "time_modified_unfiltered": "2025-07-18 15:21:18",
     "type": "multi",
     "url": "/pledge/ships/origin-300/300i",
     "code": "300i",
@@ -704,7 +698,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 17,
     "cargocapacity": 12,
     "chassis_id": 2,
@@ -722,7 +715,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 18:38:22",
+    "time_modified_unfiltered": "2025-07-18 15:21:17",
     "type": "exploration",
     "url": "/pledge/ships/origin-300/315p",
     "code": "315p",
@@ -822,7 +815,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 17,
     "cargocapacity": 4,
     "chassis_id": 2,
@@ -840,7 +832,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:19",
+    "time_modified_unfiltered": "2025-07-18 15:21:17",
     "type": "combat",
     "url": "/pledge/ships/origin-300/325a",
     "code": "325a",
@@ -939,7 +931,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 17,
     "cargocapacity": 4,
     "chassis_id": 2,
@@ -957,7 +948,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 18:42:23",
+    "time_modified_unfiltered": "2025-07-18 15:21:18",
     "type": "competition",
     "url": "/pledge/ships/origin-300/350r",
     "code": "350r",
@@ -1045,7 +1036,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 21.5,
     "cargocapacity": 2,
     "chassis_id": 3,
@@ -1063,7 +1053,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:09:40",
+    "time_modified_unfiltered": "2025-07-18 15:21:18",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7C-Hornet-Mk-I",
     "code": "f7c-hornet-mk-i",
@@ -1174,7 +1164,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 21.5,
     "cargocapacity": 0,
     "chassis_id": 3,
@@ -1192,7 +1181,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 20:35:00",
+    "time_modified_unfiltered": "2025-07-18 15:20:34",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7C-Hornet-Wildfire-Mk-I",
     "code": "f7c-hornet-wildfire-mk-i",
@@ -1314,7 +1303,6 @@
     }
   },
   {
-    "afterburner_speed": 1142,
     "beam": 21.5,
     "cargocapacity": 0,
     "chassis_id": 3,
@@ -1332,7 +1320,7 @@
     "production_status": "flight-ready",
     "scm_speed": 219,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:10:15",
+    "time_modified_unfiltered": "2025-07-18 15:21:16",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7C-S-Hornet-Ghost-Mk-I",
     "code": "f7c-s-hornet-ghost-mk-i",
@@ -1453,7 +1441,6 @@
     }
   },
   {
-    "afterburner_speed": 1142,
     "beam": 21.5,
     "cargocapacity": 0,
     "chassis_id": 3,
@@ -1471,7 +1458,7 @@
     "production_status": "flight-ready",
     "scm_speed": 219,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:10:45",
+    "time_modified_unfiltered": "2025-07-18 15:21:16",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7C-R-Hornet-Tracker-Mk-I",
     "code": "f7c-r-hornet-tracker-mk-i",
@@ -1582,7 +1569,6 @@
     }
   },
   {
-    "afterburner_speed": 1142,
     "beam": 24,
     "cargocapacity": 0,
     "chassis_id": 3,
@@ -1600,7 +1586,7 @@
     "production_status": "flight-ready",
     "scm_speed": 219,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:11:19",
+    "time_modified_unfiltered": "2025-07-18 15:21:17",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7C-M-Super-Hornet-Mk-I",
     "code": "f7c-m-super-hornet-mk-i",
@@ -1711,7 +1697,6 @@
     }
   },
   {
-    "afterburner_speed": 1146,
     "beam": 22,
     "cargocapacity": 0,
     "chassis_id": 111,
@@ -1729,7 +1714,7 @@
     "production_status": "in-concept",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:33:26",
+    "time_modified_unfiltered": "2025-07-18 15:21:08",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet-mkii/F7A-Hornet-Mk-II",
     "code": "f7a-hornet-mk-ii",
@@ -1829,7 +1814,6 @@
     }
   },
   {
-    "afterburner_speed": 1142,
     "beam": 24,
     "cargocapacity": 0,
     "chassis_id": 3,
@@ -1847,7 +1831,7 @@
     "production_status": "flight-ready",
     "scm_speed": 219,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 21:13:41",
+    "time_modified_unfiltered": "2025-07-18 15:20:06",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7C-M-Super-Hornet-Heartseeker-Mk-I",
     "code": "f7c-m-super-hornet-heartseeker-mk-i",
@@ -1958,7 +1942,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 26,
     "cargocapacity": 96,
     "chassis_id": 4,
@@ -1974,9 +1957,9 @@
     "name": "Constellation Aquila",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 180,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:56:14",
+    "time_modified_unfiltered": "2025-07-18 15:21:05",
     "type": "exploration",
     "url": "/pledge/ships/rsi-constellation/Constellation-Aquila",
     "code": "constellation-aquila",
@@ -2087,7 +2070,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 26,
     "cargocapacity": 96,
     "chassis_id": 4,
@@ -2104,9 +2086,9 @@
     "price": 0,
     "production_note": "Damage States being mapped",
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 190,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:56:16",
+    "time_modified_unfiltered": "2025-07-18 15:21:07",
     "type": "multi",
     "url": "/pledge/ships/rsi-constellation/Constellation-Andromeda",
     "code": "constellation-andromeda",
@@ -2217,7 +2199,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 26,
     "cargocapacity": 174,
     "chassis_id": 4,
@@ -2233,9 +2214,9 @@
     "name": "Constellation Taurus",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 180,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:56:15",
+    "time_modified_unfiltered": "2025-07-18 15:21:06",
     "type": "transport",
     "url": "/pledge/ships/rsi-constellation/Constellation-Taurus",
     "code": "constellation-taurus",
@@ -2335,7 +2316,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 26,
     "cargocapacity": 80,
     "chassis_id": 4,
@@ -2351,9 +2331,9 @@
     "name": "Constellation Phoenix",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 185,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:56:13",
+    "time_modified_unfiltered": "2025-07-18 15:21:05",
     "type": "exploration",
     "url": "/pledge/ships/rsi-constellation/Constellation-Phoenix",
     "code": "constellation-phoenix",
@@ -2453,7 +2433,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 26,
     "cargocapacity": 80,
     "chassis_id": 4,
@@ -2471,7 +2450,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "large",
-    "time_modified_unfiltered": "2025-04-16 19:17:06",
+    "time_modified_unfiltered": "2025-07-18 15:20:20",
     "type": "exploration",
     "url": "/pledge/ships/rsi-constellation/Constellation-Phoenix-Emerald",
     "code": "constellation-phoenix-emerald",
@@ -2571,7 +2550,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 23.5,
     "cargocapacity": 66,
     "chassis_id": 5,
@@ -2590,7 +2568,7 @@
     "production_status": "flight-ready",
     "scm_speed": 197,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-11 17:39:49",
+    "time_modified_unfiltered": "2025-07-18 15:21:14",
     "type": "transport",
     "url": "/pledge/ships/misc-freelancer/Freelancer",
     "code": "freelancer",
@@ -2701,7 +2679,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 23.5,
     "cargocapacity": 36,
     "chassis_id": 5,
@@ -2717,9 +2694,9 @@
     "name": "Freelancer DUR",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 197,
+    "scm_speed": 200,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-11 17:32:22",
+    "time_modified_unfiltered": "2025-07-18 15:21:10",
     "type": "exploration",
     "url": "/pledge/ships/misc-freelancer/Freelancer-DUR",
     "code": "freelancer-dur",
@@ -2842,7 +2819,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 36,
     "cargocapacity": 120,
     "chassis_id": 5,
@@ -2858,9 +2834,9 @@
     "name": "Freelancer MAX",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 197,
+    "scm_speed": 195,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-11 17:39:06",
+    "time_modified_unfiltered": "2025-07-18 15:21:11",
     "type": "transport",
     "url": "/pledge/ships/misc-freelancer/Freelancer-MAX",
     "code": "freelancer-max",
@@ -2960,7 +2936,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 23.5,
     "cargocapacity": 36,
     "chassis_id": 5,
@@ -2976,9 +2951,9 @@
     "name": "Freelancer MIS",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 197,
+    "scm_speed": 204,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:17",
+    "time_modified_unfiltered": "2025-07-18 15:21:09",
     "type": "combat",
     "url": "/pledge/ships/misc-freelancer/Freelancer-MIS",
     "code": "freelancer-mis",
@@ -3089,7 +3064,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 26.5,
     "cargocapacity": 46,
     "chassis_id": 6,
@@ -3108,7 +3082,7 @@
     "production_status": "flight-ready",
     "scm_speed": 214,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:12",
+    "time_modified_unfiltered": "2025-07-18 15:21:05",
     "type": "multi",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Black",
     "code": "cutlass-black",
@@ -3231,7 +3205,6 @@
     }
   },
   {
-    "afterburner_speed": 1125,
     "beam": 26,
     "cargocapacity": 12,
     "chassis_id": 6,
@@ -3249,7 +3222,7 @@
     "production_status": "flight-ready",
     "scm_speed": 212,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:12",
+    "time_modified_unfiltered": "2025-07-18 15:21:02",
     "type": "support",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Red",
     "code": "cutlass-red",
@@ -3337,7 +3310,6 @@
     }
   },
   {
-    "afterburner_speed": 1165,
     "beam": 26,
     "cargocapacity": 12,
     "chassis_id": 6,
@@ -3355,7 +3327,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:11",
+    "time_modified_unfiltered": "2025-07-18 15:21:01",
     "type": "combat",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Blue",
     "code": "cutlass-blue",
@@ -3455,7 +3427,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 16.5,
     "cargocapacity": 0,
     "chassis_id": 7,
@@ -3473,7 +3444,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:58",
+    "time_modified_unfiltered": "2025-07-18 15:20:45",
     "type": "combat",
     "url": "/pledge/ships/aegis-avenger/Avenger-Stalker",
     "code": "avenger-stalker",
@@ -3572,7 +3543,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 16.5,
     "cargocapacity": 8,
     "chassis_id": 7,
@@ -3590,7 +3560,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:49",
+    "time_modified_unfiltered": "2025-07-18 15:20:33",
     "type": "transport",
     "url": "/pledge/ships/aegis-avenger/Avenger-Titan-Renegade",
     "code": "avenger-titan-renegade",
@@ -3689,7 +3659,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 16.5,
     "cargocapacity": 0,
     "chassis_id": 7,
@@ -3707,7 +3676,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:58",
+    "time_modified_unfiltered": "2025-07-18 15:20:45",
     "type": "combat",
     "url": "/pledge/ships/aegis-avenger/Avenger-Warlock",
     "code": "avenger-warlock",
@@ -3817,7 +3786,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 16.5,
     "cargocapacity": 8,
     "chassis_id": 7,
@@ -3835,7 +3803,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:57",
+    "time_modified_unfiltered": "2025-07-18 15:20:45",
     "type": "transport",
     "url": "/pledge/ships/aegis-avenger/Avenger-Titan",
     "code": "avenger-titan",
@@ -3934,7 +3902,6 @@
     }
   },
   {
-    "afterburner_speed": 1125,
     "beam": 22,
     "cargocapacity": 0,
     "chassis_id": 8,
@@ -3952,7 +3919,7 @@
     "production_status": "flight-ready",
     "scm_speed": 210,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:06",
+    "time_modified_unfiltered": "2025-07-18 15:20:58",
     "type": "combat",
     "url": "/pledge/ships/anvil-gladiator/Gladiator",
     "code": "gladiator",
@@ -4074,7 +4041,6 @@
     }
   },
   {
-    "afterburner_speed": 1450,
     "beam": 10,
     "cargocapacity": 0,
     "chassis_id": 9,
@@ -4092,7 +4058,7 @@
     "production_status": "flight-ready",
     "scm_speed": 280,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:12:55",
+    "time_modified_unfiltered": "2025-07-18 15:21:13",
     "type": "competition",
     "url": "/pledge/ships/origin-m50/M50",
     "code": "m50",
@@ -4180,7 +4146,6 @@
     }
   },
   {
-    "afterburner_speed": 845,
     "beam": 46.5,
     "cargocapacity": 291,
     "chassis_id": 10,
@@ -4198,7 +4163,7 @@
     "production_status": "flight-ready",
     "scm_speed": 106,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-02 16:09:57",
+    "time_modified_unfiltered": "2025-07-18 15:20:55",
     "type": "support",
     "url": "/pledge/ships/misc-starfarer/Starfarer",
     "code": "starfarer",
@@ -4297,7 +4262,6 @@
     }
   },
   {
-    "afterburner_speed": 845,
     "beam": 46.5,
     "cargocapacity": 291,
     "chassis_id": 10,
@@ -4315,7 +4279,7 @@
     "production_status": "flight-ready",
     "scm_speed": 106,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:56:03",
+    "time_modified_unfiltered": "2025-07-18 15:20:52",
     "type": "support",
     "url": "/pledge/ships/misc-starfarer/Starfarer-Gemini",
     "code": "starfarer-gemini",
@@ -4426,7 +4390,6 @@
     }
   },
   {
-    "afterburner_speed": 900,
     "beam": 39,
     "cargocapacity": 576,
     "chassis_id": 11,
@@ -4445,7 +4408,7 @@
     "production_status": "flight-ready",
     "scm_speed": 130,
     "size": "large",
-    "time_modified_unfiltered": "2025-06-17 16:46:14",
+    "time_modified_unfiltered": "2025-07-18 15:21:14",
     "type": "transport",
     "url": "/pledge/ships/drake-caterpillar/Caterpillar",
     "code": "caterpillar",
@@ -4600,7 +4563,6 @@
     }
   },
   {
-    "afterburner_speed": 900,
     "beam": 30,
     "cargocapacity": 576,
     "chassis_id": 11,
@@ -4618,7 +4580,7 @@
     "production_status": "flight-ready",
     "scm_speed": 130,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-13 20:37:51",
+    "time_modified_unfiltered": "2025-07-18 15:20:32",
     "type": "transport",
     "url": "/pledge/ships/drake-caterpillar/Caterpillar-Pirate-Edition",
     "code": "caterpillar-pirate-edition",
@@ -4853,7 +4815,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 30,
     "cargocapacity": 0,
     "chassis_id": 12,
@@ -4869,9 +4830,9 @@
     "name": "Retaliator",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 205,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:55:59",
+    "time_modified_unfiltered": "2025-07-18 15:20:46",
     "type": "combat",
     "url": "/pledge/ships/aegis-retaliator/Retaliator",
     "code": "retaliator",
@@ -4947,7 +4908,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 23,
     "cargocapacity": 0,
     "chassis_id": 13,
@@ -4963,9 +4923,9 @@
     "name": "Scythe",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 220,
+    "scm_speed": 222,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:14:28",
+    "time_modified_unfiltered": "2025-07-18 15:21:14",
     "type": "combat",
     "url": "/pledge/ships/scythe/Scythe",
     "code": "scythe",
@@ -5064,7 +5024,6 @@
     }
   },
   {
-    "afterburner_speed": 220,
     "beam": 125,
     "cargocapacity": 1326,
     "chassis_id": 14,
@@ -5083,7 +5042,7 @@
     "production_status": "flight-ready",
     "scm_speed": 110,
     "size": "capital",
-    "time_modified_unfiltered": "2025-05-15 16:00:37",
+    "time_modified_unfiltered": "2025-07-18 15:21:13",
     "type": "combat",
     "url": "/pledge/ships/aegis-idris/Idris-M",
     "code": "idris-m",
@@ -5227,7 +5186,6 @@
     }
   },
   {
-    "afterburner_speed": 220,
     "beam": 125,
     "cargocapacity": 1374,
     "chassis_id": 14,
@@ -5246,7 +5204,7 @@
     "production_status": "flight-ready",
     "scm_speed": 110,
     "size": "capital",
-    "time_modified_unfiltered": "2025-05-15 16:00:43",
+    "time_modified_unfiltered": "2025-07-18 15:21:11",
     "type": "combat",
     "url": "/pledge/ships/aegis-idris/Idris-P",
     "code": "idris-p",
@@ -5366,7 +5324,6 @@
     }
   },
   {
-    "afterburner_speed": 1450,
     "beam": 7.7,
     "cargocapacity": 0,
     "chassis_id": 15,
@@ -5384,7 +5341,7 @@
     "production_status": "flight-ready",
     "scm_speed": 280,
     "size": "snub",
-    "time_modified_unfiltered": "2024-12-05 20:00:58",
+    "time_modified_unfiltered": "2025-07-18 15:20:52",
     "type": "combat",
     "url": "/pledge/ships/p52-merlin/P-52-Merlin",
     "code": "p-52-merlin",
@@ -5471,7 +5428,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 18,
     "cargocapacity": 4,
     "chassis_id": 16,
@@ -5489,7 +5445,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-07 14:29:39",
+    "time_modified_unfiltered": "2025-07-18 15:21:01",
     "type": "multi",
     "url": "/pledge/ships/mustang/Mustang-Alpha",
     "code": "mustang-alpha",
@@ -5589,7 +5545,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 18,
     "cargocapacity": 0,
     "chassis_id": 16,
@@ -5607,7 +5562,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-07 14:17:17",
+    "time_modified_unfiltered": "2025-07-18 15:20:59",
     "type": "exploration",
     "url": "/pledge/ships/mustang/Mustang-Beta",
     "code": "mustang-beta",
@@ -5695,7 +5650,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 18,
     "cargocapacity": 0,
     "chassis_id": 16,
@@ -5713,7 +5667,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-07 14:29:45",
+    "time_modified_unfiltered": "2025-07-18 15:21:00",
     "type": "competition",
     "url": "/pledge/ships/mustang/Mustang-Gamma",
     "code": "mustang-gamma",
@@ -5789,7 +5743,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 18,
     "cargocapacity": 0,
     "chassis_id": 16,
@@ -5807,7 +5760,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:05",
+    "time_modified_unfiltered": "2025-07-18 15:20:57",
     "type": "combat",
     "url": "/pledge/ships/mustang/Mustang-Delta",
     "code": "mustang-delta",
@@ -5907,7 +5860,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 15.5,
     "cargocapacity": 0,
     "chassis_id": 16,
@@ -5925,7 +5877,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2024-05-28 19:02:04",
+    "time_modified_unfiltered": "2025-07-18 15:20:57",
     "type": "competition",
     "url": "/pledge/ships/mustang/Mustang-Omega",
     "code": "mustang-omega",
@@ -6001,7 +5953,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 15.5,
     "cargocapacity": 6,
     "chassis_id": 16,
@@ -6019,7 +5970,7 @@
     "production_status": "flight-ready",
     "scm_speed": 255,
     "size": "small",
-    "time_modified_unfiltered": "2024-07-19 18:30:15",
+    "time_modified_unfiltered": "2025-07-18 15:20:10",
     "type": "multi",
     "url": "/pledge/ships/mustang/Mustang-Alpha-Vindicator",
     "code": "mustang-alpha-vindicator",
@@ -6095,7 +6046,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 23.5,
     "cargocapacity": 2,
     "chassis_id": 17,
@@ -6113,7 +6063,7 @@
     "production_status": "flight-ready",
     "scm_speed": 203,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:10",
+    "time_modified_unfiltered": "2025-07-18 15:21:02",
     "type": "combat",
     "url": "/pledge/ships/redeemer/Redeemer",
     "code": "redeemer",
@@ -6224,7 +6174,6 @@
     }
   },
   {
-    "afterburner_speed": 1230,
     "beam": 17,
     "cargocapacity": 0,
     "chassis_id": 18,
@@ -6242,7 +6191,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:09",
+    "time_modified_unfiltered": "2025-07-18 15:21:04",
     "type": "combat",
     "url": "/pledge/ships/gladius/Gladius",
     "code": "gladius",
@@ -6341,7 +6290,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 16,
     "cargocapacity": 0,
     "chassis_id": 18,
@@ -6359,7 +6307,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:50",
+    "time_modified_unfiltered": "2025-07-18 15:20:35",
     "type": "combat",
     "url": "/pledge/ships/gladius/Gladius-Valiant",
     "code": "gladius-valiant",
@@ -6458,7 +6406,6 @@
     }
   },
   {
-    "afterburner_speed": 1206,
     "beam": 13,
     "cargocapacity": 0,
     "chassis_id": 19,
@@ -6476,7 +6423,7 @@
     "production_status": "flight-ready",
     "scm_speed": 226,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 19:31:48",
+    "time_modified_unfiltered": "2025-07-18 15:21:10",
     "type": "combat",
     "url": "/pledge/ships/khartu/Khartu-Al",
     "code": "khartu-al",
@@ -6552,7 +6499,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 160,
     "cargocapacity": 2880,
     "chassis_id": 20,
@@ -6571,7 +6517,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "large",
-    "time_modified_unfiltered": "2024-10-29 17:00:07",
+    "time_modified_unfiltered": "2025-07-18 15:21:09",
     "type": "transport",
     "url": "/pledge/ships/merchantman/Merchantman",
     "code": "merchantman",
@@ -6681,7 +6627,6 @@
     }
   },
   {
-    "afterburner_speed": 915,
     "beam": 71,
     "cargocapacity": 388,
     "chassis_id": 21,
@@ -6699,7 +6644,7 @@
     "production_status": "flight-ready",
     "scm_speed": 125,
     "size": "capital",
-    "time_modified_unfiltered": "2025-01-13 19:43:49",
+    "time_modified_unfiltered": "2025-07-18 15:21:05",
     "type": "exploration",
     "url": "/pledge/ships/890-jump/890-Jump",
     "code": "890-jump",
@@ -6820,7 +6765,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 76.5,
     "cargocapacity": 456,
     "chassis_id": 22,
@@ -6838,7 +6782,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:56:07",
+    "time_modified_unfiltered": "2025-07-18 15:21:00",
     "type": "exploration",
     "url": "/pledge/ships/carrack/Carrack",
     "code": "carrack",
@@ -6936,7 +6880,6 @@
     }
   },
   {
-    "afterburner_speed": 1400,
     "beam": 12.5,
     "cargocapacity": 0,
     "chassis_id": 23,
@@ -6953,9 +6896,9 @@
     "price": 0,
     "production_note": "This ship is in game and ready to fly immediately.",
     "production_status": "flight-ready",
-    "scm_speed": 240,
+    "scm_speed": 245,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:08",
+    "time_modified_unfiltered": "2025-07-18 15:21:01",
     "type": "transport",
     "url": "/pledge/ships/herald/Herald",
     "code": "herald",
@@ -7054,7 +6997,6 @@
     }
   },
   {
-    "afterburner_speed": 890,
     "beam": 60,
     "cargocapacity": 4608,
     "chassis_id": 24,
@@ -7072,7 +7014,7 @@
     "production_status": "flight-ready",
     "scm_speed": 110,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-02 16:04:36",
+    "time_modified_unfiltered": "2025-07-18 15:21:08",
     "type": "transport",
     "url": "/pledge/ships/hull/Hull-C",
     "code": "hull-c",
@@ -7171,7 +7113,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 10,
     "cargocapacity": 64,
     "chassis_id": 24,
@@ -7189,7 +7130,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 15:55:10",
+    "time_modified_unfiltered": "2025-07-18 15:20:54",
     "type": "industrial",
     "url": "/pledge/ships/hull/Hull-A",
     "code": "hull-a",
@@ -7265,7 +7206,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 15.5,
     "cargocapacity": 384,
     "chassis_id": 24,
@@ -7284,7 +7224,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "medium",
-    "time_modified_unfiltered": "2024-05-28 19:32:06",
+    "time_modified_unfiltered": "2025-07-18 15:20:56",
     "type": "transport",
     "url": "/pledge/ships/hull/Hull-B",
     "code": "hull-b",
@@ -7371,7 +7311,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 70,
     "cargocapacity": 20736,
     "chassis_id": 24,
@@ -7390,7 +7329,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "capital",
-    "time_modified_unfiltered": "2024-08-05 18:37:08",
+    "time_modified_unfiltered": "2025-07-18 15:20:54",
     "type": "transport",
     "url": "/pledge/ships/hull/Hull-D",
     "code": "hull-d",
@@ -7501,7 +7440,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 104,
     "cargocapacity": 98304,
     "chassis_id": 24,
@@ -7520,7 +7458,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "capital",
-    "time_modified_unfiltered": "2025-05-02 16:05:48",
+    "time_modified_unfiltered": "2025-07-18 15:20:54",
     "type": "transport",
     "url": "/pledge/ships/hull/Hull-E",
     "code": "hull-e",
@@ -7631,7 +7569,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 50,
     "cargocapacity": 384,
     "chassis_id": 25,
@@ -7650,7 +7587,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "capital",
-    "time_modified_unfiltered": "2025-04-29 15:23:12",
+    "time_modified_unfiltered": "2025-07-18 15:20:55",
     "type": "industrial",
     "url": "/pledge/ships/orion/Orion",
     "code": "orion",
@@ -7760,7 +7697,6 @@
     }
   },
   {
-    "afterburner_speed": 890,
     "beam": 118,
     "cargocapacity": 420,
     "chassis_id": 26,
@@ -7779,7 +7715,7 @@
     "production_status": "flight-ready",
     "scm_speed": 110,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-02 15:44:07",
+    "time_modified_unfiltered": "2025-07-29 16:03:30",
     "type": "industrial",
     "url": "/pledge/ships/reclaimer/Reclaimer",
     "code": "reclaimer",
@@ -7889,7 +7825,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 210,
     "cargocapacity": 5400,
     "chassis_id": 28,
@@ -7908,7 +7843,7 @@
     "production_status": "in-concept",
     "scm_speed": 50,
     "size": "capital",
-    "time_modified_unfiltered": "2024-07-23 19:55:20",
+    "time_modified_unfiltered": "2025-07-18 15:21:02",
     "type": "combat",
     "url": "/pledge/ships/aegis-javelin/Javelin",
     "code": "javelin",
@@ -8029,7 +7964,6 @@
     }
   },
   {
-    "afterburner_speed": 1075,
     "beam": 40,
     "cargocapacity": 0,
     "chassis_id": 30,
@@ -8047,7 +7981,7 @@
     "production_status": "flight-ready",
     "scm_speed": 210,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:04",
+    "time_modified_unfiltered": "2025-07-18 15:20:57",
     "type": "combat",
     "url": "/pledge/ships/vanguard/Vanguard-Warden",
     "code": "vanguard-warden",
@@ -8169,7 +8103,6 @@
     }
   },
   {
-    "afterburner_speed": 1085,
     "beam": 40,
     "cargocapacity": 0,
     "chassis_id": 30,
@@ -8187,7 +8120,7 @@
     "production_status": "flight-ready",
     "scm_speed": 212,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:02",
+    "time_modified_unfiltered": "2025-07-18 15:20:50",
     "type": "combat",
     "url": "/pledge/ships/vanguard/Vanguard-Harbinger",
     "code": "vanguard-harbinger",
@@ -8320,7 +8253,6 @@
     }
   },
   {
-    "afterburner_speed": 1075,
     "beam": 40,
     "cargocapacity": 0,
     "chassis_id": 30,
@@ -8339,7 +8271,7 @@
     "production_status": "flight-ready",
     "scm_speed": 210,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:56:01",
+    "time_modified_unfiltered": "2025-07-18 15:20:47",
     "type": "combat",
     "url": "/pledge/ships/vanguard/Vanguard-Sentinel",
     "code": "vanguard-sentinel",
@@ -8473,7 +8405,6 @@
     }
   },
   {
-    "afterburner_speed": 1115,
     "beam": 40,
     "cargocapacity": 0,
     "chassis_id": 30,
@@ -8492,7 +8423,7 @@
     "production_status": "flight-ready",
     "scm_speed": 209,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:48",
+    "time_modified_unfiltered": "2025-07-18 15:20:32",
     "type": "combat",
     "url": "/pledge/ships/vanguard/Vanguard-Hoplite",
     "code": "vanguard-hoplite",
@@ -8603,7 +8534,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 28.5,
     "cargocapacity": 6,
     "chassis_id": 31,
@@ -8620,9 +8550,9 @@
     "price": 0,
     "production_note": "This ship is in game and ready to fly immediately.",
     "production_status": "flight-ready",
-    "scm_speed": 220,
+    "scm_speed": 218,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 16:12:21",
+    "time_modified_unfiltered": "2025-07-18 15:20:50",
     "type": "multi",
     "url": "/pledge/ships/reliant/Reliant-Kore",
     "code": "reliant-kore",
@@ -8733,7 +8663,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 28.5,
     "cargocapacity": 0,
     "chassis_id": 31,
@@ -8751,7 +8680,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2024-12-05 20:00:54",
+    "time_modified_unfiltered": "2025-07-18 15:20:43",
     "type": "support",
     "url": "/pledge/ships/reliant/Reliant-Mako",
     "code": "reliant-mako",
@@ -8839,7 +8768,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 28.5,
     "cargocapacity": 0,
     "chassis_id": 31,
@@ -8857,7 +8785,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2024-12-05 20:00:54",
+    "time_modified_unfiltered": "2025-07-18 15:20:43",
     "type": "industrial",
     "url": "/pledge/ships/reliant/Reliant-Sen",
     "code": "reliant-sen",
@@ -8945,7 +8873,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 28.5,
     "cargocapacity": 0,
     "chassis_id": 31,
@@ -8961,9 +8888,9 @@
     "name": "Reliant Tana",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 220,
+    "scm_speed": 222,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:56",
+    "time_modified_unfiltered": "2025-07-18 15:20:41",
     "type": "combat",
     "url": "/pledge/ships/reliant/Reliant-Tana",
     "code": "reliant-tana",
@@ -9073,7 +9000,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 80,
     "cargocapacity": 0,
     "chassis_id": 32,
@@ -9092,7 +9018,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "large",
-    "time_modified_unfiltered": "2024-05-28 20:19:17",
+    "time_modified_unfiltered": "2025-07-18 15:20:53",
     "type": "transport",
     "url": "/pledge/ships/starliner/Genesis",
     "code": "genesis",
@@ -9168,7 +9094,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 20,
     "cargocapacity": 0,
     "chassis_id": 33,
@@ -9184,9 +9109,9 @@
     "name": "Glaive",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 220,
+    "scm_speed": 218,
     "size": "medium",
-    "time_modified_unfiltered": "2025-01-13 20:17:49",
+    "time_modified_unfiltered": "2025-07-18 15:20:49",
     "type": "combat",
     "url": "/pledge/ships/esperia-glaive/Glaive",
     "code": "glaive",
@@ -9296,7 +9221,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 48,
     "cargocapacity": 500,
     "chassis_id": 34,
@@ -9314,7 +9238,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "capital",
-    "time_modified_unfiltered": "2024-07-23 20:04:18",
+    "time_modified_unfiltered": "2025-07-18 15:20:48",
     "type": "industrial",
     "url": "/pledge/ships/misc-endeavor/Endeavor",
     "code": "endeavor",
@@ -9413,7 +9337,6 @@
     }
   },
   {
-    "afterburner_speed": 1235,
     "beam": 24,
     "cargocapacity": 0,
     "chassis_id": 35,
@@ -9430,9 +9353,9 @@
     "price": 0,
     "production_note": "Flight Ready",
     "production_status": "flight-ready",
-    "scm_speed": 206,
+    "scm_speed": 223,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:56:01",
+    "time_modified_unfiltered": "2025-07-18 15:20:47",
     "type": "combat",
     "url": "/pledge/ships/sabre/Sabre",
     "code": "sabre",
@@ -9520,7 +9443,6 @@
     }
   },
   {
-    "afterburner_speed": 1235,
     "beam": 26,
     "cargocapacity": 0,
     "chassis_id": 35,
@@ -9536,9 +9458,9 @@
     "name": "Sabre Comet",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 206,
+    "scm_speed": 223,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:51",
+    "time_modified_unfiltered": "2025-07-18 15:20:35",
     "type": "combat",
     "url": "/pledge/ships/sabre/Sabre-Comet",
     "code": "sabre-comet",
@@ -9626,7 +9548,6 @@
     }
   },
   {
-    "afterburner_speed": 1400,
     "beam": 20.5,
     "cargocapacity": 0,
     "chassis_id": 35,
@@ -9645,7 +9566,7 @@
     "production_status": "flight-ready",
     "scm_speed": 240,
     "size": "small",
-    "time_modified_unfiltered": "2024-07-19 16:34:01",
+    "time_modified_unfiltered": "2025-07-18 15:20:24",
     "type": "combat",
     "url": "/pledge/ships/sabre/Sabre-Raven",
     "code": "sabre-raven",
@@ -9733,7 +9654,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 50,
     "cargocapacity": 240,
     "chassis_id": 37,
@@ -9752,7 +9672,7 @@
     "production_status": "in-concept",
     "scm_speed": 0,
     "size": "large",
-    "time_modified_unfiltered": "2024-05-29 19:40:04",
+    "time_modified_unfiltered": "2025-07-18 15:20:45",
     "type": "support",
     "url": "/pledge/ships/crucible/Crucible",
     "code": "crucible",
@@ -9851,7 +9771,6 @@
     }
   },
   {
-    "afterburner_speed": 1485,
     "beam": 7.7,
     "cargocapacity": 0,
     "chassis_id": 38,
@@ -9869,7 +9788,7 @@
     "production_status": "flight-ready",
     "scm_speed": 300,
     "size": "snub",
-    "time_modified_unfiltered": "2024-12-05 20:00:54",
+    "time_modified_unfiltered": "2025-07-18 15:20:43",
     "type": "competition",
     "url": "/pledge/ships/p72-archimedes/P-72-Archimedes",
     "code": "p-72-archimedes",
@@ -9945,7 +9864,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 21,
     "cargocapacity": 0,
     "chassis_id": 39,
@@ -9963,7 +9881,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2024-12-05 20:00:53",
+    "time_modified_unfiltered": "2025-07-18 15:20:43",
     "type": "combat",
     "url": "/pledge/ships/vanduul-blade/Blade",
     "code": "blade",
@@ -10062,11 +9980,10 @@
     }
   },
   {
-    "afterburner_speed": 994,
     "beam": 15,
     "cargocapacity": 0,
     "chassis_id": 40,
-    "description": "For years, the Prospector has been the universe’s preferred mining vessel for solo operators. Featuring MISC’s sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector perfectly balances form and functionality.",
+    "description": "For years, the Prospector has been the universe’s preferred mining vessel for solo operators. Featuring MISC’s sleek design sensibility and a bevy of upgraded high-tech mining tools, the 2947 Prospector balances form and functionality.",
     "focus": "Prospecting / Mining",
     "height": 7,
     "id": 109,
@@ -10081,7 +9998,7 @@
     "production_status": "flight-ready",
     "scm_speed": 156,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 16:09:39",
+    "time_modified_unfiltered": "2025-07-18 15:20:40",
     "type": "industrial",
     "url": "/pledge/ships/misc-prospector/Prospector",
     "code": "prospector",
@@ -10169,7 +10086,6 @@
     }
   },
   {
-    "afterburner_speed": 1400,
     "beam": 16,
     "cargocapacity": 0,
     "chassis_id": 41,
@@ -10187,7 +10103,7 @@
     "production_status": "flight-ready",
     "scm_speed": 240,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:55",
+    "time_modified_unfiltered": "2025-07-18 15:20:39",
     "type": "combat",
     "url": "/pledge/ships/drake-buccaneer/Buccaneer",
     "code": "buccaneer",
@@ -10297,7 +10213,6 @@
     }
   },
   {
-    "afterburner_speed": 523,
     "beam": 3,
     "cargocapacity": 0,
     "chassis_id": 42,
@@ -10316,7 +10231,7 @@
     "production_status": "flight-ready",
     "scm_speed": 190,
     "size": "snub",
-    "time_modified_unfiltered": "2025-01-13 20:27:49",
+    "time_modified_unfiltered": "2025-07-18 15:20:39",
     "type": "competition",
     "url": "/pledge/ships/drake-dragonfly/Dragonfly-Yellowjacket",
     "code": "dragonfly-yellowjacket",
@@ -10380,7 +10295,6 @@
     }
   },
   {
-    "afterburner_speed": 523,
     "beam": 3,
     "cargocapacity": 0,
     "chassis_id": 42,
@@ -10399,7 +10313,7 @@
     "production_status": "flight-ready",
     "scm_speed": 190,
     "size": "snub",
-    "time_modified_unfiltered": "2025-05-27 19:55:54",
+    "time_modified_unfiltered": "2025-07-18 15:20:38",
     "type": "competition",
     "url": "/pledge/ships/drake-dragonfly/Dragonfly-Black",
     "code": "dragonfly-black",
@@ -10463,7 +10377,6 @@
     }
   },
   {
-    "afterburner_speed": 890,
     "beam": 6.5,
     "cargocapacity": 0,
     "chassis_id": 43,
@@ -10481,7 +10394,7 @@
     "production_status": "flight-ready",
     "scm_speed": 170,
     "size": "snub",
-    "time_modified_unfiltered": "2025-05-27 19:55:53",
+    "time_modified_unfiltered": "2025-07-18 15:20:38",
     "type": "transport",
     "url": "/pledge/ships/argo/MPUV-Personnel",
     "code": "mpuv-personnel",
@@ -10545,7 +10458,6 @@
     }
   },
   {
-    "afterburner_speed": 890,
     "beam": 8.5,
     "cargocapacity": 2,
     "chassis_id": 43,
@@ -10563,7 +10475,7 @@
     "production_status": "flight-ready",
     "scm_speed": 170,
     "size": "snub",
-    "time_modified_unfiltered": "2025-05-27 19:55:53",
+    "time_modified_unfiltered": "2025-07-18 15:20:37",
     "type": "transport",
     "url": "/pledge/ships/argo/MPUV-Cargo",
     "code": "mpuv-cargo",
@@ -10627,7 +10539,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 14.5,
     "cargocapacity": 0,
     "chassis_id": 44,
@@ -10645,7 +10556,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:52",
+    "time_modified_unfiltered": "2025-07-18 15:20:37",
     "type": "exploration",
     "url": "/pledge/ships/terrapin/Terrapin",
     "code": "terrapin",
@@ -10721,7 +10632,6 @@
     }
   },
   {
-    "afterburner_speed": 940,
     "beam": 82,
     "cargocapacity": 576,
     "chassis_id": 45,
@@ -10739,7 +10649,7 @@
     "production_status": "flight-ready",
     "scm_speed": 145,
     "size": "capital",
-    "time_modified_unfiltered": "2024-12-05 20:00:50",
+    "time_modified_unfiltered": "2025-07-18 15:20:38",
     "type": "combat",
     "url": "/pledge/ships/polaris/Polaris",
     "code": "polaris",
@@ -10882,7 +10792,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 32,
     "cargocapacity": 0,
     "chassis_id": 46,
@@ -10900,7 +10809,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "medium",
-    "time_modified_unfiltered": "2025-03-27 19:59:33",
+    "time_modified_unfiltered": "2025-07-18 15:20:36",
     "type": "combat",
     "url": "/pledge/ships/prowler/Prowler",
     "code": "prowler",
@@ -10988,7 +10897,6 @@
     }
   },
   {
-    "afterburner_speed": 1250,
     "beam": 10,
     "cargocapacity": 0,
     "chassis_id": 47,
@@ -11006,7 +10914,7 @@
     "production_status": "flight-ready",
     "scm_speed": 230,
     "size": "snub",
-    "time_modified_unfiltered": "2024-12-10 14:45:29",
+    "time_modified_unfiltered": "2025-07-18 15:20:34",
     "type": "exploration",
     "url": "/pledge/ships/85x/85X",
     "code": "85x",
@@ -11094,7 +11002,6 @@
     }
   },
   {
-    "afterburner_speed": 1458,
     "beam": 8.2,
     "cargocapacity": 0,
     "chassis_id": 48,
@@ -11112,7 +11019,7 @@
     "production_status": "flight-ready",
     "scm_speed": 280,
     "size": "small",
-    "time_modified_unfiltered": "2024-12-05 20:00:48",
+    "time_modified_unfiltered": "2025-07-18 15:20:32",
     "type": "competition",
     "url": "/pledge/ships/razor/Razor",
     "code": "razor",
@@ -11200,7 +11107,6 @@
     }
   },
   {
-    "afterburner_speed": 1450,
     "beam": 8.2,
     "cargocapacity": 0,
     "chassis_id": 48,
@@ -11218,7 +11124,7 @@
     "production_status": "flight-ready",
     "scm_speed": 280,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:40",
+    "time_modified_unfiltered": "2025-07-18 15:20:18",
     "type": "competition",
     "url": "/pledge/ships/razor/Razor-EX",
     "code": "razor-ex",
@@ -11306,7 +11212,6 @@
     }
   },
   {
-    "afterburner_speed": 1400,
     "beam": 8.2,
     "cargocapacity": 0,
     "chassis_id": 48,
@@ -11324,7 +11229,7 @@
     "production_status": "flight-ready",
     "scm_speed": 275,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 21:02:27",
+    "time_modified_unfiltered": "2025-07-18 15:20:17",
     "type": "competition",
     "url": "/pledge/ships/razor/Razor-LX",
     "code": "razor-lx",
@@ -11400,7 +11305,6 @@
     }
   },
   {
-    "afterburner_speed": 1125,
     "beam": 14.5,
     "cargocapacity": 0,
     "chassis_id": 49,
@@ -11418,7 +11322,7 @@
     "production_status": "flight-ready",
     "scm_speed": 214,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:48",
+    "time_modified_unfiltered": "2025-07-18 15:20:31",
     "type": "combat",
     "url": "/pledge/ships/hurricane/Hurricane",
     "code": "hurricane",
@@ -11518,7 +11422,6 @@
     }
   },
   {
-    "afterburner_speed": 1175,
     "beam": 20,
     "cargocapacity": 0,
     "chassis_id": 50,
@@ -11536,7 +11439,7 @@
     "production_status": "flight-ready",
     "scm_speed": 222,
     "size": "small",
-    "time_modified_unfiltered": "2025-06-12 16:09:04",
+    "time_modified_unfiltered": "2025-07-18 15:20:30",
     "type": "combat",
     "url": "/pledge/ships/defender/Defender",
     "code": "defender",
@@ -11624,7 +11527,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 36.6,
     "cargocapacity": 0,
     "chassis_id": 51,
@@ -11640,9 +11542,9 @@
     "name": "Eclipse",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 202,
+    "scm_speed": 210,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:47",
+    "time_modified_unfiltered": "2025-07-18 15:20:29",
     "type": "combat",
     "url": "/pledge/ships/eclipse/Eclipse",
     "code": "eclipse",
@@ -11730,7 +11632,6 @@
     }
   },
   {
-    "afterburner_speed": 619,
     "beam": 1.5,
     "cargocapacity": 0,
     "chassis_id": 52,
@@ -11749,7 +11650,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "snub",
-    "time_modified_unfiltered": "2025-01-13 20:45:33",
+    "time_modified_unfiltered": "2025-07-18 15:20:30",
     "type": "competition",
     "url": "/pledge/ships/nox/Nox",
     "code": "nox",
@@ -11813,7 +11714,6 @@
     }
   },
   {
-    "afterburner_speed": 619,
     "beam": 1.5,
     "cargocapacity": 0,
     "chassis_id": 52,
@@ -11831,7 +11731,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "snub",
-    "time_modified_unfiltered": "2025-01-13 20:45:16",
+    "time_modified_unfiltered": "2025-07-18 15:20:29",
     "type": "competition",
     "url": "/pledge/ships/nox/Nox-Kue",
     "code": "nox-kue",
@@ -11895,7 +11795,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 4,
     "cargocapacity": 1,
     "chassis_id": 53,
@@ -11913,7 +11812,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-02 16:14:39",
+    "time_modified_unfiltered": "2025-07-18 15:20:27",
     "type": "ground",
     "url": "/pledge/ships/cyclone/Cyclone",
     "code": "cyclone",
@@ -11965,7 +11864,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 4,
     "cargocapacity": 0,
     "chassis_id": 53,
@@ -11983,7 +11881,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:46",
+    "time_modified_unfiltered": "2025-07-18 15:20:28",
     "type": "ground",
     "url": "/pledge/ships/cyclone/Cyclone-TR",
     "code": "cyclone-tr",
@@ -12059,7 +11957,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 4,
     "cargocapacity": 0,
     "chassis_id": 53,
@@ -12077,7 +11974,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-03-28 20:09:48",
+    "time_modified_unfiltered": "2025-07-18 15:20:27",
     "type": "ground",
     "url": "/pledge/ships/cyclone/Cyclone-RC",
     "code": "cyclone-rc",
@@ -12141,7 +12038,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 4,
     "cargocapacity": 0,
     "chassis_id": 53,
@@ -12159,7 +12055,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:45",
+    "time_modified_unfiltered": "2025-07-18 15:20:27",
     "type": "ground",
     "url": "/pledge/ships/cyclone/Cyclone-RN",
     "code": "cyclone-rn",
@@ -12235,7 +12131,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 4,
     "cargocapacity": 0,
     "chassis_id": 53,
@@ -12253,7 +12148,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:44",
+    "time_modified_unfiltered": "2025-07-18 15:20:27",
     "type": "ground",
     "url": "/pledge/ships/cyclone/Cyclone-AA",
     "code": "cyclone-aa",
@@ -12341,7 +12236,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 5.5,
     "cargocapacity": 0,
     "chassis_id": 54,
@@ -12360,7 +12254,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:43",
+    "time_modified_unfiltered": "2025-07-18 15:20:25",
     "type": "ground",
     "url": "/pledge/ships/ursa/Ursa",
     "code": "ursa",
@@ -12436,7 +12330,6 @@
     }
   },
   {
-    "afterburner_speed": 0,
     "beam": 5.5,
     "cargocapacity": 0,
     "chassis_id": 54,
@@ -12454,7 +12347,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-01-13 21:15:56",
+    "time_modified_unfiltered": "2025-07-18 15:20:05",
     "type": "ground",
     "url": "/pledge/ships/ursa/Ursa-Fortuna",
     "code": "ursa-fortuna",
@@ -12530,7 +12423,6 @@
     }
   },
   {
-    "afterburner_speed": 975,
     "beam": 52,
     "cargocapacity": 16,
     "chassis_id": 55,
@@ -12548,7 +12440,7 @@
     "production_status": "flight-ready",
     "scm_speed": 165,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-02 20:58:33",
+    "time_modified_unfiltered": "2025-07-18 15:20:24",
     "type": "exploration",
     "url": "/pledge/ships/600i/600i-Touring",
     "code": "600i-touring",
@@ -12648,7 +12540,6 @@
     }
   },
   {
-    "afterburner_speed": 975,
     "beam": 52,
     "cargocapacity": 40,
     "chassis_id": 55,
@@ -12666,7 +12557,7 @@
     "production_status": "flight-ready",
     "scm_speed": 165,
     "size": "large",
-    "time_modified_unfiltered": "2025-04-23 18:40:57",
+    "time_modified_unfiltered": "2025-07-18 15:20:24",
     "type": "exploration",
     "url": "/pledge/ships/600i/600i-Explorer",
     "code": "600i-explorer",
@@ -12766,7 +12657,6 @@
     }
   },
   {
-    "afterburner_speed": 569,
     "beam": 1.3,
     "cargocapacity": 0,
     "chassis_id": 56,
@@ -12784,7 +12674,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "snub",
-    "time_modified_unfiltered": "2025-01-13 20:55:41",
+    "time_modified_unfiltered": "2025-07-18 15:20:24",
     "type": "exploration",
     "url": "/pledge/ships/x1/X1",
     "code": "x1",
@@ -12848,7 +12738,6 @@
     }
   },
   {
-    "afterburner_speed": 611,
     "beam": 1.3,
     "cargocapacity": 0,
     "chassis_id": 56,
@@ -12866,7 +12755,7 @@
     "production_status": "flight-ready",
     "scm_speed": 222,
     "size": "snub",
-    "time_modified_unfiltered": "2025-01-13 20:56:04",
+    "time_modified_unfiltered": "2025-07-18 15:20:22",
     "type": "competition",
     "url": "/pledge/ships/x1/X1-Velocity",
     "code": "x1-velocity",
@@ -12918,7 +12807,6 @@
     }
   },
   {
-    "afterburner_speed": 569,
     "beam": 1.3,
     "cargocapacity": 0,
     "chassis_id": 56,
@@ -12936,7 +12824,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "snub",
-    "time_modified_unfiltered": "2025-01-13 20:56:33",
+    "time_modified_unfiltered": "2025-07-18 15:20:23",
     "type": "exploration",
     "url": "/pledge/ships/x1/X1-Force",
     "code": "x1-force",
@@ -13027,7 +12915,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "capital",
-    "time_modified_unfiltered": "2025-04-11 14:16:32",
+    "time_modified_unfiltered": "2025-07-18 15:20:22",
     "type": "multi",
     "url": "/pledge/ships/pioneer/Pioneer",
     "code": "pioneer",
@@ -13114,7 +13002,6 @@
     }
   },
   {
-    "afterburner_speed": 1175,
     "beam": 22,
     "cargocapacity": 0,
     "chassis_id": 58,
@@ -13132,7 +13019,7 @@
     "production_status": "flight-ready",
     "scm_speed": 222,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:43",
+    "time_modified_unfiltered": "2025-07-18 15:20:21",
     "type": "combat",
     "url": "/pledge/ships/hawk/Hawk",
     "code": "hawk",
@@ -13230,7 +13117,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 75,
     "cargocapacity": 40,
     "chassis_id": 59,
@@ -13248,7 +13134,7 @@
     "production_status": "flight-ready",
     "scm_speed": 160,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:55:42",
+    "time_modified_unfiltered": "2025-07-18 15:20:20",
     "type": "combat",
     "url": "/pledge/ships/hammerhead/Hammerhead",
     "code": "hammerhead",
@@ -13352,7 +13238,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:41",
+    "time_modified_unfiltered": "2025-07-18 15:20:19",
     "type": "ground",
     "url": "/pledge/ships/nova-tank/Nova",
     "code": "nova",
@@ -13469,7 +13355,7 @@
     "production_status": "in-concept",
     "scm_speed": 210,
     "size": "medium",
-    "time_modified_unfiltered": "2024-05-27 15:44:42",
+    "time_modified_unfiltered": "2025-07-18 15:20:21",
     "type": "multi",
     "url": "/pledge/ships/vulcan/Vulcan",
     "code": "vulcan",
@@ -13569,7 +13455,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 11,
     "cargocapacity": 2,
     "chassis_id": 63,
@@ -13587,7 +13472,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 18:32:16",
+    "time_modified_unfiltered": "2025-07-18 15:20:17",
     "type": "multi",
     "url": "/pledge/ships/origin-100/100i",
     "code": "100i",
@@ -13675,7 +13560,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 11,
     "cargocapacity": 2,
     "chassis_id": 63,
@@ -13693,7 +13577,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:39",
+    "time_modified_unfiltered": "2025-07-18 15:20:16",
     "type": "multi",
     "url": "/pledge/ships/origin-100/125a",
     "code": "125a",
@@ -13792,7 +13676,6 @@
     }
   },
   {
-    "afterburner_speed": 1425,
     "beam": 11,
     "cargocapacity": 6,
     "chassis_id": 63,
@@ -13810,7 +13693,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-02 18:45:32",
+    "time_modified_unfiltered": "2025-07-18 15:20:16",
     "type": "multi",
     "url": "/pledge/ships/origin-100/135c",
     "code": "135c",
@@ -13898,7 +13781,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 70,
     "cargocapacity": 696,
     "chassis_id": 64,
@@ -13916,7 +13798,7 @@
     "production_status": "flight-ready",
     "scm_speed": 160,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:55:38",
+    "time_modified_unfiltered": "2025-07-18 15:20:15",
     "type": "transport",
     "url": "/pledge/ships/crusader-starlifter/C2-Hercules",
     "code": "c2-hercules",
@@ -14004,7 +13886,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 70,
     "cargocapacity": 468,
     "chassis_id": 64,
@@ -14022,7 +13903,7 @@
     "production_status": "flight-ready",
     "scm_speed": 160,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:55:37",
+    "time_modified_unfiltered": "2025-07-18 15:20:14",
     "type": "combat",
     "url": "/pledge/ships/crusader-starlifter/M2-Hercules",
     "code": "m2-hercules",
@@ -14110,7 +13991,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 70,
     "cargocapacity": 234,
     "chassis_id": 64,
@@ -14128,7 +14008,7 @@
     "production_status": "flight-ready",
     "scm_speed": 160,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:55:36",
+    "time_modified_unfiltered": "2025-07-18 15:20:14",
     "type": "combat",
     "url": "/pledge/ships/crusader-starlifter/A2-Hercules",
     "code": "a2-hercules",
@@ -14250,7 +14130,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 16,
     "cargocapacity": 12,
     "chassis_id": 65,
@@ -14268,7 +14147,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:36",
+    "time_modified_unfiltered": "2025-07-18 15:20:14",
     "type": "industrial",
     "url": "/pledge/ships/drake-vulture/Vulture",
     "code": "vulture",
@@ -14372,7 +14251,7 @@
     "production_status": "in-concept",
     "scm_speed": 205,
     "size": "large",
-    "time_modified_unfiltered": "2023-05-30 19:58:58",
+    "time_modified_unfiltered": "2025-07-18 15:20:13",
     "type": "support",
     "url": "/pledge/ships/rsi-apollo/Apollo-Triage",
     "code": "apollo-triage",
@@ -14464,7 +14343,7 @@
     "production_status": "in-concept",
     "scm_speed": 195,
     "size": "large",
-    "time_modified_unfiltered": "2023-05-30 19:58:58",
+    "time_modified_unfiltered": "2025-07-18 15:20:14",
     "type": "support",
     "url": "/pledge/ships/rsi-apollo/Apollo-Medivac",
     "code": "apollo-medivac",
@@ -14552,7 +14431,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 51,
     "cargocapacity": 114,
     "chassis_id": 67,
@@ -14568,9 +14446,9 @@
     "name": "Mercury",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 215,
+    "scm_speed": 217,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:35",
+    "time_modified_unfiltered": "2025-07-18 15:20:11",
     "type": "transport",
     "url": "/pledge/ships/crusader-mercury-star-runner/Mercury",
     "code": "mercury",
@@ -14681,7 +14559,6 @@
     }
   },
   {
-    "afterburner_speed": 1110,
     "beam": 15,
     "cargocapacity": 90,
     "chassis_id": 68,
@@ -14699,7 +14576,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:34",
+    "time_modified_unfiltered": "2025-07-18 15:20:11",
     "type": "combat",
     "url": "/pledge/ships/anvil-valkyrie/Valkyrie",
     "code": "valkyrie",
@@ -14809,7 +14686,6 @@
     }
   },
   {
-    "afterburner_speed": 1110,
     "beam": 15,
     "cargocapacity": 90,
     "chassis_id": 68,
@@ -14826,7 +14702,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "small",
-    "time_modified_unfiltered": "2025-03-27 19:53:42",
+    "time_modified_unfiltered": "2025-07-18 15:20:09",
     "type": "combat",
     "url": "/pledge/ships/anvil-valkyrie/Valkyrie-Liberator-Edition",
     "code": "valkyrie-liberator-edition",
@@ -14950,7 +14826,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "capital",
-    "time_modified_unfiltered": "2024-11-28 16:20:39",
+    "time_modified_unfiltered": "2025-07-18 15:20:11",
     "type": "industrial",
     "url": "/pledge/ships/drake-kraken/Kraken",
     "code": "kraken",
@@ -15048,7 +14924,6 @@
     }
   },
   {
-    "afterburner_speed": 1210,
     "beam": 12,
     "cargocapacity": 0,
     "chassis_id": 70,
@@ -15065,7 +14940,7 @@
     "production_status": "flight-ready",
     "scm_speed": 232,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:33",
+    "time_modified_unfiltered": "2025-07-18 15:20:09",
     "type": "combat",
     "url": "/pledge/ships/anvil-arrow/Arrow",
     "code": "arrow",
@@ -15176,7 +15051,6 @@
     }
   },
   {
-    "afterburner_speed": 1161,
     "beam": 23,
     "cargocapacity": 0,
     "chassis_id": 71,
@@ -15194,7 +15068,7 @@
     "production_status": "flight-ready",
     "scm_speed": 227,
     "size": "medium",
-    "time_modified_unfiltered": "2025-01-13 21:12:02",
+    "time_modified_unfiltered": "2025-07-18 15:20:08",
     "type": "combat",
     "url": "/pledge/ships/aopoa-santokyai/Santoky-i",
     "code": "san-tok-y-i",
@@ -15282,7 +15156,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 19.5,
     "cargocapacity": 12,
     "chassis_id": 72,
@@ -15300,7 +15173,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:32",
+    "time_modified_unfiltered": "2025-07-18 15:20:07",
     "type": "support",
     "url": "/pledge/ships/argo-srv/SRV",
     "code": "srv",
@@ -15376,7 +15249,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 27,
     "cargocapacity": 72,
     "chassis_id": 73,
@@ -15392,9 +15264,9 @@
     "name": "Corsair",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 190,
     "size": "large",
-    "time_modified_unfiltered": "2025-05-27 19:55:31",
+    "time_modified_unfiltered": "2025-07-18 15:20:06",
     "type": "exploration",
     "url": "/pledge/ships/drake-corsair/Corsair",
     "code": "corsair",
@@ -15520,7 +15392,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "vehicle",
-    "time_modified_unfiltered": "2023-05-30 19:58:53",
+    "time_modified_unfiltered": "2025-07-18 15:20:07",
     "type": "ground",
     "url": "/pledge/ships/tumbril-ranger/Ranger-RC",
     "code": "ranger-rc",
@@ -15587,7 +15459,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "vehicle",
-    "time_modified_unfiltered": "2023-05-30 19:58:53",
+    "time_modified_unfiltered": "2025-07-18 15:20:06",
     "type": "ground",
     "url": "/pledge/ships/tumbril-ranger/Ranger-TR",
     "code": "ranger-tr",
@@ -15666,7 +15538,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "vehicle",
-    "time_modified_unfiltered": "2023-05-30 19:58:52",
+    "time_modified_unfiltered": "2025-07-18 15:20:05",
     "type": "ground",
     "url": "/pledge/ships/tumbril-ranger/Ranger-CV",
     "code": "ranger-cv",
@@ -15734,7 +15606,7 @@
     "production_status": "flight-ready",
     "scm_speed": 0,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:30",
+    "time_modified_unfiltered": "2025-07-18 15:20:04",
     "type": "combat",
     "url": "/pledge/ships/anvil-ballista/Ballista",
     "code": "ballista",
@@ -15849,7 +15721,7 @@
     "production_status": "flight-ready",
     "scm_speed": 33,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-04-10 18:53:00",
+    "time_modified_unfiltered": "2025-07-18 15:20:03",
     "type": "combat",
     "url": "/pledge/ships/anvil-ballista/Anvil-Ballista-Snowblind",
     "code": "anvil-ballista-snowblind",
@@ -15964,7 +15836,7 @@
     "production_status": "flight-ready",
     "scm_speed": 33,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-04-10 18:53:10",
+    "time_modified_unfiltered": "2025-07-18 15:20:02",
     "type": "combat",
     "url": "/pledge/ships/anvil-ballista/Anvil-Ballista-Dunestalker",
     "code": "anvil-ballista-dunestalker",
@@ -16079,7 +15951,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2025-05-15 04:45:01",
+    "time_modified_unfiltered": "2025-07-18 15:20:01",
     "type": "combat",
     "url": "/pledge/ships/aegis-nautilus/Nautilus",
     "code": "nautilus",
@@ -16205,7 +16077,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2024-07-22 21:02:22",
+    "time_modified_unfiltered": "2025-07-18 15:20:02",
     "type": "combat",
     "url": "/pledge/ships/aegis-nautilus/Nautilus-Solstice-Edition",
     "code": "nautilus-solstice-edition",
@@ -16315,7 +16187,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 17,
     "cargocapacity": 0,
     "chassis_id": 18,
@@ -16332,7 +16203,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2024-12-04 13:54:30",
+    "time_modified_unfiltered": "2025-07-18 15:20:01",
     "type": "combat",
     "url": "/pledge/ships/gladius/Pirate-Gladius",
     "code": "pirate-gladius",
@@ -16431,7 +16302,6 @@
     }
   },
   {
-    "afterburner_speed": 1393,
     "beam": 17,
     "cargocapacity": 0,
     "chassis_id": 77,
@@ -16449,7 +16319,7 @@
     "production_status": "flight-ready",
     "scm_speed": 236,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:29",
+    "time_modified_unfiltered": "2025-07-18 15:19:59",
     "type": "combat",
     "url": "/pledge/ships/rsi-mantis/Mantis",
     "code": "mantis",
@@ -16549,7 +16419,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 10,
     "cargocapacity": 4,
     "chassis_id": 78,
@@ -16567,7 +16436,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 21:22:21",
+    "time_modified_unfiltered": "2025-07-18 15:19:59",
     "type": "exploration",
     "url": "/pledge/ships/anvil-pisces/C8-Pisces",
     "code": "c8-pisces",
@@ -16655,7 +16524,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 10,
     "cargocapacity": 4,
     "chassis_id": 78,
@@ -16673,7 +16541,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:29",
+    "time_modified_unfiltered": "2025-07-18 15:19:59",
     "type": "exploration",
     "url": "/pledge/ships/anvil-pisces/C8X-Pisces-Expedition",
     "code": "c8x-pisces-expedition",
@@ -16761,7 +16629,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 26,
     "cargocapacity": 46,
     "chassis_id": 6,
@@ -16780,7 +16647,7 @@
     "production_status": "flight-ready",
     "scm_speed": 217,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-07 18:37:08",
+    "time_modified_unfiltered": "2025-07-18 15:19:58",
     "type": "combat",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Black-Best-In-Show-Edition-2949",
     "code": "cutlass-black-best-in-show-edition-2949",
@@ -16892,7 +16759,6 @@
     }
   },
   {
-    "afterburner_speed": 900,
     "beam": 39,
     "cargocapacity": 576,
     "chassis_id": 11,
@@ -16911,7 +16777,7 @@
     "production_status": "flight-ready",
     "scm_speed": 130,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-14 21:09:53",
+    "time_modified_unfiltered": "2025-07-18 15:19:57",
     "type": "transport",
     "url": "/pledge/ships/drake-caterpillar/Caterpillar-Best-In-Show-Edition-2949",
     "code": "caterpillar-best-in-show-edition-2949",
@@ -17022,7 +16888,6 @@
     }
   },
   {
-    "afterburner_speed": 890,
     "beam": 118,
     "cargocapacity": 420,
     "chassis_id": 26,
@@ -17040,7 +16905,7 @@
     "production_status": "flight-ready",
     "scm_speed": 110,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-14 21:07:43",
+    "time_modified_unfiltered": "2025-07-18 15:19:57",
     "type": "industrial",
     "url": "/pledge/ships/reclaimer/Reclaimer-Best-In-Show-Edition-2949",
     "code": "reclaimer-best-in-show-edition-2949",
@@ -17150,7 +17015,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 75,
     "cargocapacity": 40,
     "chassis_id": 59,
@@ -17168,7 +17032,7 @@
     "production_status": "flight-ready",
     "scm_speed": 160,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-14 21:09:47",
+    "time_modified_unfiltered": "2025-07-18 15:19:58",
     "type": "combat",
     "url": "/pledge/ships/hammerhead/Hammerhead-Best-In-Show-Edition-2949",
     "code": "hammerhead-best-in-show-edition-2949",
@@ -17270,7 +17134,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "capital",
-    "time_modified_unfiltered": "2024-11-28 16:20:26",
+    "time_modified_unfiltered": "2025-07-18 15:20:08",
     "type": "industrial",
     "url": "/pledge/ships/drake-kraken/Kraken-Privateer",
     "code": "kraken-privateer",
@@ -17368,7 +17232,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 30.2,
     "cargocapacity": 0,
     "chassis_id": 79,
@@ -17383,9 +17246,9 @@
     "name": "Ares Inferno ",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 210,
+    "scm_speed": 205,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:28",
+    "time_modified_unfiltered": "2025-07-29 18:13:46",
     "type": "combat",
     "url": "/pledge/ships/crusader-ares/Ares-Inferno",
     "code": "ares-inferno",
@@ -17484,7 +17347,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 30.2,
     "cargocapacity": 0,
     "chassis_id": 79,
@@ -17499,9 +17361,9 @@
     "name": "Ares Ion",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 210,
+    "scm_speed": 205,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:27",
+    "time_modified_unfiltered": "2025-07-29 18:13:28",
     "type": "combat",
     "url": "/pledge/ships/crusader-ares/Ares-Ion",
     "code": "ares-ion",
@@ -17600,7 +17462,6 @@
     }
   },
   {
-    "afterburner_speed": 960,
     "beam": 25,
     "cargocapacity": 96,
     "chassis_id": 80,
@@ -17618,7 +17479,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-07 14:15:12",
+    "time_modified_unfiltered": "2025-07-18 15:19:55",
     "type": "industrial",
     "url": "/pledge/ships/argo-mole/MOLE",
     "code": "mole",
@@ -17706,7 +17567,6 @@
     }
   },
   {
-    "afterburner_speed": 960,
     "beam": 25,
     "cargocapacity": 96,
     "chassis_id": 80,
@@ -17724,7 +17584,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "medium",
-    "time_modified_unfiltered": "2025-01-13 21:35:00",
+    "time_modified_unfiltered": "2025-07-18 15:19:54",
     "type": "industrial",
     "url": "/pledge/ships/argo-mole/Argo-Mole-Carbon-Edition",
     "code": "argo-mole-carbon-edition",
@@ -17812,7 +17672,6 @@
     }
   },
   {
-    "afterburner_speed": 960,
     "beam": 25,
     "cargocapacity": 96,
     "chassis_id": 80,
@@ -17830,7 +17689,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "medium",
-    "time_modified_unfiltered": "2025-01-13 21:35:52",
+    "time_modified_unfiltered": "2025-07-18 15:19:53",
     "type": "industrial",
     "url": "/pledge/ships/argo-mole/Argo-Mole-Talus-Edition",
     "code": "argo-mole-talus-edition",
@@ -17918,7 +17777,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 76.5,
     "cargocapacity": 456,
     "chassis_id": 22,
@@ -17936,7 +17794,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-13 21:37:02",
+    "time_modified_unfiltered": "2025-07-18 15:19:51",
     "type": "exploration",
     "url": "/pledge/ships/carrack/Carrack-Expedition",
     "code": "carrack-expedition",
@@ -18034,7 +17892,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 76.5,
     "cargocapacity": 456,
     "chassis_id": 22,
@@ -18052,7 +17909,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-13 21:36:40",
+    "time_modified_unfiltered": "2025-07-18 15:19:52",
     "type": "exploration",
     "url": "/pledge/ships/carrack/Carrack-Expedition-W-C8X",
     "code": "carrack-expedition-w-c8x",
@@ -18150,7 +18007,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 76.5,
     "cargocapacity": 456,
     "chassis_id": 22,
@@ -18168,7 +18024,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-13 21:36:28",
+    "time_modified_unfiltered": "2025-07-18 15:19:53",
     "type": "exploration",
     "url": "/pledge/ships/carrack/Carrack-W-C8X",
     "code": "carrack-w-c8x",
@@ -18279,7 +18135,7 @@
     "price": 0,
     "production_status": "in-concept",
     "scm_speed": 50,
-    "time_modified_unfiltered": "2023-05-30 19:58:44",
+    "time_modified_unfiltered": "2025-07-18 15:19:51",
     "type": "ground",
     "url": "/pledge/ships/origin-g12/G12",
     "code": "g12",
@@ -18356,7 +18212,7 @@
     "production_status": "in-concept",
     "scm_speed": 55,
     "size": "vehicle",
-    "time_modified_unfiltered": "2023-05-30 19:58:44",
+    "time_modified_unfiltered": "2025-07-18 15:19:51",
     "type": "competition",
     "url": "/pledge/ships/origin-g12/G12r",
     "code": "g12r",
@@ -18433,7 +18289,7 @@
     "production_status": "in-concept",
     "scm_speed": 45,
     "size": "vehicle",
-    "time_modified_unfiltered": "2023-05-30 19:58:44",
+    "time_modified_unfiltered": "2025-07-18 15:19:50",
     "type": "ground",
     "url": "/pledge/ships/origin-g12/G12a",
     "code": "g12a",
@@ -18508,7 +18364,6 @@
     }
   },
   {
-    "afterburner_speed": 1485,
     "beam": 7.7,
     "cargocapacity": 0,
     "chassis_id": 38,
@@ -18526,7 +18381,7 @@
     "production_status": "flight-ready",
     "scm_speed": 300,
     "size": "snub",
-    "time_modified_unfiltered": "2024-07-23 14:53:36",
+    "time_modified_unfiltered": "2025-07-18 15:19:52",
     "type": "competition",
     "url": "/pledge/ships/p72-archimedes/P-72-Archimedes-Emerald",
     "code": "p-72-archimedes-emerald",
@@ -18618,7 +18473,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-06-12 18:57:22",
+    "time_modified_unfiltered": "2025-07-18 15:19:47",
     "type": "industrial",
     "url": "/pledge/ships/roc/ROC",
     "code": "roc",
@@ -18682,7 +18537,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 23.5,
     "cargocapacity": 0,
     "chassis_id": 82,
@@ -18700,7 +18554,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:39:04",
+    "time_modified_unfiltered": "2025-07-18 15:19:49",
     "type": "combat",
     "url": "/pledge/ships/talon/Talon-Shrike",
     "code": "talon-shrike",
@@ -18788,7 +18642,6 @@
     }
   },
   {
-    "afterburner_speed": 1200,
     "beam": 23.5,
     "cargocapacity": 0,
     "chassis_id": 82,
@@ -18806,7 +18659,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:39:13",
+    "time_modified_unfiltered": "2025-07-18 15:19:49",
     "type": "combat",
     "url": "/pledge/ships/talon/Talon",
     "code": "talon",
@@ -18894,7 +18747,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 18.3,
     "cargocapacity": 24,
     "chassis_id": 86,
@@ -18911,7 +18763,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "scm_speed": 205,
-    "time_modified_unfiltered": "2025-01-27 19:18:57",
+    "time_modified_unfiltered": "2025-07-18 15:19:46",
     "type": "multi",
     "url": "/pledge/ships/nomad/Nomad",
     "code": "nomad",
@@ -19014,7 +18866,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2025-05-18 16:09:39",
+    "time_modified_unfiltered": "2025-07-18 15:19:46",
     "type": "combat",
     "url": "/pledge/ships/perseus/Perseus",
     "code": "perseus",
@@ -19128,7 +18980,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:26",
+    "time_modified_unfiltered": "2025-07-18 15:19:45",
     "type": "ground",
     "url": "/pledge/ships/cyclone/Cyclone-MT",
     "code": "cyclone-mt",
@@ -19232,7 +19084,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-06-12 18:57:41",
+    "time_modified_unfiltered": "2025-07-18 15:19:45",
     "type": "industrial",
     "url": "/pledge/ships/roc/ROC-DS",
     "code": "roc-ds",
@@ -19296,7 +19148,6 @@
     }
   },
   {
-    "afterburner_speed": 1385,
     "beam": 32,
     "cargocapacity": 0,
     "chassis_id": 88,
@@ -19314,7 +19165,7 @@
     "production_status": "flight-ready",
     "scm_speed": 230,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:25",
+    "time_modified_unfiltered": "2025-07-18 15:19:44",
     "type": "combat",
     "url": "/pledge/ships/scorpius/Scorpius",
     "code": "scorpius",
@@ -19427,7 +19278,7 @@
     "name": "Railen",
     "price": 0,
     "production_status": "in-concept",
-    "time_modified_unfiltered": "2025-06-03 18:32:06",
+    "time_modified_unfiltered": "2025-07-18 15:19:43",
     "type": "transport",
     "url": "/pledge/ships/railen/Railen",
     "code": "railen",
@@ -19554,7 +19405,7 @@
     "production_status": "in-concept",
     "scm_speed": 115,
     "size": "large",
-    "time_modified_unfiltered": "2024-07-23 21:20:08",
+    "time_modified_unfiltered": "2025-07-18 15:19:43",
     "type": "transport",
     "url": "/pledge/ships/liberator/Liberator",
     "code": "liberator",
@@ -19665,7 +19516,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 32,
     "cargocapacity": 42,
     "chassis_id": 90,
@@ -19683,7 +19533,7 @@
     "production_status": "flight-ready",
     "scm_speed": 215,
     "size": "large",
-    "time_modified_unfiltered": "2025-01-13 21:41:41",
+    "time_modified_unfiltered": "2025-07-18 15:19:43",
     "type": "exploration",
     "url": "/pledge/ships/400i/400i",
     "code": "400i",
@@ -19794,11 +19644,10 @@
     }
   },
   {
-    "afterburner_speed": 990,
     "beam": 23,
-    "cargocapacity": 96,
+    "cargocapacity": 192,
     "chassis_id": 93,
-    "description": "As it does with all its industrial concerns, Argo takes cargo transport very seriously, on every scale. The RAFT is no exception, able to carry three standardized 32-SCU cargo containers for a total hauling capacity of 96 SCU. Perfect for entry-level haulers and old pros alike, the RAFT is an ideal solution for reliable local freight transport. Once again, Argo gets the job done.",
+    "description": "As it does with all its industrial concerns, Argo takes cargo transport very seriously, on every scale. The RAFT is no exception, able to carry a total hauling capacity of 192 SCU. Perfect for entry-level haulers and old pros alike, the RAFT is an ideal solution for reliable local freight transport. Once again, Argo gets the job done.",
     "focus": "Medium Freight",
     "height": 12,
     "id": 226,
@@ -19812,7 +19661,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "medium",
-    "time_modified_unfiltered": "2025-01-13 21:43:23",
+    "time_modified_unfiltered": "2025-07-18 15:19:41",
     "type": "transport",
     "url": "/pledge/ships/raft/RAFT",
     "code": "raft",
@@ -19927,7 +19776,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2024-07-23 17:21:38",
+    "time_modified_unfiltered": "2025-07-18 15:19:41",
     "type": "exploration",
     "url": "/pledge/ships/odyssey/Odyssey",
     "code": "odyssey",
@@ -20055,7 +19904,7 @@
     "production_status": "flight-ready",
     "scm_speed": 35,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:24",
+    "time_modified_unfiltered": "2025-07-18 15:19:42",
     "type": "ground",
     "url": "/pledge/ships/spartan/Spartan",
     "code": "spartan",
@@ -20131,7 +19980,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 26.5,
     "cargocapacity": 0,
     "chassis_id": 6,
@@ -20151,7 +19999,7 @@
     "roll_max": 0,
     "scm_speed": 200,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:24",
+    "time_modified_unfiltered": "2025-07-18 15:19:40",
     "type": "combat",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Steel",
     "xaxis_acceleration": 0,
@@ -20277,7 +20125,6 @@
     }
   },
   {
-    "afterburner_speed": 550,
     "beam": 2.5,
     "cargocapacity": 0,
     "chassis_id": 95,
@@ -20295,7 +20142,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-01-13 21:44:20",
+    "time_modified_unfiltered": "2025-07-18 15:19:39",
     "type": "ground",
     "url": "/pledge/ships/hoverquad/HoverQuad",
     "code": "hoverquad",
@@ -20361,7 +20208,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "small",
-    "time_modified_unfiltered": "2024-07-23 17:40:22",
+    "time_modified_unfiltered": "2025-07-18 15:19:40",
     "type": "industrial",
     "url": "/pledge/ships/expanse/Expanse",
     "code": "expanse",
@@ -20464,7 +20311,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "small",
-    "time_modified_unfiltered": "2024-07-23 17:46:54",
+    "time_modified_unfiltered": "2025-07-18 15:19:39",
     "type": "combat",
     "url": "/pledge/ships/legionnaire/Legionnaire",
     "code": "legionnaire",
@@ -20579,7 +20426,7 @@
     "name": "Mule",
     "price": 0,
     "production_status": "flight-ready",
-    "time_modified_unfiltered": "2025-05-27 19:55:23",
+    "time_modified_unfiltered": "2025-07-18 15:19:38",
     "type": "ground",
     "url": "/pledge/ships/mule/Mule",
     "code": "mule",
@@ -20648,7 +20495,7 @@
     "production_status": "flight-ready",
     "scm_speed": 35,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:22",
+    "time_modified_unfiltered": "2025-07-18 15:19:37",
     "type": "ground",
     "url": "/pledge/ships/centurion/Centurion",
     "code": "centurion",
@@ -20757,7 +20604,6 @@
     }
   },
   {
-    "afterburner_speed": 1130,
     "beam": 44,
     "cargocapacity": 0,
     "chassis_id": 100,
@@ -20775,7 +20621,7 @@
     "production_status": "flight-ready",
     "scm_speed": 204,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:20",
+    "time_modified_unfiltered": "2025-07-18 15:19:36",
     "type": "combat",
     "url": "/pledge/ships/spirit/A1-Spirit",
     "code": "a1-spirit",
@@ -20897,7 +20743,6 @@
     }
   },
   {
-    "afterburner_speed": 1130,
     "beam": 44,
     "cargocapacity": 64,
     "chassis_id": 100,
@@ -20915,7 +20760,7 @@
     "production_status": "flight-ready",
     "scm_speed": 204,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:21",
+    "time_modified_unfiltered": "2025-07-18 15:19:37",
     "type": "transport",
     "url": "/pledge/ships/spirit/C1-Spirit",
     "code": "c1-spirit",
@@ -21040,7 +20885,7 @@
     "name": "E1 Spirit",
     "price": 0,
     "production_status": "in-concept",
-    "time_modified_unfiltered": "2024-11-21 22:47:58",
+    "time_modified_unfiltered": "2025-07-18 15:19:36",
     "type": "transport",
     "url": "/pledge/ships/spirit/E1-Spirit",
     "code": "e1-spirit",
@@ -21167,7 +21012,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-01-13 21:46:52",
+    "time_modified_unfiltered": "2025-07-18 15:19:35",
     "type": "ground",
     "url": "/pledge/ships/stv/STV",
     "code": "stv",
@@ -21219,7 +21064,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 13,
     "cargocapacity": 4,
     "chassis_id": 102,
@@ -21237,7 +21081,7 @@
     "production_status": "flight-ready",
     "scm_speed": 180,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:19",
+    "time_modified_unfiltered": "2025-07-18 15:19:34",
     "type": "transport",
     "url": "/pledge/ships/cutter/Cutter",
     "code": "cutter",
@@ -21325,7 +21169,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 10,
     "cargocapacity": 0,
     "chassis_id": 78,
@@ -21343,7 +21186,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:19",
+    "time_modified_unfiltered": "2025-07-18 15:19:35",
     "type": "support",
     "url": "/pledge/ships/anvil-pisces/C8R-Pisces",
     "code": "c8r-pisces",
@@ -21458,7 +21301,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2024-07-23 18:45:15",
+    "time_modified_unfiltered": "2025-07-18 15:19:33",
     "type": "multi",
     "url": "/pledge/ships/galaxy/Galaxy",
     "code": "galaxy",
@@ -21546,7 +21389,6 @@
     }
   },
   {
-    "afterburner_speed": 1385,
     "beam": 32,
     "cargocapacity": 0,
     "chassis_id": 88,
@@ -21564,7 +21406,7 @@
     "production_status": "flight-ready",
     "scm_speed": 230,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:18",
+    "time_modified_unfiltered": "2025-07-18 15:19:33",
     "type": "combat",
     "url": "/pledge/ships/scorpius/Scorpius-Antares",
     "code": "scorpius-antares",
@@ -21675,7 +21517,6 @@
     }
   },
   {
-    "afterburner_speed": 1263,
     "beam": 5.4,
     "cargocapacity": 0,
     "chassis_id": 104,
@@ -21693,7 +21534,7 @@
     "production_status": "flight-ready",
     "scm_speed": 238,
     "size": "snub",
-    "time_modified_unfiltered": "2025-05-27 19:55:16",
+    "time_modified_unfiltered": "2025-07-18 15:19:32",
     "type": "combat",
     "url": "/pledge/ships/fury/Fury",
     "code": "fury",
@@ -21781,7 +21622,6 @@
     }
   },
   {
-    "afterburner_speed": 1250,
     "beam": 5.4,
     "cargocapacity": 0,
     "chassis_id": 104,
@@ -21799,7 +21639,7 @@
     "production_status": "flight-ready",
     "scm_speed": 230,
     "size": "snub",
-    "time_modified_unfiltered": "2025-05-27 19:55:15",
+    "time_modified_unfiltered": "2025-07-18 15:19:31",
     "type": "combat",
     "url": "/pledge/ships/fury/Fury-MX",
     "code": "fury-mx",
@@ -21913,7 +21753,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:15",
+    "time_modified_unfiltered": "2025-07-18 15:19:31",
     "type": "ground",
     "url": "/pledge/ships/storm/Storm",
     "code": "storm",
@@ -22005,7 +21845,7 @@
     "production_status": "flight-ready",
     "scm_speed": 30,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:17",
+    "time_modified_unfiltered": "2025-07-18 15:19:32",
     "type": "ground",
     "url": "/pledge/ships/ursa/Lynx",
     "code": "lynx",
@@ -22081,7 +21921,6 @@
     }
   },
   {
-    "afterburner_speed": 1250,
     "beam": 5.4,
     "cargocapacity": 0,
     "chassis_id": 104,
@@ -22099,7 +21938,7 @@
     "production_status": "flight-ready",
     "scm_speed": 230,
     "size": "snub",
-    "time_modified_unfiltered": "2024-12-05 20:00:22",
+    "time_modified_unfiltered": "2025-07-18 15:19:31",
     "type": "competition",
     "url": "/pledge/ships/fury/Fury-LX",
     "code": "fury-lx",
@@ -22163,7 +22002,6 @@
     }
   },
   {
-    "afterburner_speed": 1075,
     "beam": 24,
     "chassis_id": 109,
     "description": "Few vehicles inspire the same awe as the legendary F8 Lightning. A force to be reckoned with, it has protected Humanity countless times from countless threats at home and far from civilization. ",
@@ -22180,7 +22018,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:13",
+    "time_modified_unfiltered": "2025-07-18 15:19:27",
     "type": "combat",
     "url": "/pledge/ships/lightning/F8C-Lightning",
     "code": "f8c-lightning",
@@ -22291,7 +22129,6 @@
     }
   },
   {
-    "afterburner_speed": 1075,
     "beam": 24,
     "chassis_id": 109,
     "description": "Few vehicles inspire the same awe as the legendary F8 Lightning. A force to be reckoned with, it has protected Humanity countless times from countless threats at home and far from civilization. ",
@@ -22308,7 +22145,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "small",
-    "time_modified_unfiltered": "2025-03-27 19:56:34",
+    "time_modified_unfiltered": "2025-07-18 15:19:26",
     "type": "combat",
     "url": "/pledge/ships/lightning/F8C-Lightning-Executive-Edition",
     "code": "f8c-lightning-executive-edition",
@@ -22419,7 +22256,6 @@
     }
   },
   {
-    "afterburner_speed": 1050,
     "beam": 34.3,
     "cargocapacity": 32,
     "chassis_id": 106,
@@ -22435,9 +22271,9 @@
     "name": "Zeus Mk II ES",
     "price": 0,
     "production_status": "flight-ready",
-    "scm_speed": 200,
+    "scm_speed": 205,
     "size": "medium",
-    "time_modified_unfiltered": "2025-02-04 22:57:47",
+    "time_modified_unfiltered": "2025-07-18 15:19:29",
     "type": "exploration",
     "url": "/pledge/ships/zeus-mk-ii/Zeus-Mk-II-ES",
     "code": "zeus-mk-ii-es",
@@ -22564,7 +22400,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "medium",
-    "time_modified_unfiltered": "2024-07-23 19:03:26",
+    "time_modified_unfiltered": "2025-07-18 15:19:30",
     "type": "combat",
     "url": "/pledge/ships/zeus-mk-ii/Zeus-Mk-II-MR",
     "code": "zeus-mk-ii-mr",
@@ -22687,7 +22523,6 @@
     }
   },
   {
-    "afterburner_speed": 1000,
     "beam": 34.3,
     "cargocapacity": 128,
     "chassis_id": 106,
@@ -22705,7 +22540,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-07 14:30:01",
+    "time_modified_unfiltered": "2025-07-18 15:19:29",
     "type": "transport",
     "url": "/pledge/ships/zeus-mk-ii/Zeus-Mk-II-CL",
     "code": "zeus-mk-ii-cl",
@@ -22817,7 +22652,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 13,
     "cargocapacity": 2,
     "chassis_id": 102,
@@ -22835,7 +22669,7 @@
     "production_status": "flight-ready",
     "scm_speed": 180,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:14",
+    "time_modified_unfiltered": "2025-07-18 15:19:28",
     "type": "exploration",
     "url": "/pledge/ships/cutter/Cutter-Scout",
     "code": "cutter-scout",
@@ -22923,7 +22757,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 28,
     "cargocapacity": 6,
     "chassis_id": 110,
@@ -22941,7 +22774,7 @@
     "production_status": "flight-ready",
     "scm_speed": 225,
     "size": "small",
-    "time_modified_unfiltered": "2025-06-03 18:30:54",
+    "time_modified_unfiltered": "2025-07-18 15:19:25",
     "type": "multi",
     "url": "/pledge/ships/syulen/Syulen",
     "code": "syulen",
@@ -23045,7 +22878,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:12",
+    "time_modified_unfiltered": "2025-07-18 15:19:25",
     "type": "ground",
     "url": "/pledge/ships/storm/Storm-AA",
     "code": "storm-aa",
@@ -23147,7 +22980,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2024-09-25 18:39:42",
+    "time_modified_unfiltered": "2025-07-18 15:19:28",
     "type": "industrial",
     "url": "/pledge/ships/arrastra/Arrastra",
     "code": "arrastra",
@@ -23269,7 +23102,6 @@
     }
   },
   {
-    "afterburner_speed": 1010,
     "beam": 13,
     "cargocapacity": 2,
     "chassis_id": 102,
@@ -23287,7 +23119,7 @@
     "production_status": "flight-ready",
     "scm_speed": 180,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:11",
+    "time_modified_unfiltered": "2025-07-18 15:19:24",
     "type": "exploration",
     "url": "/pledge/ships/cutter/Cutter-Rambler",
     "code": "cutter-rambler",
@@ -23375,7 +23207,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 22,
     "cargocapacity": 2,
     "chassis_id": 111,
@@ -23393,7 +23224,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:08",
+    "time_modified_unfiltered": "2025-07-18 15:19:22",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet-mkii/F7C-Hornet-Mk-II",
     "code": "f7c-hornet-mk-ii",
@@ -23504,7 +23335,6 @@
     }
   },
   {
-    "afterburner_speed": 561,
     "beam": 0.9,
     "cargocapacity": 0,
     "chassis_id": 112,
@@ -23522,7 +23352,7 @@
     "production_status": "flight-ready",
     "scm_speed": 204,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:08",
+    "time_modified_unfiltered": "2025-07-18 15:19:21",
     "type": "ground",
     "url": "/pledge/ships/mirai-pulse/Pulse",
     "code": "pulse",
@@ -23586,7 +23416,6 @@
     }
   },
   {
-    "afterburner_speed": 600,
     "beam": 0.9,
     "cargocapacity": 0,
     "chassis_id": 112,
@@ -23604,7 +23433,7 @@
     "production_status": "flight-ready",
     "scm_speed": 218,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-01-13 21:58:41",
+    "time_modified_unfiltered": "2025-07-18 15:19:21",
     "type": "ground",
     "url": "/pledge/ships/mirai-pulse/Pulse-LX",
     "code": "pulse-lx",
@@ -23656,7 +23485,6 @@
     }
   },
   {
-    "afterburner_speed": 895,
     "beam": 8.5,
     "cargocapacity": 16,
     "chassis_id": 43,
@@ -23674,7 +23502,7 @@
     "production_status": "flight-ready",
     "scm_speed": 175,
     "size": "snub",
-    "time_modified_unfiltered": "2025-05-27 19:55:09",
+    "time_modified_unfiltered": "2025-07-18 15:19:24",
     "type": "transport",
     "url": "/pledge/ships/argo/MPUV-Tractor",
     "code": "mpuv-tractor",
@@ -23778,7 +23606,7 @@
     "production_status": "flight-ready",
     "scm_speed": 29,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-05-27 19:55:07",
+    "time_modified_unfiltered": "2025-07-18 15:19:20",
     "type": "ground",
     "url": "/pledge/ships/ursa/Ursa-Medivac",
     "code": "ursa-medivac",
@@ -23854,7 +23682,6 @@
     }
   },
   {
-    "afterburner_speed": 1400,
     "beam": 30,
     "cargocapacity": 0,
     "chassis_id": 35,
@@ -23872,7 +23699,7 @@
     "production_status": "flight-ready",
     "scm_speed": 240,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:10",
+    "time_modified_unfiltered": "2025-07-18 15:19:24",
     "type": "combat",
     "url": "/pledge/ships/sabre/Sabre-Firebird",
     "code": "sabre-firebird",
@@ -23960,7 +23787,6 @@
     }
   },
   {
-    "afterburner_speed": 1146,
     "beam": 21,
     "cargocapacity": 0,
     "chassis_id": 3,
@@ -23980,7 +23806,7 @@
     "roll_max": 0,
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 21:57:18",
+    "time_modified_unfiltered": "2025-07-18 15:19:23",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet/F7A-Hornet-Mk-I",
     "xaxis_acceleration": 0,
@@ -24109,7 +23935,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2024-05-29 13:07:22",
+    "time_modified_unfiltered": "2025-07-18 15:19:21",
     "type": "transport",
     "url": "/pledge/ships/ironclad/Ironclad",
     "code": "ironclad",
@@ -24257,7 +24083,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "large",
-    "time_modified_unfiltered": "2024-07-16 18:11:33",
+    "time_modified_unfiltered": "2025-07-18 15:19:20",
     "type": "combat",
     "url": "/pledge/ships/ironclad/Ironclad-Assault",
     "code": "ironclad-assault",
@@ -24389,7 +24215,6 @@
     }
   },
   {
-    "afterburner_speed": 1448,
     "beam": 24,
     "cargocapacity": 0,
     "chassis_id": 35,
@@ -24407,7 +24232,7 @@
     "production_status": "flight-ready",
     "scm_speed": 267,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 21:59:32",
+    "time_modified_unfiltered": "2025-07-18 15:19:19",
     "type": "competition",
     "url": "/pledge/ships/sabre/Sabre-Peregrine",
     "code": "sabre-peregrine",
@@ -24498,7 +24323,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "scm_speed": 2,
-    "time_modified_unfiltered": "2025-04-10 18:58:11",
+    "time_modified_unfiltered": "2025-07-18 15:19:18",
     "type": "ground",
     "url": "/pledge/ships/atls/ATLS",
     "code": "atls",
@@ -24555,7 +24380,7 @@
     "production_status": "flight-ready",
     "scm_speed": 115,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:55:05",
+    "time_modified_unfiltered": "2025-07-18 15:19:17",
     "type": "combat",
     "url": "/pledge/ships/starlancer/Starlancer-TAC",
     "code": "starlancer-tac",
@@ -24688,7 +24513,6 @@
     }
   },
   {
-    "afterburner_speed": 950,
     "beam": 52,
     "cargocapacity": 224,
     "chassis_id": 116,
@@ -24705,7 +24529,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "scm_speed": 115,
-    "time_modified_unfiltered": "2025-06-17 16:46:01",
+    "time_modified_unfiltered": "2025-07-18 15:19:18",
     "type": "transport",
     "url": "/pledge/ships/starlancer/Starlancer-MAX",
     "code": "starlancer-max",
@@ -24821,7 +24645,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-01-13 22:01:56",
+    "time_modified_unfiltered": "2025-07-18 15:19:16",
     "type": "ground",
     "url": "/pledge/ships/csv/CSV-SM",
     "code": "csv-sm",
@@ -24885,7 +24709,6 @@
     }
   },
   {
-    "afterburner_speed": 1225,
     "beam": 20.3,
     "cargocapacity": 8,
     "chassis_id": 117,
@@ -24903,7 +24726,7 @@
     "production_status": "flight-ready",
     "scm_speed": 227,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-13 22:01:41",
+    "time_modified_unfiltered": "2025-07-18 15:19:17",
     "type": "transport",
     "url": "/pledge/ships/intrepid/Intrepid",
     "code": "intrepid",
@@ -24912,9 +24735,9 @@
       "name": "Crusader Industries"
     },
     "media": {
-      "avatar": "https://media.robertsspaceindustries.com/vg0f406kxwyja/avatar.jpg",
-      "logo": "https://media.robertsspaceindustries.com/vg0f406kxwyja/logo.jpg",
-      "cover": "https://media.robertsspaceindustries.com/vg0f406kxwyja/cover.jpg"
+      "avatar": "https://media.robertsspaceindustries.com/9xtm6eh8sffuy/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/9xtm6eh8sffuy/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/9xtm6eh8sffuy/cover.jpg"
     },
     "components": {
       "weapons": {
@@ -25000,14 +24823,14 @@
     "id": 215,
     "length": 32.2,
     "manufacturer_id": 17,
-    "mass": 14690,
+    "mass": 1500,
     "max_crew": 2,
     "min_crew": 1,
     "name": "PTV",
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-04-29 15:25:29",
+    "time_modified_unfiltered": "2025-07-18 15:19:47",
     "type": "ground",
     "url": "/pledge/ships/ptv/PTV",
     "code": "ptv",
@@ -25059,7 +24882,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 16.7,
     "cargocapacity": 0,
     "chassis_id": 44,
@@ -25077,7 +24899,7 @@
     "production_status": "flight-ready",
     "scm_speed": 200,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:04",
+    "time_modified_unfiltered": "2025-07-18 15:19:14",
     "type": "support",
     "url": "/pledge/ships/terrapin/Terrapin-Medic",
     "code": "terrapin-medic",
@@ -25153,7 +24975,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 15,
     "cargocapacity": 0,
     "chassis_id": 111,
@@ -25171,7 +24992,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:04",
+    "time_modified_unfiltered": "2025-07-18 15:19:15",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet-mkii/F7C-R-Hornet-Tracker-Mk-II",
     "code": "f7c-r-hornet-tracker-mk-ii",
@@ -25271,7 +25092,6 @@
     }
   },
   {
-    "afterburner_speed": 1150,
     "beam": 15,
     "cargocapacity": 0,
     "chassis_id": 111,
@@ -25289,7 +25109,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:03",
+    "time_modified_unfiltered": "2025-07-18 15:19:14",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet-mkii/F7C-S-Hornet-Ghost-Mk-II",
     "code": "f7c-s-hornet-ghost-mk-ii",
@@ -25392,7 +25212,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-22 20:52:32",
+    "time_modified_unfiltered": "2025-07-18 15:19:16",
     "type": "combat",
     "url": "/pledge/ships/paladin/Paladin",
     "code": "paladin",
@@ -25491,7 +25311,6 @@
     }
   },
   {
-    "afterburner_speed": 1125,
     "beam": 16.5,
     "cargocapacity": 0,
     "chassis_id": 120,
@@ -25509,7 +25328,7 @@
     "production_status": "flight-ready",
     "scm_speed": 213,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:02",
+    "time_modified_unfiltered": "2025-07-18 15:19:13",
     "type": "combat",
     "url": "/pledge/ships/guardian/Guardian",
     "code": "guardian",
@@ -25597,7 +25416,6 @@
     }
   },
   {
-    "afterburner_speed": 1100,
     "beam": 16.5,
     "cargocapacity": 0,
     "chassis_id": 120,
@@ -25615,7 +25433,7 @@
     "production_status": "flight-ready",
     "scm_speed": 210,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:01",
+    "time_modified_unfiltered": "2025-07-18 15:19:13",
     "type": "combat",
     "url": "/pledge/ships/guardian/Guardian-QI",
     "code": "guardian-qi",
@@ -25732,7 +25550,7 @@
     "production_status": "flight-ready",
     "scm_speed": 143,
     "size": "small",
-    "time_modified_unfiltered": "2025-01-29 01:15:08",
+    "time_modified_unfiltered": "2025-07-18 15:19:12",
     "type": "industrial",
     "url": "/pledge/ships/fortune/Fortune",
     "code": "fortune",
@@ -25837,7 +25655,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:55:00",
+    "time_modified_unfiltered": "2025-07-18 15:19:11",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet-mkii/F7C-M-Super-Hornet-Mk-II",
     "code": "f7c-m-super-hornet-mk-ii",
@@ -25965,7 +25783,7 @@
     "production_status": "flight-ready",
     "scm_speed": 202,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:54:59",
+    "time_modified_unfiltered": "2025-07-18 15:19:11",
     "type": "industrial",
     "url": "/pledge/ships/golem/Golem",
     "code": "golem",
@@ -26082,7 +25900,7 @@
     "production_status": "flight-ready",
     "scm_speed": 2,
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-06-10 19:33:45",
+    "time_modified_unfiltered": "2025-07-18 15:19:10",
     "type": "ground",
     "url": "/pledge/ships/atls/ATLS-GEO",
     "code": "atls-geo",
@@ -26138,7 +25956,7 @@
     "price": 0,
     "production_status": "flight-ready",
     "size": "vehicle",
-    "time_modified_unfiltered": "2025-06-12 18:56:48",
+    "time_modified_unfiltered": "2025-07-18 15:19:10",
     "type": "ground",
     "url": "/pledge/ships/mtc/MTC",
     "code": "mtc",
@@ -26231,7 +26049,7 @@
     "production_status": "flight-ready",
     "scm_speed": 208,
     "size": "small",
-    "time_modified_unfiltered": "2025-05-27 19:54:57",
+    "time_modified_unfiltered": "2025-07-18 15:19:10",
     "type": "combat",
     "url": "/pledge/ships/guardian/Guardian-MX",
     "code": "guardian-mx",
@@ -26347,7 +26165,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "medium",
-    "time_modified_unfiltered": "2025-05-27 19:54:57",
+    "time_modified_unfiltered": "2025-07-18 15:19:09",
     "type": "combat",
     "url": "/pledge/ships/anvil-asgard/Asgard",
     "code": "asgard",
@@ -26475,7 +26293,7 @@
     "production_status": "flight-ready",
     "scm_speed": 208,
     "size": "medium",
-    "time_modified_unfiltered": "2025-06-17 15:49:04",
+    "time_modified_unfiltered": "2025-07-18 15:19:08",
     "type": "transport",
     "url": "/pledge/ships/prowler/Prowler-Utility",
     "code": "prowler-utility",
@@ -26568,6 +26386,132 @@
             "name": "Shield Generator",
             "quantity": "1",
             "size": "M",
+            "type": "shield_generators"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "beam": 17,
+    "chassis_id": 125,
+    "description": "A medium fighter from famed shipbuilder RSI providing a devastating mix of speed and firepower wrapped in the aggressive styling the brand is known for.",
+    "focus": "Medium Fighter",
+    "height": 8,
+    "id": 301,
+    "length": 30,
+    "manufacturer_id": 1,
+    "mass": 250240,
+    "max_crew": 1,
+    "min_crew": 1,
+    "name": "Meteor",
+    "price": 0,
+    "production_status": "flight-ready",
+    "scm_speed": 229,
+    "size": "small",
+    "time_modified_unfiltered": "2025-07-18 15:21:21",
+    "type": "combat",
+    "url": "/pledge/ships/rsi-meteor/Meteor",
+    "code": "meteor",
+    "manufacturer": {
+      "code": "RSI",
+      "name": "Roberts Space Industries"
+    },
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/y0r5156e7qcf7/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/y0r5156e7qcf7/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/y0r5156e7qcf7/cover.jpg"
+    },
+    "components": {
+      "weapons": {
+        "missiles": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "-",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "4",
+            "name": "S4 Missile",
+            "quantity": "1",
+            "size": "4",
+            "type": "missiles"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "2",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S2 Missiles",
+            "quantity": "2",
+            "size": "3",
+            "type": "missiles"
+          }
+        ],
+        "turrets": [],
+        "utility_items": [],
+        "weapons": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "5",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S5 Weapon",
+            "quantity": "1",
+            "size": "5",
+            "type": "weapons"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "3",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "4",
+            "name": "S3 Weapon",
+            "quantity": "1",
+            "size": "3",
+            "type": "weapons"
+          }
+        ]
+      },
+      "modular": {
+        "coolers": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Cooler",
+            "quantity": "1",
+            "size": "S",
+            "type": "coolers"
+          }
+        ],
+        "power_plants": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "1",
+            "name": "Power Plant",
+            "quantity": "1",
+            "size": "S",
+            "type": "power_plants"
+          }
+        ],
+        "shield_generators": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Shield Generator",
+            "quantity": "1",
+            "size": "S",
             "type": "shield_generators"
           }
         ]
