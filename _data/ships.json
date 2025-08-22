@@ -1711,10 +1711,10 @@
     "min_crew": 1,
     "name": "F7A Hornet Mk II",
     "price": 0,
-    "production_status": "in-concept",
+    "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:21:08",
+    "time_modified_unfiltered": "2025-08-11 19:55:52",
     "type": "combat",
     "url": "/pledge/ships/anvil-hornet-mkii/F7A-Hornet-Mk-II",
     "code": "f7a-hornet-mk-ii",
@@ -11005,7 +11005,7 @@
     "beam": 8.2,
     "cargocapacity": 0,
     "chassis_id": 48,
-    "description": "MRAI makes a bid for the next Murray Cup with the all-new Razor. This advanced racer features an advanced composite spaceframe that puts pure speed ahead of everything else... it's the ship for pilots who want to leave the competition in the dust.",
+    "description": "MIRAI makes a bid for the next Murray Cup with the all-new Razor. This advanced racer features an advanced composite spaceframe that puts pure speed ahead of everything else... it's the ship for pilots who want to leave the competition in the dust.",
     "focus": "Racing",
     "height": 2.7,
     "id": 126,
@@ -11019,7 +11019,7 @@
     "production_status": "flight-ready",
     "scm_speed": 280,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:20:32",
+    "time_modified_unfiltered": "2025-08-15 13:14:11",
     "type": "competition",
     "url": "/pledge/ships/razor/Razor",
     "code": "razor",
@@ -14251,7 +14251,7 @@
     "production_status": "in-concept",
     "scm_speed": 205,
     "size": "large",
-    "time_modified_unfiltered": "2025-07-18 15:20:13",
+    "time_modified_unfiltered": "2025-08-21 15:39:36",
     "type": "support",
     "url": "/pledge/ships/rsi-apollo/Apollo-Triage",
     "code": "apollo-triage",
@@ -14343,7 +14343,7 @@
     "production_status": "in-concept",
     "scm_speed": 195,
     "size": "large",
-    "time_modified_unfiltered": "2025-07-18 15:20:14",
+    "time_modified_unfiltered": "2025-08-21 15:40:07",
     "type": "support",
     "url": "/pledge/ships/rsi-apollo/Apollo-Medivac",
     "code": "apollo-medivac",
@@ -15266,7 +15266,7 @@
     "production_status": "flight-ready",
     "scm_speed": 190,
     "size": "large",
-    "time_modified_unfiltered": "2025-07-18 15:20:06",
+    "time_modified_unfiltered": "2025-08-15 17:06:18",
     "type": "exploration",
     "url": "/pledge/ships/drake-corsair/Corsair",
     "code": "corsair",
@@ -26165,7 +26165,7 @@
     "production_status": "flight-ready",
     "scm_speed": 207,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:19:09",
+    "time_modified_unfiltered": "2025-08-06 14:13:36",
     "type": "combat",
     "url": "/pledge/ships/anvil-asgard/Asgard",
     "code": "asgard",
@@ -26279,7 +26279,7 @@
     "beam": 32,
     "cargocapacity": 32,
     "chassis_id": 46,
-    "description": "The Prowler Utility arrives with Star Citizen: Alpha 4.2. Like the original Prowler, the Utility embraces the alien design of the infamous Tevarin ship entrusted to Esperia decades ago. However, its 32-SCU cargo hold and integrated tractor beam make this variant as practical for hauling as it is visually striking. ",
+    "description": "The Prowler Utility: Like the original Prowler, the Utility embraces the alien design of the infamous Tevarin ship entrusted to Esperia decades ago. However, its 32-SCU cargo hold and integrated tractor beam make this variant as practical for hauling as it is visually striking. ",
     "focus": "Cargo",
     "height": 15,
     "id": 300,
@@ -26293,7 +26293,7 @@
     "production_status": "flight-ready",
     "scm_speed": 208,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:19:08",
+    "time_modified_unfiltered": "2025-08-15 14:52:07",
     "type": "transport",
     "url": "/pledge/ships/prowler/Prowler-Utility",
     "code": "prowler-utility",
@@ -26471,6 +26471,110 @@
             "name": "S3 Weapon",
             "quantity": "1",
             "size": "3",
+            "type": "weapons"
+          }
+        ]
+      },
+      "modular": {
+        "coolers": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Cooler",
+            "quantity": "1",
+            "size": "S",
+            "type": "coolers"
+          }
+        ],
+        "power_plants": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "1",
+            "name": "Power Plant",
+            "quantity": "1",
+            "size": "S",
+            "type": "power_plants"
+          }
+        ],
+        "shield_generators": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Shield Generator",
+            "quantity": "1",
+            "size": "S",
+            "type": "shield_generators"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "beam": 10.5,
+    "chassis_id": 126,
+    "description": "A combat ship prioritizing quality and agility in a timeless design that encompasses Kruger Intergalactic’s core tenet - Perfection in Every Piece.",
+    "focus": "Light Fighter",
+    "height": 4.2,
+    "id": 302,
+    "length": 21.5,
+    "manufacturer_id": 19,
+    "mass": 37500,
+    "max_crew": 1,
+    "min_crew": 1,
+    "name": "L-21 Wolf",
+    "price": 0,
+    "production_status": "flight-ready",
+    "scm_speed": 230,
+    "size": "small",
+    "time_modified_unfiltered": "2025-08-14 16:31:53",
+    "type": "combat",
+    "url": "/pledge/ships/wolf/L-21-Wolf",
+    "code": "l-21-wolf",
+    "manufacturer": {
+      "code": "KRIG",
+      "name": "Kruger Intergalactic"
+    },
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/eq3u8zmal8k32/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/eq3u8zmal8k32/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/eq3u8zmal8k32/cover.jpg"
+    },
+    "components": {
+      "weapons": {
+        "missiles": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "1",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "8",
+            "name": "S1 Missiles",
+            "quantity": "1",
+            "size": "1",
+            "type": "missiles"
+          }
+        ],
+        "turrets": [],
+        "utility_items": [],
+        "weapons": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "4",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S4 Weapon",
+            "quantity": "1",
+            "size": "4",
             "type": "weapons"
           }
         ]
