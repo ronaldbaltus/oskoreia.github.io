@@ -3222,7 +3222,7 @@
     "production_status": "flight-ready",
     "scm_speed": 212,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:21:02",
+    "time_modified_unfiltered": "2025-10-16 16:29:31",
     "type": "support",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Red",
     "code": "cutlass-red",
@@ -3327,7 +3327,7 @@
     "production_status": "flight-ready",
     "scm_speed": 220,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:21:01",
+    "time_modified_unfiltered": "2025-10-16 13:47:02",
     "type": "combat",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Blue",
     "code": "cutlass-blue",
@@ -3919,7 +3919,7 @@
     "production_status": "flight-ready",
     "scm_speed": 210,
     "size": "small",
-    "time_modified_unfiltered": "2025-08-29 15:11:10",
+    "time_modified_unfiltered": "2025-10-16 14:22:33",
     "type": "combat",
     "url": "/pledge/ships/anvil-gladiator/Gladiator",
     "code": "gladiator",
@@ -4408,7 +4408,7 @@
     "production_status": "flight-ready",
     "scm_speed": 130,
     "size": "large",
-    "time_modified_unfiltered": "2025-07-18 15:21:14",
+    "time_modified_unfiltered": "2025-10-16 13:46:17",
     "type": "transport",
     "url": "/pledge/ships/drake-caterpillar/Caterpillar",
     "code": "caterpillar",
@@ -5121,7 +5121,7 @@
             "details": "",
             "manufacturer": null,
             "mounts": "11",
-            "name": "Automated PDC",
+            "name": "Automated PDS",
             "quantity": "1",
             "size": "1",
             "type": "turrets"
@@ -5260,7 +5260,7 @@
             "details": "",
             "manufacturer": null,
             "mounts": "6",
-            "name": "Automated PDC",
+            "name": "Automated PDS",
             "quantity": "1",
             "size": "1",
             "type": "turrets"
@@ -6712,7 +6712,7 @@
             "details": "",
             "manufacturer": null,
             "mounts": "7",
-            "name": "Automated PDC",
+            "name": "Automated PDS",
             "quantity": "1",
             "size": "1",
             "type": "turrets"
@@ -10739,7 +10739,7 @@
             "details": "",
             "manufacturer": null,
             "mounts": "7",
-            "name": "Automated PDC",
+            "name": "Automated PDS",
             "quantity": "1",
             "size": "1",
             "type": "turrets"
@@ -13019,7 +13019,7 @@
     "production_status": "flight-ready",
     "scm_speed": 222,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:20:21",
+    "time_modified_unfiltered": "2025-10-16 14:22:44",
     "type": "combat",
     "url": "/pledge/ships/hawk/Hawk",
     "code": "hawk",
@@ -13472,7 +13472,7 @@
     "production_status": "flight-ready",
     "scm_speed": 260,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:20:17",
+    "time_modified_unfiltered": "2025-10-06 19:23:40",
     "type": "multi",
     "url": "/pledge/ships/origin-100/100i",
     "code": "100i",
@@ -14864,7 +14864,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "capital",
-    "time_modified_unfiltered": "2025-07-18 15:20:11",
+    "time_modified_unfiltered": "2025-10-16 13:48:18",
     "type": "industrial",
     "url": "/pledge/ships/drake-kraken/Kraken",
     "code": "kraken",
@@ -16357,7 +16357,7 @@
     "production_status": "flight-ready",
     "scm_speed": 236,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:19:59",
+    "time_modified_unfiltered": "2025-10-01 18:57:14",
     "type": "combat",
     "url": "/pledge/ships/rsi-mantis/Mantis",
     "code": "mantis",
@@ -19319,7 +19319,7 @@
     "price": 0,
     "production_status": "in-concept",
     "size": "medium",
-    "time_modified_unfiltered": "2025-09-05 15:16:36",
+    "time_modified_unfiltered": "2025-10-22 13:58:25",
     "type": "transport",
     "url": "/pledge/ships/railen/Railen",
     "code": "railen",
@@ -19702,7 +19702,7 @@
     "production_status": "flight-ready",
     "scm_speed": 140,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:19:41",
+    "time_modified_unfiltered": "2025-10-22 21:27:25",
     "type": "transport",
     "url": "/pledge/ships/raft/RAFT",
     "code": "raft",
@@ -20040,7 +20040,7 @@
     "roll_max": 0,
     "scm_speed": 200,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:19:40",
+    "time_modified_unfiltered": "2025-10-16 13:47:20",
     "type": "combat",
     "url": "/pledge/ships/drake-cutlass/Cutlass-Steel",
     "xaxis_acceleration": 0,
@@ -24424,7 +24424,7 @@
     "production_status": "flight-ready",
     "scm_speed": 115,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:19:17",
+    "time_modified_unfiltered": "2025-10-21 15:38:34",
     "type": "combat",
     "url": "/pledge/ships/starlancer/Starlancer-TAC",
     "code": "starlancer-tac",
@@ -24574,7 +24574,7 @@
     "production_status": "flight-ready",
     "scm_speed": 115,
     "size": "medium",
-    "time_modified_unfiltered": "2025-09-05 15:17:18",
+    "time_modified_unfiltered": "2025-10-21 15:38:31",
     "type": "transport",
     "url": "/pledge/ships/starlancer/Starlancer-MAX",
     "code": "starlancer-max",
@@ -25242,22 +25242,24 @@
     }
   },
   {
-    "beam": 38.5,
-    "cargocapacity": 0,
+    "beam": 37.5,
+    "cargocapacity": 4,
     "chassis_id": 119,
-    "description": "Heavy gunship equipped to take down huge targets.",
+    "description": "A formidable gunship with durable armor and immense firepower. Capable of hitting multiple targets simultaneously, the missiles, side turrets, and moveable central turret provide almost complete coverage as you lead the charge against enemies of the Empire.",
     "focus": "Gunship",
-    "height": 14.5,
+    "height": 13.6,
     "id": 282,
     "length": 53,
     "manufacturer_id": 3,
+    "mass": 545800,
     "max_crew": 4,
     "min_crew": 1,
     "name": "Paladin",
     "price": 0,
-    "production_status": "in-concept",
+    "production_status": "flight-ready",
+    "scm_speed": 175,
     "size": "medium",
-    "time_modified_unfiltered": "2025-07-18 15:19:16",
+    "time_modified_unfiltered": "2025-10-11 20:05:03",
     "type": "combat",
     "url": "/pledge/ships/paladin/Paladin",
     "code": "paladin",
@@ -25266,9 +25268,9 @@
       "name": "Anvil Aerospace"
     },
     "media": {
-      "avatar": "https://media.robertsspaceindustries.com/7dbgpx4iv3dut/avatar.jpg",
-      "logo": "https://media.robertsspaceindustries.com/7dbgpx4iv3dut/logo.jpg",
-      "cover": "https://media.robertsspaceindustries.com/7dbgpx4iv3dut/cover.jpg"
+      "avatar": "https://media.robertsspaceindustries.com/5hz1jf9dkrfhc/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/5hz1jf9dkrfhc/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/5hz1jf9dkrfhc/cover.jpg"
     },
     "components": {
       "weapons": {
@@ -25278,10 +25280,21 @@
             "component_size": "-",
             "details": "",
             "manufacturer": null,
-            "mounts": "1",
+            "mounts": "2",
             "name": "S4 Missile",
-            "quantity": "6",
+            "quantity": "1",
             "size": "4",
+            "type": "missiles"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "3",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "4",
+            "name": "S3 Missiles",
+            "quantity": "2",
+            "size": "3",
             "type": "missiles"
           }
         ],
@@ -25332,7 +25345,7 @@
             "component_size": "M",
             "details": "",
             "manufacturer": "TBD",
-            "mounts": "2",
+            "mounts": "3",
             "name": "Power Plant",
             "quantity": "1",
             "size": "M",
@@ -25373,7 +25386,7 @@
     "production_status": "flight-ready",
     "scm_speed": 213,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:19:13",
+    "time_modified_unfiltered": "2025-11-06 15:40:00",
     "type": "combat",
     "url": "/pledge/ships/guardian/Guardian",
     "code": "guardian",
@@ -25478,7 +25491,7 @@
     "production_status": "flight-ready",
     "scm_speed": 210,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:19:13",
+    "time_modified_unfiltered": "2025-10-15 14:51:13",
     "type": "combat",
     "url": "/pledge/ships/guardian/Guardian-QI",
     "code": "guardian-qi",
@@ -26094,7 +26107,7 @@
     "production_status": "flight-ready",
     "scm_speed": 208,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:19:10",
+    "time_modified_unfiltered": "2025-10-15 14:51:22",
     "type": "combat",
     "url": "/pledge/ships/guardian/Guardian-MX",
     "code": "guardian-mx",
@@ -26454,7 +26467,7 @@
     "production_status": "flight-ready",
     "scm_speed": 229,
     "size": "small",
-    "time_modified_unfiltered": "2025-07-18 15:21:21",
+    "time_modified_unfiltered": "2025-10-30 21:01:31",
     "type": "combat",
     "url": "/pledge/ships/rsi-meteor/Meteor",
     "code": "meteor",
@@ -26661,6 +26674,259 @@
             "name": "Shield Generator",
             "quantity": "1",
             "size": "S",
+            "type": "shield_generators"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "beam": 35,
+    "chassis_id": 127,
+    "description": "A closely replicated Vanduul ship, reworked for Human flight. As Esperia’s first Heavy Fighter, the Stinger prioritizes strong armor to sustain prolonged barrages while readying its attack.",
+    "focus": "Heavy Fighter",
+    "height": 10,
+    "id": 303,
+    "length": 32,
+    "manufacturer_id": 69,
+    "mass": 261620,
+    "max_crew": 1,
+    "name": "Stinger",
+    "price": 0,
+    "production_status": "flight-ready",
+    "scm_speed": 207,
+    "size": "medium",
+    "time_modified_unfiltered": "2025-10-11 20:10:35",
+    "type": "combat",
+    "url": "/pledge/ships/stinger/Stinger",
+    "code": "stinger",
+    "manufacturer": {
+      "code": "ESPR",
+      "name": "Esperia"
+    },
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/90r0njd8ob87b/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/90r0njd8ob87b/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/90r0njd8ob87b/cover.jpg"
+    },
+    "components": {
+      "weapons": {
+        "missiles": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "2",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S2 Missiles",
+            "quantity": "8",
+            "size": "2",
+            "type": "missiles"
+          }
+        ],
+        "turrets": [],
+        "utility_items": [],
+        "weapons": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "5",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "1",
+            "name": "S5 Weapon",
+            "quantity": "1",
+            "size": "5",
+            "type": "weapons"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "4",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "4",
+            "name": "S4 Weapon",
+            "quantity": "1",
+            "size": "4",
+            "type": "weapons"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "2",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S2 Weapon",
+            "quantity": "1",
+            "size": "2",
+            "type": "weapons"
+          }
+        ]
+      },
+      "modular": {
+        "coolers": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "3",
+            "name": "Cooler",
+            "quantity": "1",
+            "size": "S",
+            "type": "coolers"
+          }
+        ],
+        "power_plants": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "S",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Power Plant",
+            "quantity": "1",
+            "size": "S",
+            "type": "power_plants"
+          }
+        ],
+        "shield_generators": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "M",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Shield Generator",
+            "quantity": "1",
+            "size": "M",
+            "type": "shield_generators"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "beam": 28,
+    "cargocapacity": 32,
+    "chassis_id": 128,
+    "description": "Don't ask how we got it, don't ask where it came from, just ask, \"Do you want it?\"",
+    "focus": "Heavy Fighter",
+    "height": 14,
+    "id": 304,
+    "length": 36,
+    "manufacturer_id": 97,
+    "mass": 219400,
+    "max_crew": 2,
+    "min_crew": 1,
+    "name": "Shiv",
+    "price": 0,
+    "production_status": "flight-ready",
+    "scm_speed": 219,
+    "size": "small",
+    "time_modified_unfiltered": "2025-10-15 20:12:48",
+    "type": "combat",
+    "url": "/pledge/ships/shiv/Shiv",
+    "code": "shiv",
+    "manufacturer": {
+      "code": "GREY",
+      "name": "Grey's Market"
+    },
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/wzn84c0qyz4ib/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/wzn84c0qyz4ib/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/wzn84c0qyz4ib/cover.jpg"
+    },
+    "components": {
+      "weapons": {
+        "missiles": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "3",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "4",
+            "name": "S3 Missiles",
+            "quantity": "2",
+            "size": "3",
+            "type": "missiles"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "2",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S2 Missiles",
+            "quantity": "4",
+            "size": "2",
+            "type": "missiles"
+          }
+        ],
+        "turrets": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "3",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "1",
+            "name": "S3 Weapon",
+            "quantity": "4",
+            "size": "3",
+            "type": "turrets"
+          }
+        ],
+        "utility_items": [],
+        "weapons": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "4",
+            "details": "",
+            "manufacturer": null,
+            "mounts": "2",
+            "name": "S4 Weapon",
+            "quantity": "1",
+            "size": "4",
+            "type": "weapons"
+          }
+        ]
+      },
+      "modular": {
+        "coolers": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "M",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "2",
+            "name": "Cooler",
+            "quantity": "1",
+            "size": "M",
+            "type": "coolers"
+          }
+        ],
+        "power_plants": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "M",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "1",
+            "name": "Power Plant",
+            "quantity": "1",
+            "size": "M",
+            "type": "power_plants"
+          }
+        ],
+        "shield_generators": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "M",
+            "details": "",
+            "manufacturer": "TBD",
+            "mounts": "1",
+            "name": "Shield Generator",
+            "quantity": "1",
+            "size": "M",
             "type": "shield_generators"
           }
         ]
