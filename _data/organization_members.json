@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "display": "Hamburgalerswag",
+      "handle": "Hamburgalerswag",
+      "image": "https://cdn.robertsspaceindustries.com/static/images/account/avatar_default_big.jpg",
+      "rank": "Ensign",
+      "roles": [],
+      "stars": 0
+    },
+    {
       "display": "Johnnyboi90",
       "handle": "Johnnyboi90",
       "image": "https://cdn.robertsspaceindustries.com/static/images/account/avatar_default_big.jpg",
@@ -283,16 +291,6 @@
       "rank": "Admiral",
       "roles": [],
       "stars": 4
-    },
-    {
-      "display": "TooxRaw",
-      "handle": "TooxRaw",
-      "image": "https://cdn.robertsspaceindustries.com/static/images/account/avatar_default_big.jpg",
-      "rank": "Corporal",
-      "roles": [
-        "Recruiter"
-      ],
-      "stars": 1
     }
   ],
   "message": "ok",
