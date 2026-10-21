@@ -3647,7 +3647,7 @@
     "roll_max": 95,
     "scm_speed": 195,
     "size": "Medium",
-    "time_modified_unfiltered": "2025-12-03 22:18:32",
+    "time_modified_unfiltered": "2026-08-26 19:01:23",
     "type": "Transporter",
     "url": "/pledge/ships/misc-freelancer/Freelancer-MAX",
     "yaw_max": 30,
@@ -9324,7 +9324,7 @@
     "roll_max": 90,
     "scm_speed": 145,
     "size": "Large",
-    "time_modified_unfiltered": "2026-04-08 18:30:26",
+    "time_modified_unfiltered": "2026-08-26 19:01:48",
     "type": "Transporter",
     "url": "/pledge/ships/hull/Hull-B",
     "yaw_max": 33,
@@ -36194,6 +36194,170 @@
             "loadout": null,
             "manufacturer": null,
             "mounts": 1,
+            "name": "WEB",
+            "quantity": 1,
+            "size": "1",
+            "type": "shield_generators"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "afterburner_speed": 1200,
+    "beam": 26.8,
+    "cargocapacity": 0,
+    "chassis_id": 143,
+    "description": "Kruger’s first medium fighter combines its signature sophisticated style with a transforming silhouette. The Stingray cycles between Landed, Flight, and the advantageous Combat mode, which reduces its cross-section to make you a smaller target as you maneuver through the field of engagement.",
+    "focus": "Medium Fighter",
+    "height": 4.39,
+    "id": 322,
+    "length": 24.5,
+    "manufacturer_id": 19,
+    "mass": 40870,
+    "max_crew": 1,
+    "min_crew": 1,
+    "name": "S-65 Stingray",
+    "pitch_max": 55,
+    "price": 0,
+    "production_status": "flight-ready",
+    "roll_max": 185,
+    "scm_speed": 218,
+    "size": "Small",
+    "time_modified_unfiltered": "2026-08-26 18:35:36",
+    "type": "Combat",
+    "url": "/pledge/ships/s-65-stingray/S-65-Stingray",
+    "yaw_max": 42,
+    "code": "s-65-stingray",
+    "manufacturer": {
+      "code": "KRIG",
+      "name": "Kruger Intergalactic"
+    },
+    "media": {
+      "avatar": "https://media.robertsspaceindustries.com/0qo64m8r93b1h/avatar.jpg",
+      "logo": "https://media.robertsspaceindustries.com/0qo64m8r93b1h/logo.jpg",
+      "cover": "https://media.robertsspaceindustries.com/0qo64m8r93b1h/cover.jpg"
+    },
+    "components": {
+      "weapons": {
+        "missiles": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "",
+            "details": null,
+            "loadout": null,
+            "manufacturer": null,
+            "mounts": 1,
+            "name": "Kruger Stingray S4 Missile Rack - Left",
+            "quantity": 1,
+            "size": "4",
+            "type": "missiles"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "",
+            "details": null,
+            "loadout": null,
+            "manufacturer": null,
+            "mounts": 1,
+            "name": "Kruger Stingray S4 Missile Rack - Right",
+            "quantity": 1,
+            "size": "4",
+            "type": "missiles"
+          }
+        ],
+        "turrets": [],
+        "utility_items": [],
+        "weapons": [
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "",
+            "details": null,
+            "loadout": [
+              {
+                "count": 1,
+                "name": "STR-E2 Repeater",
+                "size": 2
+              }
+            ],
+            "manufacturer": null,
+            "mounts": 4,
+            "name": "STR-E2 Gimbal Mount",
+            "quantity": 1,
+            "size": "2",
+            "type": "weapons"
+          },
+          {
+            "component_class": "RSIWeapon",
+            "component_size": "",
+            "details": null,
+            "loadout": [
+              {
+                "count": 1,
+                "name": "Axiom L-22 Repeater",
+                "size": 4
+              }
+            ],
+            "manufacturer": null,
+            "mounts": 2,
+            "name": "VariPuck S4 Gimbal Mount",
+            "quantity": 1,
+            "size": "4",
+            "type": "weapons"
+          }
+        ]
+      },
+      "modular": {
+        "coolers": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "",
+            "details": null,
+            "loadout": null,
+            "manufacturer": null,
+            "mounts": 2,
+            "name": "Cryo-Star",
+            "quantity": 1,
+            "size": "1",
+            "type": "coolers"
+          }
+        ],
+        "life_support": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "",
+            "details": null,
+            "loadout": null,
+            "manufacturer": null,
+            "mounts": 1,
+            "name": "ComfortAir",
+            "quantity": 1,
+            "size": "1",
+            "type": "life_support"
+          }
+        ],
+        "power_plants": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "",
+            "details": null,
+            "loadout": null,
+            "manufacturer": null,
+            "mounts": 1,
+            "name": "LightBlossom",
+            "quantity": 1,
+            "size": "1",
+            "type": "power_plants"
+          }
+        ],
+        "shield_generators": [
+          {
+            "component_class": "RSIModular",
+            "component_size": "",
+            "details": null,
+            "loadout": null,
+            "manufacturer": null,
+            "mounts": 2,
             "name": "WEB",
             "quantity": 1,
             "size": "1",
